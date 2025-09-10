@@ -1,32 +1,11 @@
 {
-    "siteTitle": "My Project Title",
-    "siteDescription": "This is the description of my project title",
-    "author": "John Doe",
-    "faviconUrl": "/assets/myfavicon.png",
-    "blogTitle": "Blog",
-    "blogDescription": "Here is the description of the blog part",
+    "siteTitle": "Tag &amp; Tally",
+    "siteDescription": "Tag & Tally is a narrative-first tabletop RPG where every thing is defined by two things -- a sentence and a level. What's your line?",
+    "faviconUrl": "/assets/favicon.png",
+    "siteLogoUrl": "/assets/logo.png",
+    "siteLogoMaxHeight": 200,
     "productionUrl": "https://eleventy-libdoc.netlify.app",
-    "customLinks": [
-        {
-            "url": "/feed.xml",
-            "text": "Atom feed"
-        },
-        {
-            "url": "https://github.com/ita-design-system/eleventy-libdoc",
-            "text": "GitHub"
-        },
-        {
-            "url": "#",
-            "text": "Bluesky"
-        },
-        {
-            "url": "#",
-            "text": "LinkedIn"
-        },
-        {
-            "url": "#",
-            "text": "CodePen"
-        }
-    ],
-    "editThisPageRootUrl": "https://github.com/ita-design-system/eleventy-libdoc/blob/main"
+    "displayTagsListLink": true,
+    "tocEnabled": true,
+    "tocHtmlTags": ["h1", "h2", "h3"]
 }

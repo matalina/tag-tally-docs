@@ -1,0 +1,107 @@
+.svg-character {
+  content: '';
+  background-image: url('icons/character.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 45px;
+  width: 56px;
+}
+
+.svg-scene {
+  content: '';
+  background-image: url('icons/scene.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 45px;
+  width: 56px;
+}
+
+.svg-dragon {
+  content: '';
+  background-image: url('icons/dragon.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 40px;
+  width: 56px;
+}
+
+.svg-faction {
+  content: '';
+  background-image: url('icons/faction.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 45px;
+  width: 56px;
+}
+
+.svg-location {
+  content: '';
+  background-image: url('icons/location.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 45px;
+  width: 56px;
+}
+
+.svg-shield {
+  content: '';
+  background-image: url('icons/shield.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 45px;
+  width: 56px;
+}
+
+.svg-loot {
+  content: '';
+  background-image: url('icons/loot.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 45px;
+  width: 56px;
+}
+
+.svg-arc {
+  content: '';
+  background-image: url('icons/arc.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 45px;
+  width: 56px;
+}
+
+.svg-spell {
+  content: '';
+  background-image: url('icons/spell.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 45px;
+  width: 56px;
+}
+
+.svg-potion {
+  content: '';
+  background-image: url('icons/potion.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 45px;
+  width: 56px;
+}
+
+.svg-sword {
+  content: '';
+  background-image: url('icons/sword.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 40px;
+  width: 56px;
+}
+
+.svg-danger {
+  content: '';
+  background-image: url('icons/danger.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 45px;
+  width: 56px;
+}

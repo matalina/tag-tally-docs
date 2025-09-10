@@ -64,6 +64,7 @@
     <link rel="stylesheet" href="/core/assets/css/ds__dark_mode.css" media="(prefers-color-scheme: dark)" id="libdoc_dark_mode_css">
     <link rel="stylesheet" href="/core/assets/css/hljs/night-owl.css">
     <link rel="stylesheet" href="/core/assets/fonts/icomoon/style.css">
+    <link rel="stylesheet" href="/assets/style.css"/>
     <style>
         :root {
             --libdoc-image-background-color-light-mode: {{ libdocConfig.imgBgColorLightMode }};
@@ -175,7 +176,7 @@
                     gap-5="md"
                     bradtl-3="md"
                     bradtr-3="md">
-                    <li class="d-flex ai-center">
+                    <li class="d-flex ai-center jc-center">
                         {% if libdocConfig.siteLogoUrl != '' %}
                             <a  href="/"
                                 class="pl-5 pt-5 pr-5 | td-none fvs-wght-700 lsp-5 fs-8 tws-balance | c-neutral-900"
@@ -418,12 +419,15 @@
                         </a>
                     {% endif %}
                     <div class="w-100" d-none="sm,md"></div>
+                    <div class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap"><strong>Tag &amp; Tally</strong> © 2025 is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+                    </div>
                     <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" w-100="sm,md"></div>
-                    <a  href="https://github.com/ita-design-system/eleventy-libdoc"
+                    <div class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap">created&nbsp;with&nbsp;<a  href="https://github.com/ita-design-system/eleventy-libdoc"
                         target="_blank"
-                        class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap">
+                        class="">
                         11ty LibDoc {{ libdocUtils.version }}
                     </a>
+                    </div>
                 </nav>
             </footer>
         </main>

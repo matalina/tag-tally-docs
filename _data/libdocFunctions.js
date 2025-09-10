@@ -285,6 +285,37 @@ export default {
             }
             return markup;
         },
+        sentence: async function(mainText, description, iconName) {
+            let markup = '';
+            if (typeof mainText == 'string' && typeof description == 'string') {
+                let isAnIcon = false,
+                    finalIconName = iconName || 'check-circle';
+                if (typeof iconName == 'string') {
+                    icomoon.icons.forEach(function(iconData) {
+                        if (iconData.properties.name == iconName) {
+                            finalIconName = iconName;
+                            isAnIcon = true;
+                        }
+                    });
+                }
+                if (!isAnIcon && iconName !== undefined) {
+                    console.log(`seentence shortcode: ${iconName} is not a valid icon, default ${finalIconName} applied.`);
+                }
+                markup = `
+                    <aside class="widget widget-sentence">
+                        <p class="d-flex gap-5 | p-5 m-0 | brad-3 bwidth-1 bstyle-dashed bcolor-neutral-500">
+                            <span class="svg-${finalIconName} fs-10 | c-primary-500" fs-8="xs"></span>
+                            <span class="d-flex fd-column gap-1">
+                                <strong class="fvs-wght-700 fs-6">${mainText}</strong>
+                                <span>${description}</span>
+                            </span>
+                        </p>
+                    </aside>`;
+            } else {
+                console.log(`sentence shortcode content: "${content}" wrong format, must specify at least main text and description string fields.`);
+            }
+            return markup;
+        },
         embed: async function(src, height) {
             try {
                 const url = new URL(src);
