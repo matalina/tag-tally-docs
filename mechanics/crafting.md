@@ -10,6 +10,7 @@ eleventyNavigation:
   key: Crafting
   parent: Mechanics
   title: Crafting
+  order: 10
 ---
 
 ## Crafting

@@ -10,6 +10,7 @@ eleventyNavigation:
   key: Wealth
   parent: Mechanics
   title: Wealth
+  order: 8
 ---
 
 ## Wealth

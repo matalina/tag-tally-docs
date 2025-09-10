@@ -11,6 +11,7 @@ eleventyNavigation:
   key: Wounds
   parent: Mechanics
   title: Wounds
+  order: 5
 ---
 
 ## Wounds

@@ -11,6 +11,7 @@ eleventyNavigation:
   key: Spellcasting
   parent: Mechanics
   title: Spellcasting
+  order: 6
 ---
 
 ## Spellcasting

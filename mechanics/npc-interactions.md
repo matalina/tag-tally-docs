@@ -11,6 +11,7 @@ eleventyNavigation:
   key: NPC Interactions
   parent: Mechanics
   title: NPC Interactions
+  order: 7
 ---
 
 - A typical NPC will start at _indifferent_ when meeting an NPC.

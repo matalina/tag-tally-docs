@@ -10,6 +10,7 @@ eleventyNavigation:
   key: Combat
   parent: Mechanics
   title: Combat
+  order: 4
 ---
 
 ## Combat Mechanics

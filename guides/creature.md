@@ -1,7 +1,7 @@
 ---
 title: Creature Creation
 layout: libdoc_page.liquid
-permalink: how-to/creature/index.html
+permalink: guides/creature/index.html
 date: false
 tags:
   - how-to
@@ -9,6 +9,7 @@ tags:
   - mechanics
 eleventyNavigation:
   key: Creature Creation
-  parent: Mechanics
+  parent: Guides
   title: Creature Creation
+  order: 4
 ---

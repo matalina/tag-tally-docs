@@ -1,7 +1,7 @@
 ---
 title: Character Creation
 layout: libdoc_page.liquid
-permalink: how-to/character/index.html
+permalink: guides/character/index.html
 date: false
 tags:
   - how-to
@@ -9,8 +9,9 @@ tags:
   - mechanics
 eleventyNavigation:
   key: Character Creation
-  parent: Mechanics
+  parent: Guides
   title: Character Creation
+  order: 3
 ---
 
 ## Procedure

@@ -10,6 +10,7 @@ eleventyNavigation:
   key: Tags
   parent: Mechanics
   title: Tags
+  order: 3
 ---
 
 ## Tags

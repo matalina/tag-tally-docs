@@ -10,6 +10,7 @@ eleventyNavigation:
   key: Resolution
   parent: Mechanics
   title: Resolution
+  order: 2
 ---
 
 ## Basic Resolution

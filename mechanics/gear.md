@@ -10,6 +10,7 @@ eleventyNavigation:
   key: Gear
   parent: Mechanics
   title: Gear
+  order: 9
 ---
 
 ## Armor

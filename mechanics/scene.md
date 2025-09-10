@@ -10,6 +10,7 @@ eleventyNavigation:
   key: Scene
   parent: Mechanics
   title: Scene
+  order: 11
 ---
 
 # Scene

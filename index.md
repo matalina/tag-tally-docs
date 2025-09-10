@@ -18,5 +18,6 @@ You won’t need pages of stats. Just a line that speaks **your** truth.
 ---
 
 - [Mechanics](/mechanics)
+- [Guides](/guides)
 - [Random Tables](/tables)
 - [The App](/app)

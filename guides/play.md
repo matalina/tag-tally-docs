@@ -1,15 +1,16 @@
 ---
 title: How to Play
 layout: libdoc_page.liquid
-permalink: how-to/play/index.html
+permalink: guides/how-to-play/index.html
 date: false
 tags:
   - how-to
   - mechanics
 eleventyNavigation:
   key: How To Play
-  parent: Mechanics
+  parent: Guides
   title: How To Play
+  order: 1
 ---
 
 To start playing we need to answer a few questions.

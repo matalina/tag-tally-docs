@@ -10,6 +10,7 @@ eleventyNavigation:
   key: Game Sentences
   parent: Mechanics
   title: Game Sentences
+  order: 1
 ---
 
 Every thing in the game can be defined with a singular sentence at its core. But most things also have additional tags that can ease or hinder abilities, skills and offer a greater variety to even the simplest of sentences.

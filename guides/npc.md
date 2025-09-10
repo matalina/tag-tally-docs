@@ -1,7 +1,7 @@
 ---
 title: NPC Creation
 layout: libdoc_page.liquid
-permalink: how-to/npc/index.html
+permalink: guides/npc/index.html
 date: false
 tags:
   - how-to
@@ -9,6 +9,7 @@ tags:
   - mechanics
 eleventyNavigation:
   key: NPC Creation
-  parent: Mechanics
+  parent: Guides
   title: NPC Creation
+  order: 3
 ---

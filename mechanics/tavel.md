@@ -10,6 +10,7 @@ eleventyNavigation:
   key: Travel
   parent: Mechanics
   title: Travel
+  order: 11
 ---
 
 ## Travel
