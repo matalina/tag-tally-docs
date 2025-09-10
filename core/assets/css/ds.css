@@ -1593,7 +1593,7 @@
   pointer-events: auto;
 }
 .appearance-none {
-  -webkit-appearance: none;
+  appearance: none;
 }
 .bs-1 {
   box-shadow: 0px 4px 8px 4px rgba(0,0,0,0.15);
