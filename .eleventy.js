@@ -18,7 +18,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-  eleventyConfig.addPlugin(eleventyImageTransformPlugin, libdocFunctions.pluginsParameters.eleventyImageTransform());
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, libdocFunctions.pluginsParameters.eleventyImageTransform(), { useCache: true });
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(faviconsPlugin, {
     manifestData: {
@@ -33,6 +33,7 @@ export default function(eleventyConfig) {
   });
   eleventyConfig.addPlugin(pluginPwa, {
     cacheId: "tag-and-tally",
+    globPatterns: ["**/*.{css,js,png,jpg,jpeg,gif,svg,webmanifest,json,ico,html}", "assets/**/*.{png,jpg,jpeg,gif,svg,css,js}"],
     runtimeCaching: [
       {
         // we always want fresh copy of the index page
