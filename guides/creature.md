@@ -11,5 +11,5 @@ eleventyNavigation:
   key: Creature Creation
   parent: Guides
   title: Creature Creation
-  order: 4
+  order: 5
 ---

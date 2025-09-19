@@ -12,5 +12,6 @@ eleventyNavigation:
 - [How to Play](/guides/how-to-play)
 - [Character Creation](/guides/character)
 - [NPC Createion](/guides/npc)
+- [Species Creation](/guides/species)
 - [Creature Creation](/guides/creature)
 - [Item Creation](/guids/item)

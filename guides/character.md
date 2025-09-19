@@ -38,13 +38,10 @@ Follow the following simple steps to create a character.
 
 We lay out your character sentence in the following format, and all tags are in bold.
 
-> [!info] Character Sentence
-> \[Name] is a **\[descriptor]** **\[species]** **\[type]** who **\[specialty]**.
+{% sentence 'Character', '[Name] is a [descriptor] [species] [type] who [specializes in]', 'character' %}
 
-All tags except descriptor in your character sentence are [[998-Glossary#^6ca8a3|Umbrella Tags]].
+All tags except descriptor in your character sentence are Umbrella Tags.
 
-> [!example]
->
 > - Eldrin is a cunning elven rogue who weaves shadows into deadly blades
 > - Lena is a resourceful private investigator who uncovers secrets.
 > - Vex-7 is a rogue AI bounty hunter who tracks fugitives.
@@ -60,7 +57,6 @@ Each of the words in the brackets are tags that describe your character. They ca
 
 Include all species tags in your character sheet for easy reference under the species name.
 
-> [!example]
 > If you have a Psionic species. These characters are going to be really good with mental tasks, since that's what they're born to do. Mental tasks can be eased. But it also might make them vulnerable to psionics because they have a much more open mind. It's all about how your world works.
 
 **Types** are what most other TTRPGs call classes or archetypes. They can range anywhere from Warrior as a most basic type to something as specific as Professional MMA Fighter.
@@ -71,8 +67,6 @@ The **Specialty** tag is one of the most important bits. This is a major definin
 
 You may choose two tier 1 skills or 1 tier 2 skill that are associated with your specialty to add under your type tag on your character sheet.
 
-> [!example]
->
 > - Uses Magic
 > - Wields Two Weapons
 > - Made a Deal with a Devil
@@ -86,7 +80,6 @@ Chose one tag that represents your background. This can be a specific part of yo
 
 Choose up to 5 additional tags that describe your character's abilities and additional background. You may choose up to 2 skill tags at tier 1 or 1 skill tag at tier 2. The remainder should not be skill tags.
 
-> [!note]
 > You may leave some blank and add them on the fly in game play up to 5 tags. Quests or other in-game actions award additional tags.
 
 ## Occupation Tag
@@ -99,12 +92,12 @@ All characters have flaws. A flaw can also have benefits, but it should also hin
 
 Choose 1 flaw.
 
-> [!note]
 > It may be beneficial to the player to link the flaw to one of the seven deadly sins -- pride, envy, wrath, sloth, greed, gluttony, and lust. For example, we can link perfectionism to pride, hedonism to gluttony, anger management issues to wrath, fear of missing out to envy, and kleptomania to greed.
 >
 > A flaw does not have to only apply negative effects. Perfectionism can be a flaw if it can harm the outcome of a task trying to make it perfect and never knowing when to stop and call it done. However, perfectionism can also ease a task when you need attention to detail and you lack other stressors.
 
-> [!tip] Optional
+> **Optional**
+>
 > You may choose 1 additional flaw and add 1 additional positive tag to add to your character sheet.
 
 ## Character Arcs

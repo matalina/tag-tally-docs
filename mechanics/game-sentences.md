@@ -21,6 +21,8 @@ Every thing in the game can be defined with a singular sentence at its core. But
 
 {% sentence 'NPC', '[Name] is a [descriptor] [species] [type] who [verbs] [something]', 'character' %}
 
+{% sentence 'Species', '[Name] are a [descriptor] people who [cultural trait or motivation] and [physical/biological feature].', 'character' %}
+
 {% sentence 'Creature', '[Name] is a [disposition] [descriptor] [type] who [motivation] and does [basic attack] damage.', 'dragon' %}
 
 {% sentence 'Faction', '[Name] is a [descriptor] [organization type] that [core function or purpose] and [notable trait or secret]', 'faction' %}

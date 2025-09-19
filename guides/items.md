@@ -11,5 +11,5 @@ eleventyNavigation:
   key: Item Creation
   parent: Guides
   title: Item Creation
-  order: 5
+  order: 6
 ---
