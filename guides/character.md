@@ -99,29 +99,29 @@ There are a number of different tags for each life stage: background, flaw, occu
 
 * Background Tag: Defining adolescent experience.
 * Flaw Tag : Personality flaw emerging in adolescence.
-* Additional Tags (up to 2): Skills, traits, or habits formed during adolescence.
+* Additional Tags: Skills, traits, or habits formed during adolescence.
 
 ### Young Adult (19–25)
 * Background Tag: Defining life-changing event or experience.
 * Occupation Tag: Current occupation or primary life role (job, apprenticeship, or student).
-* Flaw Tag (1): Flaw tied to ambition, independence, or early mistakes.
-* Additional Tags (up to 2): Skills, habits, or traits developed in young adulthood.
+* Flaw Tag: Flaw tied to ambition, independence, or early mistakes.
+* Additional Tags: Skills, habits, or traits developed in young adulthood.
 
 ### Adult (26–50)
 * Occupation Tag: Main profession or life role.
 * Flaw Tag: Personality flaw or challenge in adulthood.
-* Additional Tags (up to 2 per 5-year block): Skills, traits, or experiences.
+* Additional Tags (2 per 5-year block): Skills, traits, or experiences.
 * Optional Career Change Tags (up to 5 total careers): Additional occupation tags if changing careers.
 
 **Structure:**
 
 Age Range| Occupation | Flaw | Additional
 ---|---|---|---
-26–30 | +1 | +1 | +1–2 optional tags
-31–35 | +1 | +1* | +1–2 optional tags
-36–40 | +1 | +1* | +1–2 optional tags
-41–45 | +1 | +1* | +1–2 optional tags
-46–50 | +1 | +1* | +1–2 optional tags
+26–30 | +1 | +1 | +2 
+31–35 | +1* | +1 | +2 
+36–40 | +1* | +1 | +2 
+41–45 | +1* | +1 | +2 
+46–50 | +1* | +1 | +2 
 
 \* Optional if Career change otherwise can increase Tier of the Tag up to 4
 
