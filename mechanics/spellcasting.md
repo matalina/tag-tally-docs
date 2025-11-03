@@ -37,44 +37,94 @@ All characters also have an assigned tier. Using the table below changes the spe
 | Caster Tier = Spell Tier  | No change               |
 | Caster Tier < Spell Tier  | Hinder spell level by 1 |
 
+### Magial Aptitude Index (MAI)
+
+The Magical Aptitude Index (MAI) measures a being’s innate connection to the fundamental forces of magic. It represents potential—how easily one can perceive, channel, and manipulate aetheric energy. A higher MAI reflects a naturally resonant essence, often tied to birthright, lineage, or cosmic phenomena. MAI begins with a base value set by species and modified by subspecies, descriptor, type, and specialization. Ultimately, MAI determines the ceiling of a caster’s magical capability, shaping both the scope and stability of their spellcraft.
+
+Each Species has a base MAI to start a character with. Sub-species may modify this number. For each Magical tag in the Character sentence you add +1 to the MAI number. (so up to +3 -- descriptor, type and speciality)
+
+### Caster Tier
+
+Caster Tiers are based on MAI and modified by all character tags.
+
+MAI | Points
+---|---
+0–4 | +0
+5 | +1
+6 | +2
+7 | +3
+8 | +4
+9 | +5
+10 | +6
+
+Add +1 for each magical tag for all life stages, descriptor, type, and specialty. Use the Tier of a tag as the plus if it has one.
+
+Total Points | Tier
+---|---
+6–8 | Tier 1
+9–11 | Tier 2
+12–15 | Tier 3
+16+ | Tier 4
+
 ## Spell Creation
 
 Spells have a sentence like all other things in Story Mode.
 
-> [!tip] Spell Sentence
-> \[**Name**] is a \[descriptor] \[aspect] \[spell type] that \[effect on \[number] target(s)] and \[special property or twist].
-
-All spells are classified by a Tier, the level of the spell is determined by the type, aspect and effects of the spells using the table below.
+{% sentence 'Spell', '[Name] is a [descriptor] [aspect] [spell type] [artifact] that targets [Level] [things] and [does special property]', 'spell' %}
 
 ### Spell Tiers
 
-| Spell Type                                                                     | Tier | Level |
-| ------------------------------------------------------------------------------ | ---- | ----- |
-| Damage (1 target)                                                              | I    | 2     |
-| Damage (Physical, Elemental)                                                   | +0   | +0    |
-| Damage (Physic, Toxic)                                                         | +1   | +0    |
-| Damage (Necrotic, Radiant)                                                     | +2   | +0    |
-| Damage (Shadow, Chaos)                                                         | +2   | +1    |
-| Summon (animal, insect, plant)                                                 | I    | 2     |
-| Summon (humanoid, automation, mechanical)                                      | II   | 4     |
-| Summon (golem, ghost, undead, draconic, ooze/slime, chimera, elemental, giant) | III  | 6     |
-| Summon (fey, shadow, alien, celestial, monstrosity)                            | IV   | 8     |
-| Ward Damage (Physical, Elemental, Psychic, Toxic)                              | I    | 2     |
-| Ward Damage (Necrotic, Radiant, Shadow, Chaos)                                 | III  | 6     |
-| Ward Aspect (Air, Earth, Fire, Water, Sound, Light)                            | I    | 2     |
-| Ward Aspect (Illusion, Mind)                                                   | II   | 4     |
-| Ward Aspect (Death, Shadow, Space)                                             | III  | 6     |
-| Ward Aspect (Time, Chaos)                                                      | IV   | 8     |
-| Counter Aspect (Air, Earth, Fire, Water, Sound, Light)                         | II   | 4     |
-| Counter Aspect (Illusion, Mind, Death, Shadow)                                 | III  | 6     |
-| Counter Aspect (Space, Time, Chaos)                                            | IV   | 8     |
-| Control Aspect (Air, Earth, Fire, Water, Sound, Light)                         | II   | 4     |
-| Control Aspect (Illusion, Death, Shadow)                                       | III  | 6     |
-| Control Aspect (Mind, Space, Time, Chaos)                                      | IV   | 8     |
-| Control Life (healing)                                                         | III  | 6     |
-| Other Effects                                                                  |      | +1    |
-| 1 additional target (up to 3)                                                  |      | +1    |
-| Area of Affect                                                                 | +1   |       |
+To determine a spell’s Tier, assign points for each of its five factors: Aspect, Type, Base, Artifact, and Level/Target. 
+
+Use the predefined point values, sum the points from all five factors to get a total. Compare the total to the Tier mapping. The resulting Tier reflects the spell’s complexity, power, and risk.
+
+Aspect | Points
+---|---
+earth, air, water, death, illusion (low-risk) | 1
+fire, mind, light, sound (moderate) | 2
+shadow, time, life, space (high-risk/volatile) | 3
+
+
+Type | Points
+---|---
+Damage | 2
+Control | 3
+Summon | 3
+Ward | 2
+Counter | 3
+
+
+Base | Points
+---|---
+Order | 1
+Spirit | 2
+Chaos | 3
+Void | 3
+
+Artifact | Points
+---|---
+Manifestation | 4 (hardest)
+Lexicon Rune | 1
+Proto Rune | 3
+Incantation | 2
+Somatic | 2
+Ritual | 1 (easiest)
+Science | 2
+
+Level/Target  | Points
+---|---
+Self, 1–2 targets | 1
+3–5 targets | 2
+6–10 targets | 3
+AoE / large scale | 4
+
+#### Tier Mapping:
+Total Points | Tier
+---|---
+6–8| Tier 1
+9–11 | Tier 2
+12–15 | Tier 3
+16+ | Tier 4
 
 ### Spell Types
 
@@ -195,14 +245,6 @@ Chaos magic embodies unpredictability, transformation, and the primal forces tha
 
 **Damage Type:** Chaos  
 **Summoned Creatures:** Alien, Monstrosity, Fiend, Ooze/Slime
-
-### Examples
-
-**Fireball** is an explosive **fire** _damage_ spell that ignites all targets in a 20-foot radius and leaves burning terrain in its wake. (Tier: II, Level: 5)
-
-**Cure Minor Wounds** is a soothing **life** _control_ spell that mends all strains on 1 target or mends 1 lingering injury or downgrades a debilitating injury to a lingering injury. (Tier: III, Level: 6)
-
-**Air Shield** is a whirling **air** _ward_ that deflects projectiles from up to 2 targets and reduces the force of physical impacts. (Tier: I, Level: 4)
 
 ## Casting a Spell
 

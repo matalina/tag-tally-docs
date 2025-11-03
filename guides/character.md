@@ -18,21 +18,20 @@ eleventyNavigation:
 
 A Character in Story Mode is a collection of tags that can ease or hinder game play.
 
-Follow the following simple steps to create a character.
+Follow the following simple steps to create a character. It is recommended to create a Young Adult or Adult character for best options.
 
 1. Create a concept of what you want your character to be and do.
 2. Design the character sentence around this concept.
-3. Choose 1 background trait that has defined your character form their past
-4. Choose 1 occupation trait that defines what your character does to earn a living
-5. Chose up to 5 additional tags
-   - At character creation you may chose up to 2 skills at tier 1, or 1 skill at tier 2 (this counts as two tags)
-   - You may only have a maximum of 2 umbrella tags, any skills under the umbrella tags count against your skill count
-6. Chose a flaw. This flaw is not the same as the species weakness.
-   - (optional) You may chose a second flaw and gain an additional positive tag that is not a skill.
-7. Create a character arc for your character -- their purpose for adventuring.
-8. Decide upon what gear your character will start out with
-9. Choose what lore a character knows at the start of the game (locations, factions and personal relationships).
-10. (optional) If in a party, decide upon the relationships between all party members and how you met.
+3. Choose your Childhood Lifestage tags (1 background, 1 flaw, 2 additional tags)
+4. Choose your Adolesent Lifestage tags (1 background, 1 flaw, 2 additional tags)
+5. Choose your Young Adult Lifestage tags (1 background, 1 occupation, 1 flaw, 2 additional tags)
+6. (Adult Lifestages) For every 5 years over 25 human years old and under 50 years old, you can choose 1 occuption, 1 flaw and 2 additional tags. 
+8. (Elder Lifestages) For every 10 year over 50 years you can choose 1 flaw and 1 experience tag.
+9. Assign Skill Tiers to your Tags
+10. Create a character arc for your character -- their purpose for adventuring.
+11. Decide upon what gear your character will start out with
+12. Choose what lore a character knows at the start of the game (locations, factions and personal relationships).
+13. (optional) If in a party, decide upon the relationships between all party members and how you met.
 
 ## Character Sentence
 
@@ -74,31 +73,92 @@ You may choose two tier 1 skills or 1 tier 2 skill that are associated with your
 
 The phrase should always start with a verb. While is, can or has are perfectly acceptable ways to start the sentence, try looking for action verbs instead.
 
-## Background Tags
+## Lifestage Tags
 
-Chose one tag that represents your background. This can be a specific part of your type, or it can be something else on another spectrum, but it should be something meaningful that plays a big part in who you are.
+There are 5 life stages of a character: childhood, adolesence, young adult, adult and elder. Each stage has a number of tags you are required to choose upon character creation based on the age of your character.  All ages are based on human years.  Check the species for age ranges of your character.
 
-Choose up to 5 additional tags that describe your character's abilities and additional background. You may choose up to 2 skill tags at tier 1 or 1 skill tag at tier 2. The remainder should not be skill tags.
+There are a number of different tags for each life stage: background, flaw, occupation, experience and additional tags.
 
-> You may leave some blank and add them on the fly in game play up to 5 tags. Quests or other in-game actions award additional tags.
+**Background Tags:** Background tags describe a defining moment in that lifestage.
 
-## Occupation Tag
+**Flaw Tags:** Flaw Tags describe some flaw or weakness they displayed during this lifestage of the character. It might be helpful to assign the flaw to one of the seven deadly sins. As an Elder these flaw tags should be in reference to getting older.  Things like "Losing Mobility" and "Hearing Loss".
 
-Chose one tag that represents your occupation, what you do to make a living. This can be a specific part of your type or it can be something else on another spectrum. This occupation is how you maintain your current standard of living.
+**Occupation Tags:** Occupation Tags are tags that encompass what you do for a living at that particular lifestage.  As a young adult you may choose "Student" or some other career.  But as an Adult you must have at least 1 occupation, though it may be "Vagabound" or "Homeless" if that is where your character was at that stage in life.
 
-## Flaw Tags
+**Experienct Tags:** Experience Tags are like background tags, but they are tags your older self has experienced throughout their life.
 
-All characters have flaws. A flaw can also have benefits, but it should also hinder a character in some situations.
+**Additional Tags:** Additional Tags can be any skill, trait or ability that a character has during that lifestage.  An Additional Tag can be used to increase the Tier of a prior lifestage tag
 
-Choose 1 flaw.
+### Childhood (0–10)
 
-> It may be beneficial to the player to link the flaw to one of the seven deadly sins -- pride, envy, wrath, sloth, greed, gluttony, and lust. For example, we can link perfectionism to pride, hedonism to gluttony, anger management issues to wrath, fear of missing out to envy, and kleptomania to greed.
->
-> A flaw does not have to only apply negative effects. Perfectionism can be a flaw if it can harm the outcome of a task trying to make it perfect and never knowing when to stop and call it done. However, perfectionism can also ease a task when you need attention to detail and you lack other stressors.
+* Background Tag: Defining moment of childhood.
+* Flaw Tag: Personality flaw shaped by early life.
+* Additional Tags (up to 2): Early abilities, traits, or learned habits.
 
-> **Optional**
->
-> You may choose 1 additional flaw and add 1 additional positive tag to add to your character sheet.
+### Adolescence (11-18)
+
+* Background Tag: Defining adolescent experience.
+* Flaw Tag : Personality flaw emerging in adolescence.
+* Additional Tags (up to 2): Skills, traits, or habits formed during adolescence.
+
+### Young Adult (19–25)
+* Background Tag: Defining life-changing event or experience.
+* Occupation Tag: Current occupation or primary life role (job, apprenticeship, or student).
+* Flaw Tag (1): Flaw tied to ambition, independence, or early mistakes.
+* Additional Tags (up to 2): Skills, habits, or traits developed in young adulthood.
+
+### Adult (26–50)
+* Occupation Tag: Main profession or life role.
+* Flaw Tag: Personality flaw or challenge in adulthood.
+* Additional Tags (up to 2 per 5-year block): Skills, traits, or experiences.
+* Optional Career Change Tags (up to 5 total careers): Additional occupation tags if changing careers.
+
+**Structure:**
+
+Age Range| Occupation | Flaw | Additional
+---|---|---|---
+26–30 | +1 | +1 | +1–2 optional tags
+31–35 | +1 | +1* | +1–2 optional tags
+36–40 | +1 | +1* | +1–2 optional tags
+41–45 | +1 | +1* | +1–2 optional tags
+46–50 | +1 | +1* | +1–2 optional tags
+
+\* Optional if Career change otherwise can increase Tier of the Tag up to 4
+
+### Elder (51+)
+* Flaw Tag (1 per 10 year block): Reflecting aging, limitations, or consequences of life choices.
+* Experience Tag (1 per 10 year block): Reflecting wisdom, mastery, or societal reputation.
+
+**Structure:** 
+
+Age Range| Flaw | Experience
+---|---|---
+51–60| +1 | +1 
+61–70| +1 | +1 
+71–80| +1 | +1 
+81–90*| +1 | +1 
+
+\* Continue pattern for additional age ranges
+
+## Skill Tiers
+
+* Characters starting as a **Child** may have 1 Tier 2 abilities and 2 Tier 1 abilities _(4 points)_
+* Characters starting as an **Adolescent** many have 2 Tier 2 ablities and 4 Tier 1 abilities _(8 points)_
+* Charcters starting as a **Young Adult** may have 1 Tier 3 ability, 2 Tier 2 abilities and 6 Tier 1 abilities _(14 points)_
+* Characters staring as an **Adult** assign the Young Adult Tiers and then add 6 points per 5 year block after 25
+* Characters starting as an **Elder** assign the Young Adult Tiers, add 30 points plus an additional 4 points per 10 year block
+
+Adults and Elders can assign their points to tiers in the following manner:
+
+Tier | Point Cost
+---|---
+2 | 2
+3 | 4
+4 | 6
+
+Each Tier must be bought before purchasing the next.  If you have a tag at level 1 and you want it to be level 4 you need to purchase 2, 3 and 4 for a total of 12 points.
+
+Use this method **ONLY** at character creation!  Skills are earned and upgraded during game play by finishing quests and character arc as rewards.
 
 ## Character Arcs
 
