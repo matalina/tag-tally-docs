@@ -27,7 +27,7 @@ Follow the following simple steps to create a character. It is recommended to cr
 5. Choose your Young Adult Lifestage tags (1 background, 1 occupation, 1 flaw, 2 additional tags)
 6. (Adult Lifestages) For every 5 years over 25 human years old and under 50 years old, you can choose 1 occuption, 1 flaw and 2 additional tags. 
 8. (Elder Lifestages) For every 10 year over 50 years you can choose 1 flaw and 1 experience tag.
-9. Assign Skill Tiers to your Tags
+9. Assign Skill Tiers to your Tags, and if they are a spell caster, MAI and Tier
 10. Create a character arc for your character -- their purpose for adventuring.
 11. Decide upon what gear your character will start out with
 12. Choose what lore a character knows at the start of the game (locations, factions and personal relationships).
