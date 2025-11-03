@@ -39,6 +39,6 @@ Every thing in the game can be defined with a singular sentence at its core. But
 
 {% sentence 'Consumable', '[Name] is a [descriptor] [consumable type] that [effect on consumption] and [any special property or twist].', 'potion' %}
 
-{% sentence 'Spell', '[Name] is a [descriptor] [aspect] [spell type] that [effect on [number] target(s)] and [special property or twist].', 'spell' %}
+{% sentence 'Spell', '[Name] is a [descriptor] [base] [aspect] [type] [artifact] that targets [LEVEL] [things] and [does something].', 'spell' %}
 
 {% sentence 'Arc', '[Name] is looking for [a character arc].', 'arc' %}

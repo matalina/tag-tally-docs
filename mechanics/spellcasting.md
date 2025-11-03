@@ -70,7 +70,7 @@ Total Points | Tier
 
 Spells have a sentence like all other things in Story Mode.
 
-{% sentence 'Spell', '[Name] is a [descriptor] [aspect] [spell type] [artifact] that targets [Level] [things] and [does special property]', 'spell' %}
+{% sentence 'Spell', '[Name] is a [descriptor] [base] [aspect] [type] [artifact] that targets [LEVEL] [things] and [does something].', 'spell' %}
 
 ### Spell Tiers
 
@@ -125,6 +125,26 @@ Total Points | Tier
 9–11 | Tier 2
 12–15 | Tier 3
 16+ | Tier 4
+
+### Artifacts
+
+* Science
+  * Equations 
+  * Code
+  * Technology 
+* Magic
+  * Runes — physical symbols
+  * Incantations — verbal or resonate sounds
+  * Somatic — physical gestures
+  * Manifestations — innate power/will
+  * Rituals — runes, incantations, and somatic requirements 
+
+### Base
+
+* **Order** — structure and stability
+* **Chaos** — Motion and transformation
+* **Void** — Nullification and isolation
+* **Spirit** — Conscious link
 
 ### Spell Types
 
