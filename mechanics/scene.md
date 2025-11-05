@@ -15,8 +15,7 @@ eleventyNavigation:
 
 # Scene
 
-> [!tip] Scene Sentence
-> This scene is a \[descriptor] \[scene type] that \[does something].
+{% sentence 'Scene', 'This scene is a [descriptor] [scene type] that [does something]', 'scene' %}
 
 | d8  | Scene Type    | Common Purpose/Impact Examples                           |
 | --- | ------------- | -------------------------------------------------------- |

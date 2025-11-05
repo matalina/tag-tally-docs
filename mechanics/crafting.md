@@ -42,7 +42,6 @@ The essence can be extracted instead of a part if you wish to augment this abili
 
 ### Creature Parts
 
-> [!example]
 > The party has just killed a dragon, and they want to harvest the breath sac, scales and the essence. The dragon was Level 5.
 >
 > They must roll against a DC of 15 for the breath sac.
@@ -89,12 +88,15 @@ To craft an item. You must roll a crafting check against the base items level pl
 
 On a successful crafting check create an item sentence. The newly crafted item is Level 1 and if purchased in a story has a starting Cost of 3.
 
-> [!tip] Item Sentence
-> **Armor:** \[Name] is a \[descriptor] \[material] \[armor type] that \[does something special].
-> **Item:** \[Name] is a \[descriptor] \[item type] that \[does something special].
-> **Weapon:** \[Name] is a \[descriptor] \[material] \[weapon type] that does \[damage type] damage and \[something special].
-> **Trap:** \[Name] is a \[descriptor] \[trap type] that \[trigger condition] and \[effect or consequence].
-> **Consumable:** \[Name\] is a \[descriptor\] \[consumable type\] that \[effect on consumption\] and \[any special property or twist\].
+{% sentence 'Armor', '[Name] is a [descriptor] [material] [armor type] that [does something special].', 'shield' %}
+
+{% sentence 'Item', '[Name] is a [descriptor] [item type] that [does something special].', 'loot' %}
+
+{% sentence 'Weapon', '[Name] is a [descriptor] [material] [weapon type] that does [damage type] damage and [something special].', 'sword' %}
+
+{% sentence 'Trap', '[Name] is a [descriptor] [trap type] that [trigger condition] and [effect or consequence].', 'danger' %}
+
+{% sentence 'Consumable', '[Name] is a [descriptor] [consumable type] that [effect on consumption] and [any special property or twist].', 'potion' %}
 
 ## Augmenting
 

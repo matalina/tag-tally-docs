@@ -19,7 +19,7 @@ eleventyNavigation:
 
 1. Create a species sentence
 2. Determine Langauges
-3. Determine if species has innate magic and which types
+3. Determine if species has innate magic and which types and what their Base MAI is.
 4. Assign a Weakness
 5. Determine at least 2 abilities
 
@@ -35,6 +35,7 @@ eleventyNavigation:
 
 - **Languages:** Common, \[language of choice]
 - **Magic:** Can Learn Magic
+  - **Base MAI:** 0
 - **Weakness:** Fragile (when taking wounds at the end of combat add +1 to enemy hit count)
 - **Abilities:**
   - Use **Ingenuity** to get by with limited resources.
@@ -44,6 +45,7 @@ eleventyNavigation:
 
 - **Languages:** Elvish, Common
 - **Magic:** Innate Natural magics (Fire, Air, Earth, Water, Shadow, Light)
+  - **Base MAI:** 5
 - **Weakness:** Vulnerable to Iron and Silver
 - **Abilities:**
   - Use **Keen Senses** to notice the subtle or hidden.
@@ -53,6 +55,7 @@ eleventyNavigation:
 
 - **Languages:** Dwarvish, Common
 - **Magic:** Innate Earth Magic
+  - **Base MAI:** 3
 - **Weakness:** Poor Affinity for non-Earth Magic
 - **Abilities:**
   - Tap into **Stonecunning** to navigate ruins, tunnels, and ancient places

@@ -23,7 +23,7 @@ _Create a Setting or backdrop for the characters to exist in_
 
 First thing we need to know is where are we going to be playing. You can use the tables to assist you in your thought process.
 
-> [!example] > **Genre:** Urban Fantasy
+> **Genre:** Urban Fantasy
 >
 > - Modern World
 > - **Magic:** Low Magic -- magic exists but it is hard to come-by
@@ -53,8 +53,7 @@ _The characters are the heart of the story._
 
 ### Character Sentence
 
-> [!important] Character Sentence
-> \[Name] is a \[descriptor] \[species] \[type] who \[does something].
+{% sentence 'Character', '[Name] is a [descriptor] [species] [type] who [specializes in]', 'character' %}
 
 This sentence defines the characters at a high grain detail.
 
@@ -64,15 +63,12 @@ Each of the words in the brackets are tags that describe your character. They ca
 
 **Species** is just what it is. In an all human world or for a human character choose a second descriptor to fill in the sentence. The species of a character can tell a lot about what society perceives the character as. In some cases it could also be used in tasks that a species might be good at.
 
-> [!example]
 > If you have a Psionic species. These characters are going to be really good with mental tasks, since that's what they're born to do. Mental tasks can be eased. But it also might make them vulnerable to psionics because they have a much more open mind. It's all about how your world works.
 
 **Types** are what most other TTRPGs call classes or archetypes. They can range anywhere from Warrior as a most basic type to something as specific as Professional MMA Fighter.
 
 The **Specialty** tag is one of the most important bits. This is a major defining action for your character. It can go hand in hand with the type, or it can be something completely off the wall and go against the types typical associations. This is what your character is know for or uses to their advantage.
 
-> [!example]
->
 > - Uses Magic
 > - Wields Two Weapons
 > - Made a Deal with a Devil
@@ -114,7 +110,8 @@ Quest need a set of things before you can begin.
 - What is the reward? or Why are you doing the quest?
 - Where is the objective of the quest found?
 
-> [!example] Collect Antidote Ingredients
+> Collect Antidote Ingredients
+> 
 > **Starting Location:** Home Village
 > **Source:** Village apothecary
 > **Type:** Collection

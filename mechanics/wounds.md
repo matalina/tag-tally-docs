@@ -34,7 +34,6 @@ Lasting Scars may only be healed with magic or over a Long Downtime period of re
 
 When a character rests in a safe zone, they can heal all strains or 1 Lingering Trauma or downgrade 1 Debilitating Injury to a Lingering Trauma.
 
-> [!info] Safe Zones
 > Safe zones are consider to be guarded settlements with proper lodgings. You cannot make a safe rest on the road or in a dungeon.
 
 ## Lasting Scars

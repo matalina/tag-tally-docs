@@ -488,8 +488,11 @@ main blockquote {
     margin-top: var(--ita-spacings-10);
     margin-bottom: var(--ita-spacings-10);
     padding: 2em 4em;
+    border-radius: 4px 12px 12px 4px;
+    border: 1px solid var(--ita-colors-primary-300);
+    border-left: 4px solid var(--ita-colors-primary-500);
     font-family: var(--libdoc-font-family);
-    font-size: var(--ita-fontSizes-7);
+    /*font-size: var(--ita-fontSizes-7);*/
 }
 main blockquote > *:first-child {
     margin-top: 0;
@@ -497,6 +500,7 @@ main blockquote > *:first-child {
 main blockquote > *:last-child {
     margin-bottom: 0;
 }
+/*
 main blockquote::before {
     content: "❝";
     position: absolute;
@@ -524,7 +528,7 @@ main blockquote em {
 }
 main blockquote strong {
     font-variation-settings: "slnt" -15, "CASL" 1, "CRSV" 1, "wght" 700;
-}
+}*/
 /* DEFINITION LISTS */
 main dl dt {
     font-variation-settings: "wght" 500, "MONO" 0;
