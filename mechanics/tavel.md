@@ -15,7 +15,7 @@ eleventyNavigation:
 
 ## Travel
 
-There are three types of travel that can be used in Story Mode.
+There are three types of travel that can be used in Tag & Tally.
 
 - Wilderness
 - Urban

@@ -16,7 +16,7 @@ eleventyNavigation:
 
 ## Procedure
 
-A Character in Story Mode is a collection of tags that can ease or hinder game play.
+A Character in Tag & Tally is a collection of tags that can ease or hinder game play.
 
 Follow the following simple steps to create a character. It is recommended to create a Young Adult or Adult character for best options.
 
@@ -35,7 +35,7 @@ Follow the following simple steps to create a character. It is recommended to cr
 
 ## Character Sentence
 
-We lay out your character sentence in the following format, and all tags are in bold.
+We lay out your character sentence in the following format, and all tags are in square brackets.
 
 {% sentence 'Character', '[Name] is a [descriptor] [species] [type] who [specializes in]', 'character' %}
 
@@ -148,6 +148,8 @@ Age Range| Flaw | Experience
 * Characters staring as an **Adult** assign the Young Adult Tiers and then add 6 points per 5 year block after 25
 * Characters starting as an **Elder** assign the Young Adult Tiers, add 30 points plus an additional 4 points per 10 year block
 
+Optionally you may start with the number of points assigned to the lifestage (the number in parenthesis) and create your own breakout. 
+
 Adults and Elders can assign their points to tiers in the following manner:
 
 Tier | Point Cost
@@ -159,6 +161,8 @@ Tier | Point Cost
 Each Tier must be bought before purchasing the next.  If you have a tag at level 1 and you want it to be level 4 you need to purchase 2, 3 and 4 for a total of 12 points.
 
 Use this method **ONLY** at character creation!  Skills are earned and upgraded during game play by finishing quests and character arc as rewards.
+
+Any unused points at character creation are lost.
 
 ## Character Arcs
 

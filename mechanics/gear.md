@@ -37,3 +37,21 @@ Weapons come in various different damage types. Creature attacks also do these s
 | 6   | Shadow (shadows, Nether magic)                  |
 | 7   | Chaos (Faerie Magic)                            |
 | 8   | Toxic (poisons, venom, disease, radiation)      |
+
+## Consumables
+
+Consumables are peices of gear that have a limited lifetime.  Such as rations, potions, scrolls. Each consumable must dictate how it is depleted.  Some consumables leave behind remnants that can be used later, these things such as paint, chalk have a durability that determines if the remnant is reusable again.  
+
+Consumable options:
+* One use
+* Multiple uses: Roll a 1 on a d20
+  * Level 1-4 roll at disadvantage
+  * Level 5-7 roll normally
+  * Level 8-10 roll at advantage
+
+Durability options:
+* One use
+* Multiple uses: Roll a 1 on a d20
+  * Level 1-4 roll at disadvantage
+  * Level 5-7 roll normally
+  * Level 8-10 roll at advantage

@@ -68,7 +68,7 @@ Total Points | Tier
 
 ## Spell Creation
 
-Spells have a sentence like all other things in Story Mode.
+Spells have a sentence like all other things in Tag & Tally.
 
 {% sentence 'Spell', '[Name] is a [descriptor] [base] [aspect] [type] [artifact] that targets [LEVEL] [things] and [does something].', 'spell' %}
 

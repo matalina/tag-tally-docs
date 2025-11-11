@@ -15,7 +15,7 @@ eleventyNavigation:
 
 ## Tags
 
-Tags are the basis of all descriptive sentences in Story Mode. Tags should always ease or hinder one or more actions.
+Tags are the basis of all descriptive sentences in Tag & Tally. Tags should always ease or hinder one or more actions.
 
 Tags can be used with justification to ease any task. But there is a limit to how many tags you can apply to any given task. This is know as the Task Threshold.
 

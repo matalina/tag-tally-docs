@@ -9,11 +9,17 @@ eleventyNavigation:
   order: 98
 ---
 
+## A
+
+**Advantage:** when rolling with advantage, you roll two dice and take the highest result.
+
 ## D
 
 **DC:** the number to roll above when deciding a success or fail of a given task or check. Typically stands for Difficulty Class.
 
 **Descriptor:** a word that describes your character, a trait or some other attribute that can be used as a tag to ease or hinder any appropriate roll.
+
+**Disadvantage:** when rolling with disadvantage, you roll two dice and thake the lowest result.
 
 ## E
 

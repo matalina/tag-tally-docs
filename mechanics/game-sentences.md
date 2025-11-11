@@ -19,7 +19,7 @@ Every thing in the game can be defined with a singular sentence at its core. But
 
 {% sentence 'Character', '[Name] is a [descriptor] [species] [type] who [specializes in]', 'character' %}
 
-{% sentence 'NPC', '[Name] is a [descriptor] [species] [type] who [verbs] [something]', 'character' %}
+{% sentence 'NPC', '[Name] is a [descriptor] [species] [type] who [verbs] [something] and does [damage] damage', 'character' %}
 
 {% sentence 'Species', '[Name] are a [descriptor] people who [cultural trait or motivation] and [physical/biological feature].', 'character' %}
 
