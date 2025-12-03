@@ -61,10 +61,10 @@ Add +1 for each magical tag for all life stages, descriptor, type, and specialty
 
 Total Points | Tier
 ---|---
-6–8 | Tier 1
-9–11 | Tier 2
-12–15 | Tier 3
-16+ | Tier 4
+0-5 | Tier 1
+6-10 | Tier 2
+11-13 | Tier 3
+14+ | Tier 4
 
 ## Spell Creation
 
