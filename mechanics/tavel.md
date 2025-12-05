@@ -91,13 +91,22 @@ Define the type of map you want to use. We will be using a 7x7 square tile map. 
 When traveling into a point/card/tile use the following procedure.
 
 1. Draw Terrain for each of the empty adjacent points.
-2. Roll 1d4+2 to determine the level of the scene. (Anything without a level will use this as their level).
+2. Roll a Scene die in the table below to determine the level of the scene. (Anything without a level will use this as their level).
 3. Roll for weather.
 4. Roll for a Point of Interest Type.
 5. Resolve the situation created.
 6. If you have more travel left in the day go to another point/card and start back at #1.
 7. If you do not have more to travel, you must [[#Rest Procedure|rest]].
 8. After resolving the Rest start over at #1.
+
+| Leaving Hex Level | Dice Formula for Entering Hex Level | Level Range | 
+| ----------------- | ----------------------------------- | ----------- |
+| 3 - 4             | 1d4+2                               | 3 - 6       |
+| 5 - 6             | 1d6+2                               | 3 - 8       |
+| 7 - 8             | 1d8+2                               | 3 - 10      |
+| 9 - 10            | 1d10+2                              | 3 - 10 *    |
+
+\* 11 and 12 result in a Level 10 hex if rolled
 
 ## Dungeon
 
