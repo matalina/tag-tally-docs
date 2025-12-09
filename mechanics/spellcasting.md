@@ -158,10 +158,9 @@ Total Points | Tier
 
 - Air, Earth, Water, Fire
 - Life, Death
-- Min, Time, Space,
+- Mind, Time, Space,
 - Sound, Illusion
 - Shadow, Light
-- Chaos
 
 #### Air
 
@@ -258,13 +257,6 @@ Light magic channels radiance, clarity, and truth. It can blind, reveal illusion
 
 **Damage Type:** Radiant  
 **Summoned Creatures:** Celestial, Elemental, Fey
-
-#### Chaos
-
-Chaos magic embodies unpredictability, transformation, and the primal forces that defy order. It warps reality, mutates outcomes, and alters the nature of magic itself.
-
-**Damage Type:** Chaos  
-**Summoned Creatures:** Alien, Monstrosity, Fiend, Ooze/Slime
 
 ## Casting a Spell
 
