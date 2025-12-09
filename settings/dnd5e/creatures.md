@@ -1,16 +1,19 @@
 ---
 title: 5e Creatures
 layout: libdoc_page.liquid
-permalink: tables/5e-creatures/index.html
+permalink: settings/dnd5e/creatures/index.html
 date: false
 tags:
-  - 5e creatures
-  - tables
+  - 5e 
+  - creatures  
+  - settings
 eleventyNavigation:
   key: 5e Creatures
-  parent: Tables
+  parent: DnD 5e
   title: 5e Creatures
 ---
+
+{% sentence 'Creature', '[Name] is a [disposition] [descriptor] [type] who [motivation] and does [basic attack] damage.', 'dragon' %}
 
 | Creature Name              | Type        |
 | -------------------------- | ----------- |

@@ -9,7 +9,6 @@ eleventyNavigation:
   order: 3
 ---
 
-- [5e Creatures](/tables/5e-creatures)
 - [Character Creation](/tables/characters)
 - [Character Options](/tables/character-options)
 - [Creature](/tables/creature)
