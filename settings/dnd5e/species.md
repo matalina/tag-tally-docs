@@ -42,7 +42,7 @@ eleventyNavigation:
 
 ## Elves are a [timeless] people who [seek harmony with magic and nature] and [perceive subtle threads of magic].
 
-* (flaw)aloof to the point of social disconnect (pride)
+* (flaw) aloof to the point of social disconnect (pride)
 * Magic: Can Use all Magic except Death
   * MAI Base: 5
 * Languages: Common, Elvish
@@ -121,7 +121,7 @@ eleventyNavigation:
 **Abilities**
 
 * Elemental Resistance
-* Otherworldy Aura
+* Otherworldly Aura
 
 
 
