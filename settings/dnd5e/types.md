@@ -16,6 +16,7 @@ eleventyNavigation:
 
 {% sentence 'Type', '[Name] is a [descriptor] [type] who [specializes in]', 'character' %}
 
+For each DnD 5e conversion pick a descriptor and a specializes in variant that best describes your character.
 
 ## Barbarian is a [descriptor] [warrior] who [specializes in].
 
@@ -111,7 +112,7 @@ eleventyNavigation:
 * protects life and the natural order
 * punishes the guilty
 
-* (flaw) Ridig Morality (pride)
+* (flaw) Rigid Morality (pride)
 * Can use Life and Light Magic
 * Aura of Protection
 
@@ -136,7 +137,7 @@ eleventyNavigation:
 **Specializes In**
 * blends magic and cunning to outsmart foes
 * strikes lethally and with deadly precision
-* manifests psychic blades to pierce enemie
+* manifests psychic blades to pierce enemies
 * excels at stealth, agility, and clever tricks
 
 * (flaw) self-serving (envy)
