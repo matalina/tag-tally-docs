@@ -15,7 +15,7 @@ eleventyNavigation:
 
 {% sentence 'Spell', '[Name] is a [descriptor] [base] [aspect] [type] [artifact] that targets [LEVEL] [things] and [does something].', 'spell' %}
 
-## A
+## [A](spells/a)
 - Acid Arrow
 - Acid Splash
 - Aid
@@ -33,13 +33,12 @@ eleventyNavigation:
 - Arcane Hand
 - Arcane Lock
 - Arcane Sword
-- Arcanist's Magic Aura
 - Astral Projection
 - Augury
 - Aura of Life
 - Awaken
 
-## B
+## [B](spells/b)
 - Bane
 - Banishment
 - Barkskin
@@ -55,7 +54,7 @@ eleventyNavigation:
 - Blur
 - Burning Hands
 
-## C
+## [C](spells/c)
 - Call Lightning
 - Calm Emotions
 - Chain Lightning
@@ -94,7 +93,7 @@ eleventyNavigation:
 - Creation
 - Cure Wounds
 
-## D
+## [D](spells/d)
 - Dancing Lights
 - Darkness
 - Darkvision
@@ -123,7 +122,7 @@ eleventyNavigation:
 - Dream
 - Druidcraft
 
-## E
+## [E](spells/e)
 - Earthquake
 - Eldritch Blast
 - Elementalism
@@ -136,7 +135,7 @@ eleventyNavigation:
 - Expeditious Retreat
 - Eyebite
 
-## F
+## [F](spells/f)
 - Fabricate
 - Faerie Fire
 - Faithful Hound
@@ -165,7 +164,7 @@ eleventyNavigation:
 - Freedom of Movement
 - Freezing Sphere
 
-## G
+## [G](spells/g)
 - Gaseous Form
 - Gate
 - Geas
@@ -184,7 +183,7 @@ eleventyNavigation:
 - Guiding Bolt
 - Gust of Wind
 
-## H
+## [H](spells/h)
 - Hallow
 - Hallucinatory Terrain
 - Harm
@@ -203,7 +202,7 @@ eleventyNavigation:
 - Hunter's Mark
 - Hypnotic Pattern
 
-## I
+## [I](spells/i)
 - Ice Knife
 - Ice Storm
 - Identify
@@ -216,13 +215,13 @@ eleventyNavigation:
 - Invisibility
 - Irresistible Dance
 
-## J
+## [J](spells/j)
 - Jump
 
-## K
+## [K](spells/k)
 - Knock
 
-## L
+## [L](spells/l)
 - Legend Lore
 - Lesser Restoration
 - Levitate
@@ -233,9 +232,10 @@ eleventyNavigation:
 - Locate Object
 - Longstrider
 
-## M
+## [M](spells/m)
 - Mage Armor
 - Mage Hand
+- Magic Aura
 - Magic Circle
 - Magic Jar
 - Magic Missile
@@ -263,10 +263,10 @@ eleventyNavigation:
 - Moonbeam
 - Move Earth
 
-## N
+## [N](spells/n)
 - Nondetection
 
-## P
+## [P](spells/p)
 - Pass without Trace
 - Passwall
 - Phantasmal Force
@@ -294,7 +294,7 @@ eleventyNavigation:
 - Protection from Poison
 - Purify Food and Drink
 
-## R
+## [R](spells/r)
 - Raise Dead
 - Ray of Enfeeblement
 - Ray of Frost
@@ -309,7 +309,7 @@ eleventyNavigation:
 - Revivify
 - Rope Trick
 
-## S
+## [S](spells/s)
 - Sacred Flame
 - Sanctuary
 - Scorching Ray
@@ -353,7 +353,7 @@ eleventyNavigation:
 - Sunburst
 - Symbol
 
-## T
+## [T](spells/t)
 - Telekinesis
 - Telepathic Bond
 - Teleport
@@ -371,15 +371,15 @@ eleventyNavigation:
 - True Strike
 - Tsunami
 
-## U
+## [U](spells/u)
 - Unseen Servant
 
-## V
+## [V](spells/v)
 - Vampiric Touch
 - Vicious Mockery
 - Vitriolic Sphere
 
-## W
+## [W](spells/w)
 - Wall of Fire
 - Wall of Force
 - Wall of Ice
@@ -395,7 +395,7 @@ eleventyNavigation:
 - Wish
 - Word of Recall
 
-## Z
+## [Z](spells/z)
 - Zone of Truth
 
 **Total: 363**
