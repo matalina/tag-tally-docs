@@ -7,10 +7,6 @@ tags:
   - 5e
   - spells
   - settings
-eleventyNavigation:
-  key: 5e [Spells] - G
-  parent: 5e Spells
-  title: 5e [Spells] - G
 ---
 
 **Gaseous Form** is a [basic] [Order] [Air] [Control] [Somatic] that [targets 1 thing] and [transforms the target into a hazy cloud of vapor].  (Tier 1)

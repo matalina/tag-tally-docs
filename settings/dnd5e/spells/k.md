@@ -7,10 +7,6 @@ tags:
   - 5e
   - spells
   - settings
-eleventyNavigation:
-  key: 5e [Spells] - K
-  parent: 5e Spells
-  title: 5e [Spells] - K
 ---
 
 Knock is a basic Order Control Incantation that targets LEVEL 1 things and magically unlocks a closed or locked object. (Tier 1)

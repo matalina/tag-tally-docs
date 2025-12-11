@@ -7,10 +7,6 @@ tags:
   - 5e
   - spells
   - settings
-eleventyNavigation:
-  key: 5e [Spells] - Z
-  parent: 5e Spells
-  title: 5e [Spells] - Z
 ---
 
 **Zone of Truth** is a [basic] [Order] [Mind] [Control] [Somatic] that [targets 1 thing] and [creates an area where creatures must succeed on a saving throw or be unable to speak a deliberate lie].  (Tier 3)

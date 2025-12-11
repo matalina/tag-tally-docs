@@ -7,10 +7,6 @@ tags:
   - 5e
   - spells
   - settings
-eleventyNavigation:
-  key: 5e [Spells] - T
-  parent: 5e Spells
-  title: 5e [Spells] - T
 ---
 
 **Tasha's Hideous Laughter** is a [basic] [Chaos] [Sound] [Control] [Somatic] that [targets 1 thing] and [forces one creature into a fit of incapacitating laughter].  (Tier 2)

@@ -7,10 +7,6 @@ tags:
   - 5e
   - spells
   - settings
-eleventyNavigation:
-  key: 5e [Spells] - U
-  parent: 5e Spells
-  title: 5e [Spells] - U
 ---
 
 **Unseen Servant** is a [basic] [Order] [Illusion] [Summon] [Ritual] that [targets 1 thing] and [creates an invisible, mindless, shapeless force to perform simple tasks].  (Tier 1)

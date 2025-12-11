@@ -7,10 +7,6 @@ tags:
   - 5e
   - spells
   - settings
-eleventyNavigation:
-  key: 5e Spells - M
-  parent: 5e Spells
-  title: 5e Spells - M
 ---
 
 **Mage Armor** is a [basic] [Order] [Void] [Ward] [Somatic] that [targets 1 thing] and [creates a protective field of magical force around the recipient].  (Tier 2)

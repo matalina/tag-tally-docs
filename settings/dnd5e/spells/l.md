@@ -7,10 +7,6 @@ tags:
   - 5e
   - spells
   - settings
-eleventyNavigation:
-  key: 5e [Spells] - L
-  parent: 5e Spells
-  title: 5e [Spells] - L
 ---
 
 **Legend Lore** is a [complex] [Order] [Time] [Control] [Ritual] that [targets 1 thing] and [receives cryptic information about a person, place, or object].  (Tier 2)

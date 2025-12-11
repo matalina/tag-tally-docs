@@ -7,10 +7,6 @@ tags:
   - 5e
   - spells
   - settings
-eleventyNavigation:
-  key: 5e [Spells] - H
-  parent: 5e Spells
-  title: 5e [Spells] - H
 ---
 
 **Hallow** is a [complex] [Order] [Light] [Ward] [Ritual] that [targets 1 thing] and [sanctifies ground, protecting it from specific creatures or effects].  (Tier 2)

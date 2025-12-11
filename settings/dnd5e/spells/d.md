@@ -7,10 +7,6 @@ tags:
   - 5e
   - spells
   - settings
-eleventyNavigation:
-  key: 5e [Spells] - D
-  parent: 5e Spells
-  title: 5e [Spells] - D
 ---
 
 **Dancing Lights** is a [basic] [Order] [Light] [Summon] [Somatic] that [creates four floating, movable lights]. (Tier 3)

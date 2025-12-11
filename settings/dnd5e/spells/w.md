@@ -7,10 +7,6 @@ tags:
   - 5e
   - spells
   - settings
-eleventyNavigation:
-  key: 5e [Spells] - W
-  parent: 5e Spells
-  title: 5e [Spells] - W
 ---
 
 **Wall of Fire** is a [complex] [Chaos] [Fire] [Summon] [Somatic] that [targets 1 thing] and [creates a sheer wall of fire that deals damage upon entry and exit].  (Tier 3)

@@ -7,10 +7,6 @@ tags:
   - 5e
   - spells
   - settings
-eleventyNavigation:
-  key: 5e [Spells] - V
-  parent: 5e Spells
-  title: 5e [Spells] - V
 ---
 
 **Vampiric Touch** is a [basic] [Chaos] [Death] [Damage] [Somatic] that [targets 1 thing] and [deals necrotic damage on a successful attack, healing the caster for half the damage dealt].  (Tier 2)

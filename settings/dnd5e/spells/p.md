@@ -7,10 +7,6 @@ tags:
   - 5e
   - spells
   - settings
-eleventyNavigation:
-  key: 5e [Spells] - P
-  parent: 5e Spells
-  title: 5e [Spells] - P
 ---
 
 **Pass Without Trace** is a [basic] [Order] [Shadow] [Control] [Somatic] that [targets 1 thing] and [gives up to ten creatures a bonus to Stealth checks].  (Tier 3)
