@@ -1,16 +1,17 @@
 ---
-title: 5e [Spells] - E
+title: 5e [Spells] - Z
 layout: libdoc_page.liquid
-permalink: settings/dnd5e/spells/e/index.html
+permalink: settings/dnd5e/spells/z/index.html
 date: false
 tags:
   - 5e
   - spells
   - settings
 eleventyNavigation:
-  key: 5e [Spells] - E
+  key: 5e [Spells] - Z
   parent: 5e Spells
-  title: 5e [Spells] - E
+  title: 5e [Spells] - Z
 ---
 
-Zone of Truth is a basic Order Mind Control Somatic that targets LEVEL 1 things and creates an area where creatures must succeed on a saving throw or be unable to speak a deliberate lie. (Tier 3)
+**Zone of Truth** is a [basic] [Order] [Mind] [Control] [Somatic] that [targets 1 thing] and [creates an area where creatures must succeed on a saving throw or be unable to speak a deliberate lie].  (Tier 3)
+

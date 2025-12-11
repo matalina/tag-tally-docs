@@ -1,16 +1,17 @@
 ---
-title: 5e [Spells] - E
+title: 5e [Spells] - J
 layout: libdoc_page.liquid
-permalink: settings/dnd5e/spells/e/index.html
+permalink: settings/dnd5e/spells/j/index.html
 date: false
 tags:
   - 5e
   - spells
   - settings
 eleventyNavigation:
-  key: 5e [Spells] - E
+  key: 5e [Spells] - J
   parent: 5e Spells
-  title: 5e [Spells] - E
+  title: 5e [Spells] - J
 ---
 
-Jump is a basic Order Air Control Somatic that targets LEVEL 1 things and triples a creature's jumping distance. (Tier 1)
+**Jump** is a [basic] [Order] [Air] [Control] [Somatic] that [targets 1 thing] and [triples a creature's jumping distance].  (Tier 1)
+
