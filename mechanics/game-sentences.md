@@ -27,13 +27,23 @@ Every thing in the game can be defined with a singular sentence at its core. But
 
 {% sentence 'Creature', '[Name] is a [disposition] [descriptor] [type] who [motivation] and does [basic attack] damage.', 'dragon' %}
 
+{% sentence 'Encounter', '[verb] [adjective] [noun]', 'question' %}
+
 {% sentence 'Faction', '[Name] is a [descriptor] [organization type] that [core function or purpose] and [notable trait or secret]', 'faction' %}
 
 {% sentence 'Locations', '[Name] is a [descriptive] [location type] that [distinctive feature or role in the world]', 'location' %}
 
+{% sentence 'Dungeon', '[Name] is a [descriptive] [location type] that [distinctive feature or role in the world]', 'location' %}
+
+{% sentence 'Lair', '[Name] is a [descriptive] [location type] that [distinctive feature or role in the world]', 'location' %}
+
+{% sentence 'Room', '[Name] is a [descriptive] [location type] that [distinctive feature or role in the world]', 'location' %}
+
 {% sentence 'Armor', '[Name] is a [descriptor] [material] [armor type] that [does something special].', 'shield' %}
 
 {% sentence 'Item', '[Name] is a [descriptor] [item type] that [does something special].', 'loot' %}
+
+{% sentence 'Clue', '[Name] is a [sensory tag] [form tag] [item type] that [behavior tag], leading toward [narrative tag]', 'question' %}
 
 {% sentence 'Weapon', '[Name] is a [descriptor] [material] [weapon type] that does [damage type] damage and [something special].', 'sword' %}
 
@@ -43,4 +53,6 @@ Every thing in the game can be defined with a singular sentence at its core. But
 
 {% sentence 'Spell', '[Name] is a [descriptor] [base] [aspect] [type] [artifact] that targets [LEVEL] [things] and [does something].', 'spell' %}
 
-{% sentence 'Arc', '[Name] is looking for [a character arc].', 'arc' %}
+{% sentence 'Quest', '[verb] [adjective] [noun]', 'question' %}
+
+{% sentence 'Arc', '[Name] is [verb] [adjective] [noun]', 'arc' %}

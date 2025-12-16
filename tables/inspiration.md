@@ -56,7 +56,7 @@ eleventyNavigation:
 | 5   | Chipped  | Cracked    | Eerie  | Whispering   | Burnt      | Shimmering |
 | 6   | Tattered | Unfinished | Sturdy | Bloodstained | Looming    | Pristine   |
 
-**Emotion**s
+**Emotion**
 
 | d66 | 1       | 2           | 3          | 4            | 5            | 6           |
 | --- | ------- | ----------- | ---------- | ------------ | ------------ | ----------- |

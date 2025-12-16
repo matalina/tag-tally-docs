@@ -65,10 +65,10 @@ Weapons come in various different damage types. Creature attacks also do these s
 
 | d4  | Consumable Type  |
 | --- | ---------------- |
-|     | Food/Meal/Ration |
-|     | Potion           |
-|     | Ammunition       |
-|     | Scroll           |
+| 1   | Food/Meal/Ration |
+| 2   | Potion           |
+| 3   | Ammunition       |
+| 4   | Scroll           |
 
 ## Trap Type
 

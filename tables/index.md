@@ -9,8 +9,6 @@ eleventyNavigation:
   order: 3
 ---
 
-- [Character Creation](/tables/characters)
-- [Character Options](/tables/character-options)
 - [Creature](/tables/creature)
 - [Gear](/tables/gear)
 - [Inspiration](/tables/inspiration)

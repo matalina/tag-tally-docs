@@ -105,3 +105,12 @@
   background-size: 45px;
   width: 56px;
 }
+
+.svg-question {
+  content: '';
+  background-image: url('icons/question.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 45px;
+  width: 56px;
+}
