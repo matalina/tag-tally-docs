@@ -1,15 +1,12 @@
 ---
 title: Characters
 layout: libdoc_page.liquid
-permalink: tables/characters/index.html
+permalink: settings/fractured-veil/characters/index.html
 date: false
 tags:
   - characters
-  - tables
-eleventyNavigation:
-  key: Characters
-  parent: Tables
-  title: Characters
+  - setting
+  - fractured veil
 ---
 
 ## The Basics

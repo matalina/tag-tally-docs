@@ -1,15 +1,12 @@
 ---
 title: Creature
 layout: libdoc_page.liquid
-permalink: tables/creature/index.html
+permalink: settings/fractured-veil/creature/index.html
 date: false
 tags:
   - creature
-  - tables
-eleventyNavigation:
-  key: Creature
-  parent: Tables
-  title: Creature
+  - setting
+  - fractured veil
 ---
 
 ## Realm

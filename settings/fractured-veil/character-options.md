@@ -1,15 +1,12 @@
 ---
 title: Character Options
 layout: libdoc_page.liquid
-permalink: tables/character-options/index.html
+permalink: settings/fractured-veil/character-options/index.html
 date: false
 tags:
   - character options
-  - tables
-eleventyNavigation:
-  key: Character Options
-  parent: Tables
-  title: Character Options
+  - setting
+  - fractured veil
 ---
 
 ## Fantasy Species

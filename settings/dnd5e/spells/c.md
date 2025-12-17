@@ -7,7 +7,7 @@ tags:
   - 5e
   - spells
   - settings
-
+---
 
 - [Call Lightning](call-lightning)
 - [Calm Emotions](calm-emotions)
