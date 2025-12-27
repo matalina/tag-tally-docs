@@ -101,14 +101,16 @@ eleventyNavigation:
 
 ## Overland Tables
 
-| d6  | Terrain    |
+| d8  | Terrain    |
 | --- | ---------- |
 | 1   | Forest     |
 | 2   | Plains     |
 | 3   | Mountain   |
 | 4   | Swamp      |
 | 5   | Island     |
-| 6   | Roll again |
+| 6   | Desert     |
+| 7   | Wastelands |
+| 8   | Magiclands |
 
 | d12 | Terrain Feature          | Difficulty |
 | --- | ------------------------ | ---------- |
@@ -124,6 +126,93 @@ eleventyNavigation:
 | 10  | Environmental Hazard     | Dangerous  |
 | 11  | Unstable Ground          | Dangerous  |
 | 12  | Supernatural Distortion  | Dangerous  |
+
+### Adjacent Terrain
+
+| 2d6 |Adjacent to Forest |
+| ----- | ---------------- |
+| 2–3   | Plains           |
+| 4–5   | Swamp            |
+| 6     | Mountain         |
+| 7     | Forest           |
+| 8     | Magiclands       |
+| 9–10  | Wastelands       |
+| 11–12 | Island           |
+
+
+| 2d6 |Adjacent to Plains |
+| ----- | ---------------- |
+| 2–3   | Forest           |
+| 4–5   | Desert           |
+| 6     | Mountain         |
+| 7     | Plains           |
+| 8     | Swamp            |
+| 9–10  | Wastelands       |
+| 11–12 | Island           |
+
+| 2d6 |Adjacent to Mountain |
+| ----- | ---------------- |
+| 2–3   | Forest           |
+| 4–5   | Plains           |
+| 6     | Desert           |
+| 7 | Mountain |
+| 8     | Wastelands       |
+| 9–10  | Magiclands       |
+| 11–12 | Island           |
+
+
+| 2d6 |Adjacent to Swamp |
+| ----- | ---------------- |
+| 2–3   | Forest           |
+| 4–5   | Plains           |
+| 6     | Island           |
+| 7 | Swamp |
+| 8     | Magiclands       |
+| 9–10  | Wastelands       |
+| 11–12 | Desert           |
+
+| 2d6 |Adjacent to Island |
+| ----- | ---------------- |
+| 2–3   | Plains           |
+| 4–5   | Swamp            |
+| 6     | Forest           |
+| 7 | Island |
+| 8     | Desert           |
+| 9–10  | Magiclands       |
+| 11–12 | Mountain         |
+
+
+| 2d6 |Adjacent to Desert |
+| ----- | ---------------- |
+| 2–3   | Plains           |
+| 4–5   | Mountain         |
+| 6     | Wastelands       |
+| 7 | Desert |
+| 8     | Island           |
+| 9–10  | Magiclands       |
+| 11–12 | Forest           |
+
+
+| 2d6 |Adjacent to Wastelands |
+| ----- | ---------------- |
+| 2–3   | Desert           |
+| 4–5   | Mountain         |
+| 6     | Plains           |
+| 7 | Wastelands |
+| 8     | Swamp            |
+| 9–10  | Magiclands       |
+| 11–12 | Forest           |
+
+
+| 2d6 |Adjacent to Magiclands |
+| ----- | ---------------- |
+| 2–3   | Forest           |
+| 4–5   | Swamp            |
+| 6     | Mountain         |
+| 7 | Magiclands |
+| 8     | Desert           |
+| 9–10  | Wastelands       |
+| 11–12 | Plains           |
 
 ## Urban Terrain Tables
 
@@ -161,3 +250,167 @@ eleventyNavigation:
 | 14  | Warehouse     |
 | 15  | Industrial    |
 | 16  | Roll again    |
+
+| 2d6 | Adjacent to High Class |
+| ----- | ----------------- |
+| 2–3   | Financial         |
+| 4–5   | Government        |
+| 6     | University        |
+| 7     | High Class        |
+| 8     | Park              |
+| 9–10  | Commercial        |
+| 11–12 | Downtown          |
+
+
+| 2d6 | Adjacent to Financial |
+| ----- | ----------------- |
+| 2–3   | Downtown          |
+| 4–5   | Commercial        |
+| 6     | High Class        |
+| 7     | Financial         |
+| 8     | Government        |
+| 9–10  | Tech              |
+| 11–12 | Warehouse         |
+
+
+| 2d6 | Adjacent to Middle Class |
+| ----- | ----------------- |
+| 2–3   | Commercial        |
+| 4–5   | Park              |
+| 6     | University        |
+| 7     | Middle Class      |
+| 8     | Downtown          |
+| 9–10  | Slums             |
+| 11–12 | Medical Park      |
+
+
+| 2d6 | Adjacent to Slums |
+| ----- | ----------------- |
+| 2–3   | Industrial        |
+| 4–5   | Warehouse         |
+| 6     | Commercial        |
+| 7     | Slums             |
+| 8     | Middle Class      |
+| 9–10  | Entertainment     |
+| 11–12 | Downtown          |
+
+
+| 2d6 | Adjacent to Park |
+| ----- | ----------------- |
+| 2–3   | Middle Class      |
+| 4–5   | High Class        |
+| 6     | University        |
+| 7     | Park              |
+| 8     | Medical Park      |
+| 9–10  | Downtown          |
+| 11–12 | Entertainment     |
+
+
+| 2d6 | Adjacent to Medical Park |
+| ----- | ----------------- |
+| 2–3   | University        |
+| 4–5   | Park              |
+| 6     | Middle Class      |
+| 7     | Medical Park      |
+| 8     | Government        |
+| 9–10  | Downtown          |
+| 11–12 | Commercial        |
+
+
+| 2d6 | Adjacent to Commercial |
+| ----- | ----------------- |
+| 2–3   | Downtown          |
+| 4–5   | Middle Class      |
+| 6     | Financial         |
+| 7     | Commercial        |
+| 8     | Entertainment     |
+| 9–10  | Warehouse         |
+| 11–12 | Slums             |
+
+
+| 2d6 | Adjacent to Downtown |
+| ----- | ----------------- |
+| 2–3   | Commercial        |
+| 4–5   | Financial         |
+| 6     | Government        |
+| 7     | Downtown          |
+| 8     | Entertainment     |
+| 9–10  | Middle Class      |
+| 11–12 | Tech              |
+
+
+| 2d6 | Adjacent to Government |
+| ----- | ----------------- |
+| 2–3   | Downtown          |
+| 4–5   | Financial         |
+| 6     | High Class        |
+| 7     | Government        |
+| 8     | Medical Park      |
+| 9–10  | University        |
+| 11–12 | Commercial        |
+
+
+| 2d6 | Adjacent to University |
+| ----- | ----------------- |
+| 2–3   | Tech              |
+| 4–5   | Medical Park      |
+| 6     | Middle Class      |
+| 7     | University        |
+| 8     | Park              |
+| 9–10  | Downtown          |
+| 11–12 | Commercial        |
+
+
+| 2d6 | Adjacent to Entertainment |
+| ----- | ----------------- |
+| 2–3   | Downtown          |
+| 4–5   | Commercial        |
+| 6     | Slums             |
+| 7     | Entertainment     |
+| 8     | Middle Class      |
+| 9–10  | Park              |
+| 11–12 | Warehouse         |
+
+
+| 2d6 | Adjacent to Tech |
+| ----- | ----------------- |
+| 2–3   | University        |
+| 4–5   | Financial         |
+| 6     | Downtown          |
+| 7     | Tech              |
+| 8     | Industrial        |
+| 9–10  | Warehouse         |
+| 11–12 | Commercial        |
+
+
+| 2d6 | Adjacent to Warehouse |
+| ----- | ----------------- |
+| 2–3   | Industrial        |
+| 4–5   | Slums             |
+| 6     | Commercial        |
+| 7     | Warehouse         |
+| 8     | Tech              |
+| 9–10  | Downtown          |
+| 11–12 | Entertainment     |
+
+
+| 2d6 | Adjacent to Industrial |
+| ----- | ----------------- |
+| 2–3   | Warehouse         |
+| 4–5   | Slums             |
+| 6     | Tech              |
+| 7     | Industrial        |
+| 8     | Commercial        |
+| 9–10  | Downtown          |
+| 11–12 | Middle Class      |
+
+This scene is a [descriptor] [scene type] that [does something]
+
+d66 | 1 | 2 | 3 | 4 | 5 | 6 
+---|---|---|---|---|---|---
+1 |
+2 |
+3 |
+4 | 
+5 |
+6 |
