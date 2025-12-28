@@ -17,5 +17,6 @@ eleventyNavigation:
 - [Resolution](/tables/resolution)
 - [Scene](/tables/scene)
 - [Setting](/tables/setting)
+- [Settlements](/tables/settlement)
 - [Travel](/tables/travel)
 - [Wounds](/tables/wounds)
