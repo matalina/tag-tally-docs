@@ -8,10 +8,9 @@ eleventyNavigation:
   title: Legal
   order: 100
 ---
-
 ## Legal
 
-Tag and Tally © 2025 is licensed under CC BY-SA 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+Tag and Tally © 2025-2026 is licensed under CC BY-SA 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## 3rd Party Licenses
 

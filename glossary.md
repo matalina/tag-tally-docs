@@ -8,7 +8,6 @@ eleventyNavigation:
   title: Glossary
   order: 98
 ---
-
 ## A
 
 **Advantage:** when rolling with advantage, you roll two dice and take the highest result.

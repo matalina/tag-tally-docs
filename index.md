@@ -4,7 +4,6 @@ layout: libdoc_page.liquid
 permalink: index.html
 date: false
 ---
-
 **Tag & Tally** is a narrative-first tabletop RPG where every thing is defined by two things &mdash; a sentence and a level. The sentence tells you what it is; The number tells you how tough they are.
 
 Tag &amp; Tall is designed for solo first, but cooperative or GM-led stories work perfectly well.
