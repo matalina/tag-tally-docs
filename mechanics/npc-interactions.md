@@ -13,7 +13,6 @@ eleventyNavigation:
   title: NPC Interactions
   order: 7
 ---
-
 - A typical NPC will start at _indifferent_ when meeting an NPC.
 - Based on society and faction expectations adjust the relationship.
 - Relationships changed based on the interactions.

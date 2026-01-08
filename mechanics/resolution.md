@@ -12,12 +12,11 @@ eleventyNavigation:
   title: Resolution
   order: 2
 ---
-
 ## Basic Resolution
 
 Tags & Tally has a fail forward resolution mechanic.
 
-Every thing in the game has a level between 0 and 10. An conflict, interaction, or task that has the possibility of changing the story should roll against a target DC. The DC of anything in the game is three times its level.
+Everything in the game has a level between 0 and 10. A conflict, interaction, or task that has the possibility of changing the story should roll against a target DC. The DC of anything in the game is three times its level.
 
 > DC = 3 \* level
 

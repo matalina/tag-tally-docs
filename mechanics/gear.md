@@ -25,7 +25,7 @@ There are three different armor types. Armor eases defense and hinders stealth a
 
 ## Weapons
 
-Weapons come in various different damage types. Creature attacks also do these same damage types.
+Weapons come in different damage types. Creature attacks also do these same damage types.
 
 | d8  | Damage Types                                    |
 | --- | ----------------------------------------------- |
@@ -40,7 +40,7 @@ Weapons come in various different damage types. Creature attacks also do these s
 
 ## Consumables
 
-Consumables are peices of gear that have a limited lifetime.  Such as rations, potions, scrolls. Each consumable must dictate how it is depleted.  Some consumables leave behind remnants that can be used later, these things such as paint, chalk have a durability that determines if the remnant is reusable again.  
+Consumables are pieces of gear that have a limited lifetime. Such as rations, potions, scrolls. Each consumable must dictate how it is depleted.  Some consumables leave behind remnants that can be used later. These things such as paint, chalk have a durability that determines if the remnant is reusable again.  
 
 Consumable options:
 * One use

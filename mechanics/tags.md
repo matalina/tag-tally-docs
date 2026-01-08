@@ -12,7 +12,6 @@ eleventyNavigation:
   title: Tags
   order: 3
 ---
-
 ## Tags
 
 Tags are the basis of all descriptive sentences in Tag & Tally. Tags should always ease or hinder one or more actions.

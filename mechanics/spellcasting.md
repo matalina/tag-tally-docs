@@ -13,7 +13,6 @@ eleventyNavigation:
   title: Spellcasting
   order: 6
 ---
-
 ## Spellcasting
 
 Any player character has access to magic if they so desire.
@@ -39,9 +38,9 @@ All characters also have an assigned tier. Using the table below changes the spe
 
 ### Magial Aptitude Index (MAI)
 
-The Magical Aptitude Index (MAI) measures a being’s innate connection to the fundamental forces of magic. It represents potential—how easily one can perceive, channel, and manipulate aetheric energy. A higher MAI reflects a naturally resonant essence, often tied to birthright, lineage, or cosmic phenomena. MAI begins with a base value set by species and modified by subspecies, descriptor, type, and specialization. Ultimately, MAI determines the ceiling of a caster’s magical capability, shaping both the scope and stability of their spellcraft.
+The Magical Aptitude Index (MAI) measures a being’s innate connection to the fundamental forces of magic. It represents potential—how easily one can perceive, channel, and manipulate aetheric energy. A higher MAI reflects a naturally resonant essence, often tied to birthright, lineage, or cosmic phenomena. MAI begins with a base value set by species and modified by subspecies, descriptor, type, and specialization. Ultimately, MAI determines the ceiling of a caster’s magical capability, shaping both the scope and stability of their spell craft.
 
-Each Species has a base MAI to start a character with. Sub-species may modify this number. For each Magical tag in the Character sentence you add +1 to the MAI number. (so up to +3 -- descriptor, type and speciality)
+Each Species has a base MAI to start a character with. Sub-species may modify this number. For each Magical tag in the Character sentence you add +1 to the MAI number. (so up to +3 -- descriptor, type, and speciality)
 
 ### Caster Tier
 
@@ -70,7 +69,7 @@ Total Points | Tier
 
 Spells have a sentence like all other things in Tag & Tally.
 
-{% sentence 'Spell', '[Name] is a [descriptor] [base] [aspect] [type] [artifact] that targets [LEVEL] [things] and [does something].', 'spell' %}
+{% sentence 'Spell', '\[Name] is a \[descriptor] \[base] \[aspect] \[type] \[artifact] that targets \[LEVEL] \[things] and \[does something].', 'spell' %}
 
 ### Spell Tiers
 
