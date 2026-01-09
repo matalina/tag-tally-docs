@@ -324,6 +324,127 @@ eleventyNavigation:
 | 9–10  | Wastelands       |
 | 11–12 | Plains           |
 
+
+**Forest**
+| d10 | Verb        | Adjective   | Noun       |
+| --- | ----------- | ----------- | ---------- |
+| 1   | Track       | Fresh       | Footprints |
+| 2   | Avoid       | Hidden      | Snare      |
+| 3   | Follow      | Whispering  | Path       |
+| 4   | Discover    | Ancient     | Tree       |
+| 5   | Protect     | Wounded     | Animal     |
+| 6   | Lose        | Twisting    | Trail      |
+| 7   | Encounter   | Territorial | Hunter     |
+| 8   | Investigate | Unnatural   | Silence    |
+| 9   | Climb       | Towering    | Canopy     |
+| 10  | Escape      | Closing     | Thicket    |
+
+
+**Plains**
+| d10 | Verb      | Adjective  | Noun      |
+| --- | --------- | ---------- | --------- |
+| 1   | Spot      | Distant    | Riders    |
+| 2   | Cross     | Windswept  | Field     |
+| 3   | Escort    | Nervous    | Caravan   |
+| 4   | Defend    | Exposed    | Camp      |
+| 5   | Follow    | Fading     | Tracks    |
+| 6   | Negotiate | Uneasy     | Truce     |
+| 7   | Outrun    | Relentless | Storm     |
+| 8   | Observe   | Circling   | Vultures  |
+| 9   | Search    | Abandoned  | Farmstead |
+| 10  | Confront  | Charging   | Beast     |
+
+
+**Mountains**
+| d10 | Verb        | Adjective   | Noun      |
+| --- | ----------- | ----------- | --------- |
+| 1   | Climb       | Sheer       | Cliff     |
+| 2   | Navigate    | Treacherous | Pass      |
+| 3   | Secure      | Narrow      | Ledge     |
+| 4   | Investigate | Echoing     | Cave      |
+| 5   | Rescue      | Trapped     | Traveler  |
+| 6   | Endure      | Biting      | Cold      |
+| 7   | Avoid       | Unstable    | Avalanche |
+| 8   | Discover    | Forgotten   | Shrine    |
+| 9   | Chase       | Fleeing     | Figure    |
+| 10  | Survive     | Sudden      | Rockfall  |
+
+
+**Swamp**
+| d10 | Verb        | Adjective  | Noun     |
+| --- | ----------- | ---------- | -------- |
+| 1   | Wade        | Murky      | Water    |
+| 2   | Avoid       | Sucking    | Mud      |
+| 3   | Investigate | Rotting    | Hut      |
+| 4   | Follow      | Flickering | Lights   |
+| 5   | Negotiate   | Paranoid   | Hermit   |
+| 6   | Endure      | Swarming   | Insects  |
+| 7   | Discover    | Half-sunk  | Ruins    |
+| 8   | Escape      | Grasping   | Vines    |
+| 9   | Track       | Slithering | Creature |
+| 10  | Survive     | Poisonous  | Fumes    |
+
+
+**Island**
+| d10 | Verb        | Adjective   | Noun     |
+| --- | ----------- | ----------- | -------- |
+| 1   | Explore     | Uncharted   | Shore    |
+| 2   | Repair      | Damaged     | Boat     |
+| 3   | Investigate | Signal      | Fire     |
+| 4   | Negotiate   | Wary        | Natives  |
+| 5   | Secure      | Limited     | Supplies |
+| 6   | Avoid       | Encircling  | Reef     |
+| 7   | Discover    | Buried      | Relic    |
+| 8   | Defend      | Isolated    | Camp     |
+| 9   | Track       | Stranded    | Survivor |
+| 10  | Escape      | Approaching | Storm    |
+
+
+**Desert**
+| d10 | Verb        | Adjective   | Noun       |
+| --- | ----------- | ----------- | ---------- |
+| 1   | Endure      | Scorching   | Heat       |
+| 2   | Search      | Hidden      | Oasis      |
+| 3   | Follow      | Shifting    | Dunes      |
+| 4   | Protect     | Cracked     | Caravan    |
+| 5   | Investigate | Buried      | Ruins      |
+| 6   | Negotiate   | Thirsty     | Nomads     |
+| 7   | Avoid       | Blinding    | Sandstorm  |
+| 8   | Discover    | Mirrored    | Mirage     |
+| 9   | Chase       | Stolen      | Water      |
+| 10  | Escape      | Encroaching | Night Cold |
+
+
+**Wastelands**
+| d10 | Verb        | Adjective  | Noun       |
+| --- | ----------- | ---------- | ---------- |
+| 1   | Scavenge    | Twisted    | Wreckage   |
+| 2   | Avoid       | Irradiated | Zone       |
+| 3   | Confront    | Desperate  | Raiders    |
+| 4   | Investigate | Cratered   | Facility   |
+| 5   | Secure      | Failing    | Generator  |
+| 6   | Escort      | Injured    | Survivor   |
+| 7   | Endure      | Toxic      | Fallout    |
+| 8   | Discover    | Mutated    | Creature   |
+| 9   | Defend      | Makeshift  | Stronghold |
+| 10  | Escape      | Collapsing | Highway    |
+
+**Magiclands**
+| d10 | Verb        | Adjective    | Noun      |
+| --- | ----------- | ------------ | --------- |
+| 1   | Navigate    | Warped       | Terrain   |
+| 2   | Contain     | Unstable     | Spell     |
+| 3   | Negotiate   | Alien        | Entity    |
+| 4   | Investigate | Living       | Structure |
+| 5   | Survive     | Reality-bent | Storm     |
+| 6   | Discover    | Impossible   | Artifact  |
+| 7   | Resist      | Enchanting   | Influence |
+| 8   | Repair      | Fractured    | Leyline   |
+| 9   | Escape      | Recursive    | Loop      |
+| 10  | Confront    | Ascendant    | Guardian  |
+
+
+
 ## Urban Terrain Tables
 
 | d12 | Urban Terrain Type    | Difficulty |
