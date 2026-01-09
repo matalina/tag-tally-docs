@@ -15,4 +15,3 @@ eleventyNavigation:
 - [Species Creation](/guides/species)
 - [Creature Creation](/guides/creature)
 - [Item Creation](/guids/item)
-- [Scene Creation](/guides/scene)

@@ -13,6 +13,7 @@ eleventyNavigation:
   title: Spellcasting
   order: 6
 ---
+
 ## Spellcasting
 
 Any player character has access to magic if they so desire.
@@ -46,104 +47,103 @@ Each Species has a base MAI to start a character with. Sub-species may modify th
 
 Caster Tiers are based on MAI and modified by all character tags.
 
-MAI | Points
----|---
-0–4 | +0
-5 | +1
-6 | +2
-7 | +3
-8 | +4
-9 | +5
-10 | +6
+| MAI | Points |
+| --- | ------ |
+| 0–4 | +0     |
+| 5   | +1     |
+| 6   | +2     |
+| 7   | +3     |
+| 8   | +4     |
+| 9   | +5     |
+| 10  | +6     |
 
 Add +1 for each magical tag for all life stages, descriptor, type, and specialty. Use the Tier of a tag as the plus if it has one.
 
-Total Points | Tier
----|---
-0-5 | Tier 1
-6-10 | Tier 2
-11-13 | Tier 3
-14+ | Tier 4
+| Total Points | Tier   |
+| ------------ | ------ |
+| 0-5          | Tier 1 |
+| 6-10         | Tier 2 |
+| 11-13        | Tier 3 |
+| 14+          | Tier 4 |
 
 ## Spell Creation
 
 Spells have a sentence like all other things in Tag & Tally.
 
-{% sentence 'Spell', '\[Name] is a \[descriptor] \[base] \[aspect] \[type] \[artifact] that targets \[LEVEL] \[things] and \[does something].', 'spell' %}
+{% sentence 'Spell', '[Name] is a [descriptor] [base] [aspect] [type] [artifact] that targets [LEVEL] [things] and [does something].', 'spell' %}
 
 ### Spell Tiers
 
-To determine a spell’s Tier, assign points for each of its five factors: Aspect, Type, Base, Artifact, and Level/Target. 
+To determine a spell’s Tier, assign points for each of its five factors: Aspect, Type, Base, Artifact, and Level/Target.
 
 Use the predefined point values, sum the points from all five factors to get a total. Compare the total to the Tier mapping. The resulting Tier reflects the spell’s complexity, power, and risk.
 
-Aspect | Points
----|---
-earth, air, water, death, illusion (low-risk) | 1
-fire, mind, light, sound (moderate) | 2
-shadow, time, life, space (high-risk/volatile) | 3
+| Aspect                                         | Points |
+| ---------------------------------------------- | ------ |
+| earth, air, water, death, illusion (low-risk)  | 1      |
+| fire, mind, light, sound (moderate)            | 2      |
+| shadow, time, life, space (high-risk/volatile) | 3      |
 
+| Type    | Points |
+| ------- | ------ |
+| Damage  | 2      |
+| Control | 3      |
+| Summon  | 3      |
+| Ward    | 2      |
+| Counter | 3      |
 
-Type | Points
----|---
-Damage | 2
-Control | 3
-Summon | 3
-Ward | 2
-Counter | 3
+| Base   | Points |
+| ------ | ------ |
+| Order  | 1      |
+| Spirit | 2      |
+| Chaos  | 3      |
+| Void   | 3      |
 
+| Artifact      | Points      |
+| ------------- | ----------- |
+| Manifestation | 4 (hardest) |
+| Lexicon Rune  | 1           |
+| Proto Rune    | 3           |
+| Incantation   | 2           |
+| Somatic       | 2           |
+| Ritual        | 1 (easiest) |
+| Science       | 2           |
 
-Base | Points
----|---
-Order | 1
-Spirit | 2
-Chaos | 3
-Void | 3
-
-Artifact | Points
----|---
-Manifestation | 4 (hardest)
-Lexicon Rune | 1
-Proto Rune | 3
-Incantation | 2
-Somatic | 2
-Ritual | 1 (easiest)
-Science | 2
-
-Level/Target  | Points
----|---
-Self, 1–2 targets | 1
-3–5 targets | 2
-6–10 targets | 3
-AoE / large scale | 4
+| Level/Target      | Points |
+| ----------------- | ------ |
+| Self, 1–2 targets | 1      |
+| 3–5 targets       | 2      |
+| 6–10 targets      | 3      |
+| AoE / large scale | 4      |
 
 #### Tier Mapping:
-Total Points | Tier
----|---
-6–8| Tier 1
-9–11 | Tier 2
-12–15 | Tier 3
-16+ | Tier 4
+
+| Total Points | Tier   |
+| ------------ | ------ |
+| 6–8          | Tier 1 |
+| 9–11         | Tier 2 |
+| 12–15        | Tier 3 |
+| 16+          | Tier 4 |
 
 ### Artifacts
 
-* Science
-  * Equations 
-  * Code
-  * Technology 
-* Magic
-  * Runes — physical symbols
-  * Incantations — verbal or resonate sounds
-  * Somatic — physical gestures
-  * Manifestations — innate power/will
-  * Rituals — runes, incantations, and somatic requirements 
+- Science
+  - Equations
+  - Code
+  - Technology
+- Magic
+  - Runes — physical symbols
+  - Incantations — verbal or resonate sounds
+  - Somatic — physical gestures
+  - Manifestations — innate power/will
+  - Rituals — runes, incantations, and somatic requirements
 
 ### Base
 
-* **Order** — structure and stability
-* **Chaos** — Motion and transformation
-* **Void** — Nullification and isolation
-* **Spirit** — Conscious link
+- **Order** — structure and stability
+- **Chaos** — Motion and transformation
+- **Void** — Nullification and isolation
+- **Spirit** — Conscious link
 
 ### Spell Types
 

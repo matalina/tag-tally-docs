@@ -22,4 +22,3 @@ eleventyNavigation:
 - [Gear](/mechanics/gear)
 - [Crafting](/mechanics/crafting)
 - [Travel](/mechanics/travel)
-- [Scene](guides/scene.md)

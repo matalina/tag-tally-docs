@@ -24,7 +24,7 @@ There are four phases of crafting.
 
 ## Harvesting
 
-{% sentence 'Resource', '\[Name] is a \[rarity] \[descriptor] \[plant] that \[special].', 'question' %}
+{% sentence 'Resource', '[Name] is a [rarity] [descriptor] [plant] that [special].', 'scene' %}
 
 To Harvest raw materials roll a harvest check against the DC of the creature or resource being harvested (Level \* 3) on the first item to be harvested. If the resource was not destroyed in a failed attempt, you may try again. For each subsequent try or item on the harvest list the harvesting task is hindered by two.
 
@@ -148,7 +148,7 @@ The essence can be extracted instead of a part if you wish to augment this abili
 
 **Gland** is a \[common] \[secretory] \[creature part] that \[produces subtle compounds].
 
-**Mucus** is a \[common] \[slimy] \[creature par**t] that \[sticks lightly to surfaces].
+**Mucus** is a \[common] \[slimy] \[creature par\*\*t] that \[sticks lightly to surfaces].
 
 **Vesicle** is an \[uncommon] \[fragile] \[creature part] that \[swells under pressure].
 
@@ -206,7 +206,7 @@ The essence can be extracted instead of a part if you wish to augment this abili
 
 ### Resources
 
-{% sentence 'Resource', '\[Name] is a \[rarity] \[descriptor] \[resourceType] that \[special].', 'question' %}
+{% sentence 'Resource', '[Name] is a [rarity] [descriptor] [resourceType] that [special].', 'question' %}
 
 | d6  | Resource Type | Used in               |
 | --- | ------------- | --------------------- |
@@ -336,15 +336,15 @@ To craft an item. You must roll a crafting check against the base items level pl
 
 On a successful crafting check create an item sentence. The newly crafted item is Level 1 and if purchased in a story has a starting Cost of 3.
 
-{% sentence 'Armor', '\[Name] is a \[descriptor] \[material] \[armor type] that \[does something special].', 'shield' %}
+{% sentence 'Armor', '[Name] is a [descriptor] [material] [armor type] that [does something special].', 'shield' %}
 
-{% sentence 'Item', '\[Name] is a \[descriptor] \[item type] that \[does something special].', 'loot' %}
+{% sentence 'Item', '[Name] is a [descriptor] [item type] that [does something special].', 'loot' %}
 
-{% sentence 'Weapon', '\[Name] is a \[descriptor] \[material] \[weapon type] that does \[damage type] damage and \[something special].', 'sword' %}
+{% sentence 'Weapon', '[Name] is a [descriptor] [material] [weapon type] that does [damage type] damage and [something special].', 'sword' %}
 
-{% sentence 'Trap', '\[Name] is a \[descriptor] \[trap type] that \[trigger condition] and \[effect or consequence].', 'danger' %}
+{% sentence 'Trap', '[Name] is a [descriptor] [trap type] that [trigger condition] and [effect or consequence].', 'danger' %}
 
-{% sentence 'Consumable', '\[Name] is a \[descriptor] \[consumable type] that \[effect on consumption] and \[any special property or twist].', 'potion' %}
+{% sentence 'Consumable', '[Name] is a [descriptor] [consumable type] that [effect on consumption] and [any special property or twist].', 'potion' %}
 
 ## Augmenting
 

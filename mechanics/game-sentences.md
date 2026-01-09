@@ -15,44 +15,44 @@ eleventyNavigation:
 
 Everything in the game can be defined with a singular sentence at its core. But most things also have additional tags that can ease or hinder abilities, skills and offer a greater variety to even the simplest of sentences.
 
-{% sentence 'Scene', 'This scene is a \[descriptor] \[scene type] that \[does something]', 'scene' %}
+{% sentence 'Scene', 'This scene is a [descriptor] [scene type] that [does something]', 'scene' %}
 
-{% sentence 'Character', '\[Name] is a \[descriptor] \[species] \[type] who \[specializes in]', 'character' %}
+{% sentence 'Character', '[Name] is a [descriptor] [species] [type] who [specializes in]', 'character' %}
 
-{% sentence 'NPC', '\[Name] is a \[descriptor] \[species] \[type] who \[verbs] \[something] and does \[damage] damage', 'character' %}
+{% sentence 'NPC', '[Name] is a [descriptor] [species] [type] who [verbs] [something] and does [damage] damage', 'character' %}
 
-{% sentence 'Species', '\[Name] are a \[descriptor] people who \[cultural trait or motivation] and \[physical/biological feature].', 'character' %}
+{% sentence 'Species', '[Name] are a [descriptor] people who [cultural trait or motivation] and [physical/biological feature].', 'character' %}
 
-{% sentence 'Type', '\[Name] is a \[descriptor] \[type] who \[specializes in]', 'character' %}
+{% sentence 'Type', '[Name] is a [descriptor] [type] who [specializes in]', 'character' %}
 
-{% sentence 'Creature', '\[Name] is a \[disposition] \[descriptor] \[type] who \[motivation] and does \[basic attack] damage.', 'dragon' %}
+{% sentence 'Creature', '[Name] is a [disposition] [descriptor] [type] who [motivation] and does [basic attack] damage.', 'dragon' %}
 
-{% sentence 'Encounter', '\[verb] \[adjective] \[noun]', 'question' %}
+{% sentence 'Encounter', '[verb] [adjective] [noun]', 'question' %}
 
-{% sentence 'Faction', '\[Name] is a \[descriptor] \[organization type] that \[core function or purpose] and \[notable trait or secret]', 'faction' %}
+{% sentence 'Faction', '[Name] is a [descriptor] [organization type] that [core function or purpose] and [notable trait or secret]', 'faction' %}
 
-{% sentence 'Locations', '\[Name] is a \[descriptive] \[location type] that \[distinctive feature or role in the world]', 'location' %}
+{% sentence 'Locations', '[Name] is a [descriptive] [location type] that [distinctive feature or role in the world]', 'location' %}
 
-{% sentence 'Dungeon', '\[Name] is a \[descriptive] \[location type] that \[distinctive feature or role in the world]', 'location' %}
+{% sentence 'Dungeon', '[Name] is a [descriptive] [location type] that [distinctive feature or role in the world]', 'location' %}
 
-{% sentence 'Lair', '\[Name] is a \[descriptive] \[location type] that \[distinctive feature or role in the world]', 'location' %}
+{% sentence 'Lair', '[Name] is a [descriptive] [location type] that [distinctive feature or role in the world]', 'location' %}
 
-{% sentence 'Room', '\[Name] is a \[descriptive] \[location type] that \[distinctive feature or role in the world]', 'location' %}
+{% sentence 'Room', '[Name] is a [descriptive] [location type] that [distinctive feature or role in the world]', 'location' %}
 
-{% sentence 'Armor', '\[Name] is a \[descriptor] \[material] \[armor type] that \[does something special].', 'shield' %}
+{% sentence 'Armor', '[Name] is a [descriptor] [material] [armor type] that [does something special].', 'shield' %}
 
-{% sentence 'Item', '\[Name] is a \[descriptor] \[item type] that \[does something special].', 'loot' %}
+{% sentence 'Item', '[Name] is a [descriptor] [item type] that [does something special].', 'loot' %}
 
-{% sentence 'Clue', '\[Name] is a \[sensory tag] \[form tag] \[item type] that \[behavior tag], leading toward \[narrative tag]', 'question' %}
+{% sentence 'Clue', '[Name] is a [sensory tag] [form tag] [item type] that [behavior tag], leading toward [narrative tag]', 'question' %}
 
-{% sentence 'Weapon', '\[Name] is a \[descriptor] \[material] \[weapon type] that does \[damage type] damage and \[something special].', 'sword' %}
+{% sentence 'Weapon', '[Name] is a [descriptor] [material] [weapon type] that does [damage type] damage and [something special].', 'sword' %}
 
-{% sentence 'Trap', '\[Name] is a \[descriptor] \[trap type] that \[trigger condition] and \[effect or consequence].', 'danger' %}
+{% sentence 'Trap', '[Name] is a [descriptor] [trap type] that [trigger condition] and [effect or consequence].', 'danger' %}
 
-{% sentence 'Consumable', '\[Name] is a \[descriptor] \[consumable type] that \[effect on consumption] and \[any special property or twist].', 'potion' %}
+{% sentence 'Consumable', '[Name] is a [descriptor] [consumable type] that [effect on consumption] and [any special property or twist].', 'potion' %}
 
-{% sentence 'Spell', '\[Name] is a \[descriptor] \[base] \[aspect] \[type] \[artifact] that targets \[LEVEL] \[things] and \[does something].', 'spell' %}
+{% sentence 'Spell', '[Name] is a [descriptor] [base] [aspect] [type] [artifact] that targets [LEVEL] [things] and [does something].', 'spell' %}
 
-{% sentence 'Quest', '\[verb] \[adjective] \[noun]', 'question' %}
+{% sentence 'Quest', '[verb] [adjective] [noun]', 'question' %}
 
-{% sentence 'Arc', '\[Name] is \[verb] \[adjective] \[noun]', 'arc' %}
+{% sentence 'Arc', '[Name] is [verb] [adjective] [noun]', 'arc' %}
