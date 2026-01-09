@@ -5,7 +5,7 @@
         month: 'long',
         day: 'numeric',
       });
-      const year = now.getFullYear();
+      let year = now.getFullYear();
       if (year !== 2025) {
         year = `2025 - ${year}`;
       }
