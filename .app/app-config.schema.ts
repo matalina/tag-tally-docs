@@ -162,6 +162,12 @@ export interface AppConfig {
         label?: string;
 
         /**
+         * The URL to link to when clicking the group label.
+         * If provided, the label will be rendered as a link instead of a button.
+         */
+        url?: string;
+
+        /**
          * Whether the group should be expanded by default.
          * Ignored if the group has no label.
          * @default true

@@ -100,17 +100,42 @@
           >
             {% if group.label %}
               <h4 class="nav-group__title" id="app:sidebar:section:{{ section.id }}:group:{{ group.id }}:title">
-                <button
-                  type="button"
-                  class="nav-group__toggle" 
-                  aria-controls="app:sidebar:section:{{ section.id }}:group:{{ group.id }}:list"
-                  aria-expanded="true"
-                  :aria-expanded="expanded"
-                  @click="toggle()"
-                >
-                  <span>{{ group.label }}</span>
-                  {{ 'chevron-right' | icon | safe }}
-                </button>
+                {% if group.url %}
+                  <div class="nav-group__link-with-toggle">
+                    <a
+                      href="{{ group.url }}"
+                      {{ group.url | ariaCurrent }}
+                      class="nav-group__link"
+                    >
+                      <span>{{ group.label }}</span>
+                    </a>
+                    <button
+                      type="button"
+                      class="nav-group__toggle" 
+                      aria-controls="app:sidebar:section:{{ section.id }}:group:{{ group.id }}:list"
+                      aria-expanded="true"
+                      :aria-expanded="expanded"
+                      @click="toggle()"
+                    >
+                      {{ 'chevron-right' | icon | safe }}
+                      <span class="visually-hidden">
+                        Toggle {{ group.label }}
+                      </span>
+                    </button>
+                  </div>
+                {% else %}
+                  <button
+                    type="button"
+                    class="nav-group__toggle" 
+                    aria-controls="app:sidebar:section:{{ section.id }}:group:{{ group.id }}:list"
+                    aria-expanded="true"
+                    :aria-expanded="expanded"
+                    @click="toggle()"
+                  >
+                    <span>{{ group.label }}</span>
+                    {{ 'chevron-right' | icon | safe }}
+                  </button>
+                {% endif %}
               </h4>
             {% endif %}
             <div 

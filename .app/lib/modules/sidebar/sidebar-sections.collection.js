@@ -26,6 +26,7 @@ export const sidebarSectionsCollection =
           {
             id: getId(),
             label: group.label,
+            url: group.url,
             expanded: group.expanded ?? true,
             tree: filteredNotes,
           },

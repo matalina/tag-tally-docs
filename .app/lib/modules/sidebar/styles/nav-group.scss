@@ -14,6 +14,16 @@
   }
 }
 
+.nav-group__link-with-toggle {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  margin-block-end: var(--space-2);
+
+  & > * {
+    grid-area: 1 / 1;
+  }
+}
+
 .nav-group__toggle {
   margin-block-end: var(--space-2);
   padding-block: 0;
@@ -21,9 +31,6 @@
   font-size: var(--font-size-sm);
   font-weight: var(--font-weight-bold);
   color: var(--color-neutral-text);
-}
-
-.nav-group__toggle {
   inline-size: 100%;
   display: flex;
   align-items: center;
@@ -34,5 +41,45 @@
 
   &[aria-expanded="true"] svg {
     transform: rotate(90deg);
+  }
+
+  // When inside link-with-toggle, position at end
+  .nav-group__link-with-toggle & {
+    inline-size: auto;
+    justify-self: end;
+    padding-inline: var(--space-2);
+    margin-block-end: 0;
+
+    svg {
+      margin-inline-start: auto;
+      opacity: 0.75;
+    }
+  }
+}
+
+.nav-group__link {
+  margin-block-end: var(--space-2);
+  padding-block: 0;
+  padding-inline: var(--space-3);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-neutral-text);
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    color: var(--color-primary-text);
+  }
+
+  &[aria-current="page"] {
+    color: var(--color-primary-text);
+  }
+
+  // When inside link-with-toggle, adjust styling
+  .nav-group__link-with-toggle & {
+    margin-block-end: 0;
+    padding-inline-end: calc(var(--space-3) + var(--space-6)); // Make room for toggle button
   }
 }

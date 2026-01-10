@@ -24,9 +24,16 @@ export default defineConfig({
   sidebar: {
     links: [
       {
-        'url': 'https://tagandtally.quest/legal',
-        'label': 'Legal',
-        'icon': 'file-text',
+        url: '/legal/',
+        label: 'Legal',
+        icon: 'file-text',
+        openInNewTab: false,
+      },
+      {
+        url: '/glossary/',
+        label: 'Glossary',
+        icon: 'book-open',
+        openInNewTab: false,
       }
     ],
     sections: [
@@ -35,6 +42,7 @@ export default defineConfig({
         groups: [
           {
             label: "Mechanics",
+            url: "/mechanics/",
             expanded: false,
             query: createNotesQuery({
               pattern: "/mechanics/",
@@ -42,6 +50,7 @@ export default defineConfig({
           },
           {
             label: "Guides",
+            url: '/guides/',
             expanded: false,
             query: createNotesQuery({
               pattern: "/guides/",
@@ -49,6 +58,7 @@ export default defineConfig({
           },
           {
             label: "Engines",
+            url: '/engines/',
             expanded: false,
             query: createNotesQuery({
               pattern: "/engines/",
@@ -56,6 +66,7 @@ export default defineConfig({
           },
           {
             label: "Settings",
+            url: '/settings/',
             expanded: false,
             query: createNotesQuery({
               tags: ["settings"],
@@ -63,6 +74,7 @@ export default defineConfig({
           },
           {
             label: "Random Tables",
+            url: '/tables/',
             expanded: false,
             query: createNotesQuery({
               pattern: "/tables/",
