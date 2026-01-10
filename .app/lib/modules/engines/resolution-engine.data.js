@@ -65,6 +65,9 @@ export default function (Alpine) {
           keywords: resultKeywords,
           formatted: this.formatResult(rollValue, dc, displayLevel, resultText, specialDetails, resultKeywords),
         };
+        
+        // Clear the question input after rolling
+        this.question = "";
       } catch (error) {
         console.error("Error rolling dice:", error);
         alert("Error rolling dice: " + error.message);
