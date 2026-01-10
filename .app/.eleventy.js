@@ -11,7 +11,6 @@ import { wikilinksModule } from "./lib/modules/wikilinks/index.js";
 import { assetsModule } from "./lib/modules/assets/index.js";
 import { translationModule } from "./lib/modules/translation/index.js";
 import { core } from "./lib/core/index.js";
-import pluginPWA from "eleventy-plugin-pwa-v2";
 
 export const config = core.configObj;
 
