@@ -61,7 +61,12 @@ panel: true
         </div>
         <div>
           {{ content | safe }}
-          <div>Footer</div>
+          <footer style="margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--color-neutral-border); text-align: center; font-size: var(--font-size-xs); color: var(--color-neutral-text);">
+            <div style="margin-bottom: 0.5rem;">
+              <strong>Last Updated</strong> {{ buildDate }}
+              | Tag & Tally © 2025 - {{ currentYear }} is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer" style="color: var(--color-primary-text); text-decoration: underline;">CC BY-SA 4.0</a>
+            </div>
+          </footer>
         </div>
       </div>
     </div>
