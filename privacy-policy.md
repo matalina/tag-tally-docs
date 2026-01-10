@@ -1,4 +1,9 @@
-# Privacy Policy
+---
+title: Privacy Policy
+permalink: privacy-policy/index.html
+date: false
+---
+
 _(last updated: 2026-01-06)_
 
 Tag and Tally respects your privacy. This Privacy Policy explains how information is handled when you use our documentation, app, or Discord bot (collectively, the “Services”).

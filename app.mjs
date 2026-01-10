@@ -23,7 +23,11 @@ export default defineConfig({
   },
   sidebar: {
     links: [
-
+      {
+        'url': 'https://tagandtally.quest/legal',
+        'label': 'Legal',
+        'icon': 'file-text',
+      }
     ],
     sections: [
       {

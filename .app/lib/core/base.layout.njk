@@ -14,7 +14,7 @@ panel: true
     <link rel="stylesheet" href="/app.css">
     <script>
       if ("serviceWorker" in navigator) {
-      navigator.serviceWorker
+        navigator.serviceWorker
         .register("/service-worker.js")
         .then((registration) => {
           registration.addEventListener("updatefound", () => {
@@ -31,7 +31,7 @@ panel: true
         })
         .catch((error) => {
           console.error("Service Worker registration failed:", error);
-        });
+      });
     }
   </script>
   </head>
@@ -59,7 +59,10 @@ panel: true
             {% include 'modules/sidebar/sidebar.partial.njk' %}
           </div>
         </div>
-        <div>{{ content | safe }}</div>
+        <div>
+          {{ content | safe }}
+          <div>Footer</div>
+        </div>
       </div>
     </div>
 

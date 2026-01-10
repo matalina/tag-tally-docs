@@ -1,4 +1,9 @@
-# Terms of Service
+---
+title: Terms of Service
+permalink: terms-of-service/index.html
+date: false
+---
+
 _(last updated: 2026-01-06)_
 
 By accessing or using the Tag and Tally documentation, Discord bot, or app (collectively, the “Services”), you agree to the following Terms of Service.
