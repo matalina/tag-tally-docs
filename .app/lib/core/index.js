@@ -22,6 +22,7 @@ export const core = {
     config.addPlugin(syntaxHighlightPlugin);
 
     config.addPlugin(faviconsPlugin, {
+      outputDir: "./dist",
       manifestData: {
         name: "Tag & Tally",
         short_name: "Tag & Tally",
