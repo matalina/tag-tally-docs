@@ -1,6 +1,5 @@
 ---
 title: Tag & Tally
-layout: libdoc_page.liquid
 permalink: index.html
 date: false
 ---

@@ -1,20 +1,21 @@
 ---
 title: 5e Types
-layout: libdoc_page.liquid
+
 tocEnabled: false
 permalink: settings/dnd5e/types/index.html
 date: false
 tags:
   - 5e 
   - types
-  - settings
+  
 eleventyNavigation:
   key: 5e Types
   parent: DnD 5e
   title: 5e Types
 ---
 
-{% sentence 'Type', '[Name] is a [descriptor] [type] who [specializes in]', 'character' %}
+> [!abstract] Type
+> **Name** is a \[descriptor\] \[type\] who \[specializes in\]
 
 For each DnD 5e conversion pick a descriptor and a specializes in variant that best describes your character.
 

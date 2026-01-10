@@ -1,6 +1,6 @@
 ---
 title: Creature
-layout: libdoc_page.liquid
+
 permalink: settings/fractured-veil/creature/index.html
 date: false
 tags:

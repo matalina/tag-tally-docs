@@ -1,6 +1,6 @@
 ---
 title: Scene
-layout: libdoc_page.liquid
+
 permalink: tables/scene/index.html
 date: false
 tags:

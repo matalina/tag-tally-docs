@@ -1,6 +1,6 @@
 ---
 title: Characters
-layout: libdoc_page.liquid
+
 permalink: settings/fractured-veil/characters/index.html
 date: false
 tags:

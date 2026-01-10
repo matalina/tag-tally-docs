@@ -1,6 +1,6 @@
 ---
 title: Quest
-layout: libdoc_page.liquid
+
 permalink: tables/quest/index.html
 date: false
 tags:

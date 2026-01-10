@@ -1,6 +1,5 @@
 ---
 title: Legal
-layout: libdoc_page.liquid
 permalink: legal/index.html
 date: false
 eleventyNavigation:

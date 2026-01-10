@@ -1,6 +1,6 @@
 ---
 title: Wounds
-layout: libdoc_page.liquid
+
 permalink: mechanics/wounds/index.html
 date: false
 tags:
@@ -38,7 +38,10 @@ When a character rests in a safe zone, they can heal all strains or 1 Lingering 
 
 ## Lasting Scars
 
-Lasting Scars over a Long Downtime period of recovery.
+> [!abstract] Lasting Scar
+> The Lasting Scar is a \[descriptor] \[type of mark] located on \[the body part] that \[specific mechanical detriment].
+
+Lasting Scars heal over a Long Downtime period of recovery.
 
 When healed the Lasting Scar does not regenerate missing body parts. The character applies a new tag describing how they've overcome the limitation.
 

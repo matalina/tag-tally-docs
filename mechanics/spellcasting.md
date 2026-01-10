@@ -1,6 +1,6 @@
 ---
 title: Spellcasting
-layout: libdoc_page.liquid
+
 permalink: mechanics/spellcasting/index.html
 date: false
 tags:
@@ -70,7 +70,8 @@ Add +1 for each magical tag for all life stages, descriptor, type, and specialty
 
 Spells have a sentence like all other things in Tag & Tally.
 
-{% sentence 'Spell', '[Name] is a [descriptor] [base] [aspect] [type] [artifact] that targets [LEVEL] [things] and [does something].', 'spell' %}
+> [!abstract] Spell
+> **Name** is a \[descriptor\] \[base\] \[aspect\] \[type\] \[artifact\] that targets \[LEVEL\] \[things\] and \[does something\].
 
 ### Spell Tiers
 

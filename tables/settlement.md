@@ -1,6 +1,6 @@
 ---
 title: Settlments
-layout: libdoc_page.liquid
+
 permalink: tables/settlement/index.html
 date: false
 tags:

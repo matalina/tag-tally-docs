@@ -1,6 +1,6 @@
 ---
 title: Gear
-layout: libdoc_page.liquid
+
 permalink: mechanics/gear/index.html
 date: false
 tags:

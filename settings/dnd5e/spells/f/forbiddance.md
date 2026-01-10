@@ -1,10 +1,12 @@
 ---
 title: Forbiddance
-layout: libdoc_page.liquid
+
+permalink: settings/dnd5e/spells/f/forbiddance/index.html
+
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
 **Forbiddance** is a [complex] [Order] [Void] [Ward] [Ritual] that [wards a large area against teleportation and specific creatures].  (Tier 2)

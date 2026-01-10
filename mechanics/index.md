@@ -1,6 +1,6 @@
 ---
 title: Mechanics
-layout: libdoc_page.liquid
+
 permalink: mechanics/index.html
 date: false
 eleventyNavigation:

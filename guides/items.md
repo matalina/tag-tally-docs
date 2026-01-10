@@ -1,6 +1,6 @@
 ---
 title: Item Creation
-layout: libdoc_page.liquid
+
 permalink: guides/item/index.html
 date: false
 tags:
@@ -28,13 +28,18 @@ Follow the following simple steps to create an item.
 
 There are various items in Tag & Tally, each having a slightly different sentence format.
 
-{% sentence 'Item', '[Name] is a [descriptor] [item type] that [does something special].', 'loot' %}
+> [!abstract] Item
+> **Name** is a \[descriptor\] \[item type\] that \[does something special\].
 
-{% sentence 'Armor', '[Name] is a [descriptor] [material] [armor type] that [does something special].', 'shield' %}
+> [!abstract] Armor
+> **Name** is a \[descriptor\] \[material\] \[armor type\] that \[does something special\].
 
-{% sentence 'Weapon', '[Name] is a [descriptor] [material] [weapon type] that does [damage type] damage and [something special].', 'sword' %}
+> [!abstract] Weapon
+> **Name** is a \[descriptor\] \[material\] \[weapon type\] that does \[damage type\] damage and \[something special\].
 
-{% sentence 'Trap', '[Name] is a [descriptor] [trap type] that [trigger condition] and [effect or consequence].', 'danger' %}
+> [!abstract] Trap
+> **Name** is a \[descriptor\] \[trap type\] that \[trigger condition\] and \[effect or consequence\].
 
-{% sentence 'Consumable', '[Name] is a [descriptor] [consumable type] that [effect on consumption] and [any special property or twist].', 'potion' %}
+> [!abstract] Consumable
+> **Name** is a \[descriptor\] \[consumable type\] that \[effect on consumption\] and \[any special property or twist\].
 

@@ -1,131 +1,131 @@
 ---
 title: 5e Spells - Bard
-layout: libdoc_page.liquid
+
 permalink: settings/dnd5e/spells/bard/index.html
 date: false
 tags:
 - 5e
 - spells
-- settings
+
 ---
 
-- [Aid](aid)
-- [Animal Friendship](animal-friendship)
-- [Animal Messenger](animal-messenger)
-- [Animate Objects](animate-objects)
-- [Antipathy/Sympathy](antipathy-sympathy)
-- [Awaken](awaken)
-- [Bane](bane)
-- [Befuddlement](befuddlement)
-- [Bestow Curse](bestow-curse)
-- [Blade Ward](blade-ward)
-- [Blindness/Deafness](blindness-deafness)
-- [Calm Emotions](calm-emotions)
-- [Charm Monster](charm-monster)
-- [Charm Person](charm-person)
-- [Clairvoyance](clairvoyance)
-- [Comprehend Languages](comprehend-languages)
-- [Compulsion](compulsion)
-- [Confusion](confusion)
-- [Cure Wounds](cure-wounds)
-- [Dancing Lights](dancing-lights)
-- [Detect Magic](detect-magic)
-- [Detect Thoughts](detect-thoughts)
-- [Dimension Door](dimension-door)
-- [Disguise Self](disguise-self)
-- [Dispel Magic](dispel-magic)
-- [Dissonant Whispers](dissonant-whispers)
-- [Dominate Monster](dominate-monster)
-- [Dominate Person](dominate-person)
-- [Dream](dream)
-- [Enthrall](enthrall)
-- [Etherealness](etherealness)
-- [Eyebite](eyebite)
-- [Faerie Fire](faerie-fire)
-- [Fear](fear)
-- [Feather Fall](feather-fall)
-- [Find the Path](find-the-path)
-- [Forcecage](forcecage)
-- [Foresight](foresight)
-- [Freedom of Movement](freedom-of-movement)
-- [Friends](friends)
-- [Geas](geas)
-- [Glibness](glibness)
-- [Glyph of Warding](glyph-of-warding)
-- [Greater Invisibility](greater-invisibility)
-- [Greater Restoration](greater-restoration)
-- [Guards and Wards](guards-and-wards)
-- [Hallucinatory Terrain](hallucinatory-terrain)
-- [Healing Word](healing-word)
-- [Heat Metal](heat-metal)
-- [Heroism](heroism)
-- [Hold Monster](hold-monster)
-- [Hold Person](hold-person)
-- [Hypnotic Pattern](hypnotic-pattern)
-- [Identify](identify)
-- [Illusory Script](illusory-script)
-- [Invisibility](invisibility)
-- [Knock](knock)
-- [Legend Lore](legend-lore)
-- [Leomund's Tiny Hut](leomunds-tiny-hut)
-- [Lesser Restoration](lesser-restoration)
-- [Light](light)
-- [Locate Animals or Plants](locate-animals-or-plants)
-- [Locate Creature](locate-creature)
-- [Locate Object](locate-object)
-- [Longstrider](longstrider)
-- [Mage Hand](mage-hand)
-- [Magic Mouth](magic-mouth)
-- [Major Image](major-image)
-- [Mass Cure Wounds](mass-cure-wounds)
-- [Mass Healing Word](mass-healing-word)
-- [Mass Suggestion](mass-suggestion)
-- [Mending](mending)
-- [Message](message)
-- [Mind Blank](mind-blank)
-- [Minor Illusion](minor-illusion)
-- [Mirage Arcane](mirage-arcane)
-- [Mislead](mislead)
-- [Modify Memory](modify-memory)
-- [Nondetection](nondetection)
-- [Phantasmal Force](phantasmal-force)
-- [Planar Binding](planar-binding)
-- [Plant Growth](plant-growth)
-- [Polymorph](polymorph)
-- [Power Word Heal](power-word-heal)
-- [Power Word Kill](power-word-kill)
-- [Power Word Stun](power-word-stun)
-- [Prestidigitation](prestidigitation)
-- [Programmed Illusion](programmed-illusion)
-- [Project Image](project-image)
-- [Raise Dead](raise-dead)
-- [Regenerate](regenerate)
-- [Remove Curse](remove-curse)
-- [Resurrection](resurrection)
-- [Scrying](scrying)
-- [See Invisibility](see-invisibility)
-- [Seeming](seeming)
-- [Sending](sending)
-- [Shatter](shatter)
-- [Silence](silence)
-- [Silent Image](silent-image)
-- [Sleep](sleep)
-- [Slow](slow)
-- [Speak with Animals](speak-with-animals)
-- [Speak with Dead](speak-with-dead)
-- [Speak with Plants](speak-with-plants)
-- [Starry Wisp](starry-wisp)
-- [Stinking Cloud](stinking-cloud)
-- [Suggestion](suggestion)
-- [Symbol](symbol)
-- [Teleport](teleport)
-- [Teleportation Circle](teleportation-circle)
-- [Thunderclap](thunderclap)
-- [Thunderwave](thunderwave)
-- [Tongues](tongues)
-- [True Polymorph](true-polymorph)
-- [True Seeing](true-seeing)
-- [True Strike](true-strike)
-- [Unseen Servant](unseen-servant)
-- [Vicious Mockery](vicious-mockery)
-- [Zone of Truth](zone-of-truth)
+- [[aid|Aid]]
+- [[animal-friendship|Animal Friendship]]
+- [[animal-messenger|Animal Messenger]]
+- [[animate-objects|Animate Objects]]
+- [[antipathy-sympathy|Antipathy/Sympathy]]
+- [[awaken|Awaken]]
+- [[bane|Bane]]
+- [[befuddlement|Befuddlement]]
+- [[bestow-curse|Bestow Curse]]
+- [[blade-ward|Blade Ward]]
+- [[blindness-deafness|Blindness/Deafness]]
+- [[calm-emotions|Calm Emotions]]
+- [[charm-monster|Charm Monster]]
+- [[charm-person|Charm Person]]
+- [[clairvoyance|Clairvoyance]]
+- [[comprehend-languages|Comprehend Languages]]
+- [[compulsion|Compulsion]]
+- [[confusion|Confusion]]
+- [[cure-wounds|Cure Wounds]]
+- [[dancing-lights|Dancing Lights]]
+- [[detect-magic|Detect Magic]]
+- [[detect-thoughts|Detect Thoughts]]
+- [[dimension-door|Dimension Door]]
+- [[disguise-self|Disguise Self]]
+- [[dispel-magic|Dispel Magic]]
+- [[dissonant-whispers|Dissonant Whispers]]
+- [[dominate-monster|Dominate Monster]]
+- [[dominate-person|Dominate Person]]
+- [[dream|Dream]]
+- [[enthrall|Enthrall]]
+- [[etherealness|Etherealness]]
+- [[eyebite|Eyebite]]
+- [[faerie-fire|Faerie Fire]]
+- [[fear|Fear]]
+- [[feather-fall|Feather Fall]]
+- [[find-the-path|Find the Path]]
+- [[forcecage|Forcecage]]
+- [[foresight|Foresight]]
+- [[freedom-of-movement|Freedom of Movement]]
+- [[friends|Friends]]
+- [[geas|Geas]]
+- [[glibness|Glibness]]
+- [[glyph-of-warding|Glyph of Warding]]
+- [[greater-invisibility|Greater Invisibility]]
+- [[greater-restoration|Greater Restoration]]
+- [[guards-and-wards|Guards and Wards]]
+- [[hallucinatory-terrain|Hallucinatory Terrain]]
+- [[healing-word|Healing Word]]
+- [[heat-metal|Heat Metal]]
+- [[heroism|Heroism]]
+- [[hold-monster|Hold Monster]]
+- [[hold-person|Hold Person]]
+- [[hypnotic-pattern|Hypnotic Pattern]]
+- [[identify|Identify]]
+- [[illusory-script|Illusory Script]]
+- [[invisibility|Invisibility]]
+- [[knock|Knock]]
+- [[legend-lore|Legend Lore]]
+- [[leomunds-tiny-hut|Leomund's Tiny Hut]]
+- [[lesser-restoration|Lesser Restoration]]
+- [[light|Light]]
+- [[locate-animals-or-plants|Locate Animals or Plants]]
+- [[locate-creature|Locate Creature]]
+- [[locate-object|Locate Object]]
+- [[longstrider|Longstrider]]
+- [[mage-hand|Mage Hand]]
+- [[magic-mouth|Magic Mouth]]
+- [[major-image|Major Image]]
+- [[mass-cure-wounds|Mass Cure Wounds]]
+- [[mass-healing-word|Mass Healing Word]]
+- [[mass-suggestion|Mass Suggestion]]
+- [[mending|Mending]]
+- [[message|Message]]
+- [[mind-blank|Mind Blank]]
+- [[minor-illusion|Minor Illusion]]
+- [[mirage-arcane|Mirage Arcane]]
+- [[mislead|Mislead]]
+- [[modify-memory|Modify Memory]]
+- [[nondetection|Nondetection]]
+- [[phantasmal-force|Phantasmal Force]]
+- [[planar-binding|Planar Binding]]
+- [[plant-growth|Plant Growth]]
+- [[polymorph|Polymorph]]
+- [[power-word-heal|Power Word Heal]]
+- [[power-word-kill|Power Word Kill]]
+- [[power-word-stun|Power Word Stun]]
+- [[prestidigitation|Prestidigitation]]
+- [[programmed-illusion|Programmed Illusion]]
+- [[project-image|Project Image]]
+- [[raise-dead|Raise Dead]]
+- [[regenerate|Regenerate]]
+- [[remove-curse|Remove Curse]]
+- [[resurrection|Resurrection]]
+- [[scrying|Scrying]]
+- [[see-invisibility|See Invisibility]]
+- [[seeming|Seeming]]
+- [[sending|Sending]]
+- [[shatter|Shatter]]
+- [[silence|Silence]]
+- [[silent-image|Silent Image]]
+- [[sleep|Sleep]]
+- [[slow|Slow]]
+- [[speak-with-animals|Speak with Animals]]
+- [[speak-with-dead|Speak with Dead]]
+- [[speak-with-plants|Speak with Plants]]
+- [[starry-wisp|Starry Wisp]]
+- [[stinking-cloud|Stinking Cloud]]
+- [[suggestion|Suggestion]]
+- [[symbol|Symbol]]
+- [[teleport|Teleport]]
+- [[teleportation-circle|Teleportation Circle]]
+- [[thunderclap|Thunderclap]]
+- [[thunderwave|Thunderwave]]
+- [[tongues|Tongues]]
+- [[true-polymorph|True Polymorph]]
+- [[true-seeing|True Seeing]]
+- [[true-strike|True Strike]]
+- [[unseen-servant|Unseen Servant]]
+- [[vicious-mockery|Vicious Mockery]]
+- [[zone-of-truth|Zone of Truth]]

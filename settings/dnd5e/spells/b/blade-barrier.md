@@ -1,10 +1,12 @@
 ---
 title: Blade Barrier
-layout: libdoc_page.liquid
+
+permalink: settings/dnd5e/spells/b/blade-barrier/index.html
+
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
 **Blade Barrier** is a complex [Chaos] [Light] [Damage] [Somatic] that [creates a vertical wall of rotating, sharp blades for a short distance].  (Tier 4)

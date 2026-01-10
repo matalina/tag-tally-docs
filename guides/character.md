@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-layout: libdoc_page.liquid
+
 permalink: guides/character/index.html
 date: false
 tags:
@@ -37,7 +37,8 @@ Follow the following simple steps to create a character. It is recommended to cr
 
 We lay out your character sentence in the following format, and all tags are in square brackets.
 
-{% sentence 'Character', '[Name] is a [descriptor] [species] [type] who [specializes in]', 'character' %}
+> [!abstract] Character
+> **Name** is a \[descriptor\] \[species\] \[type\] who \[specializes in\]
 
 All tags except descriptor in your character sentence are Umbrella Tags.
 

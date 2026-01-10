@@ -1,10 +1,12 @@
 ---
 title: Continual Flame
-layout: libdoc_page.liquid
+
+permalink: settings/dnd5e/spells/c/continual-flame/index.html
+
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
 **Continual Flame** is a [basic] [Order] [Fire] [Control] [Somatic] that [targets 1 thing] and [creates a permanent, but heatless, flame]. (Tier 2)

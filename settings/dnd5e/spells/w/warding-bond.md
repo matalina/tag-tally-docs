@@ -1,10 +1,12 @@
 ---
 title: Warding Bond
-layout: libdoc_page.liquid
+
+permalink: settings/dnd5e/spells/w/warding-bond/index.html
+
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
 **Warding Bond** is a [basic] [Order] [Void] [Ward] [Somatic] that [targets 1 thing] and [creates a magical link where damage taken by one creature is split with the caster].  (Tier 2)

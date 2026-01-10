@@ -1,6 +1,6 @@
 ---
 title: Wealth
-layout: libdoc_page.liquid
+
 permalink: mechanics/wealth/index.html
 date: false
 tags:

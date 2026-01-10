@@ -1,61 +1,61 @@
 ---
 title: 5e Spells - Abjuration
-layout: libdoc_page.liquid
+
 permalink: settings/dnd5e/spells/abjuration/index.html
 date: false
 tags:
   - Dnd 5e
-  - settings
+  
   - spells
 ---
 
-- [Aid](aid)
-- [Alarm](alarm)
-- [Antilife Shell](antilife-shell)
-- [Antimagic Field](antimagic-field)
-- [Arcane Lock](arcane-lock)
-- [Arcane Vigor](arcane-vigor)
-- [Armor of Agathys](armor-of-agathys)
-- [Aura of Life](aura-of-life)
-- [Aura of Purity](aura-of-purity)
-- [Aura of Vitality](aura-of-vitality)
-- [Banishment](banishment)
-- [Beacon of Hope](beacon-of-hope)
-- [Blade Ward](blade-ward)
-- [Contingency](contingency)
-- [Counterspell](counterspell)
-- [Cure Wounds](cure-wounds)
-- [Death Ward](death-ward)
-- [Dispel Evil and Good](dispel-evil-and-good)
-- [Dispel Magic](dispel-magic)
-- [Forbiddance](forbiddance)
-- [Freedom of Movement](freedom-of-movement)
-- [Globe of Invulnerability](globe-of-invulnerability)
-- [Glyph of Warding](glyph-of-warding)
-- [Greater Restoration](greater-restoration)
-- [Guards and Wards](guards-and-wards)
-- [Heal](heal)
-- [Healing Word](healing-word)
-- [Holy Aura](holy-aura)
-- [Imprisonment](imprisonment)
-- [Lesser Restoration](lesser-restoration)
-- [Mage Armor](mage-armor)
-- [Magic Circle](magic-circle)
-- [Mass Cure Wounds](mass-cure-wounds)
-- [Mass Healing Word](mass-healing-word)
-- [Mind Blank](mind-blank)
-- [Nondetection](nondetection)
-- [Pass without Trace](pass-without-trace)
-- [Planar Binding](planar-binding)
-- [Prayer of Healing](prayer-of-healing)
-- [Prismatic Wall](prismatic-wall)
-- [Protection from Energy](protection-from-energy)
-- [Protection from Evil and Good](protection-from-evil-and-good)
-- [Protection from Poison](protection-from-poison)
-- [Remove Curse](remove-curse)
-- [Resistance](resistance)
-- [Sanctuary](sanctuary)
-- [Shield](shield)
-- [Shield of Faith](shield-of-faith)
-- [Symbol](symbol)
-- [Warding Bond](warding-bond)
+- [[aid|Aid]]
+- [[alarm|Alarm]]
+- [[antilife-shell|Antilife Shell]]
+- [[antimagic-field|Antimagic Field]]
+- [[arcane-lock|Arcane Lock]]
+- [[arcane-vigor|Arcane Vigor]]
+- [[armor-of-agathys|Armor of Agathys]]
+- [[aura-of-life|Aura of Life]]
+- [[aura-of-purity|Aura of Purity]]
+- [[aura-of-vitality|Aura of Vitality]]
+- [[banishment|Banishment]]
+- [[beacon-of-hope|Beacon of Hope]]
+- [[blade-ward|Blade Ward]]
+- [[contingency|Contingency]]
+- [[counterspell|Counterspell]]
+- [[cure-wounds|Cure Wounds]]
+- [[death-ward|Death Ward]]
+- [[dispel-evil-and-good|Dispel Evil and Good]]
+- [[dispel-magic|Dispel Magic]]
+- [[forbiddance|Forbiddance]]
+- [[freedom-of-movement|Freedom of Movement]]
+- [[globe-of-invulnerability|Globe of Invulnerability]]
+- [[glyph-of-warding|Glyph of Warding]]
+- [[greater-restoration|Greater Restoration]]
+- [[guards-and-wards|Guards and Wards]]
+- [[heal|Heal]]
+- [[healing-word|Healing Word]]
+- [[holy-aura|Holy Aura]]
+- [[imprisonment|Imprisonment]]
+- [[lesser-restoration|Lesser Restoration]]
+- [[mage-armor|Mage Armor]]
+- [[magic-circle|Magic Circle]]
+- [[mass-cure-wounds|Mass Cure Wounds]]
+- [[mass-healing-word|Mass Healing Word]]
+- [[mind-blank|Mind Blank]]
+- [[nondetection|Nondetection]]
+- [[pass-without-trace|Pass without Trace]]
+- [[planar-binding|Planar Binding]]
+- [[prayer-of-healing|Prayer of Healing]]
+- [[prismatic-wall|Prismatic Wall]]
+- [[protection-from-energy|Protection from Energy]]
+- [[protection-from-evil-and-good|Protection from Evil and Good]]
+- [[protection-from-poison|Protection from Poison]]
+- [[remove-curse|Remove Curse]]
+- [[resistance|Resistance]]
+- [[sanctuary|Sanctuary]]
+- [[shield|Shield]]
+- [[shield-of-faith|Shield of Faith]]
+- [[symbol|Symbol]]
+- [[warding-bond|Warding Bond]]

@@ -1,6 +1,6 @@
 ---
 title: Inspiration
-layout: libdoc_page.liquid
+
 permalink: tables/inspiration/index.html
 date: false
 tags:

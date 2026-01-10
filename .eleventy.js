@@ -6,6 +6,8 @@ import { EleventyHtmlBasePlugin }           from "@11ty/eleventy";
 import pluginRss                            from "@11ty/eleventy-plugin-rss";
 import pluginPwa from "eleventy-plugin-pwa-v2";
 import faviconsPlugin from "eleventy-plugin-gen-favicons";
+import pluginPWA from "eleventy-plugin-pwa-v2";
+
 // END 11TY imports
 
 // START LibDoc imports

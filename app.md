@@ -1,6 +1,5 @@
 ---
 title: The App
-layout: libdoc_page.liquid
 permalink: app/index.html
 date: false
 eleventyNavigation:

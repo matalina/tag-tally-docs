@@ -1,6 +1,6 @@
 ---
 title: Creature Creation
-layout: libdoc_page.liquid
+
 permalink: guides/creature/index.html
 date: false
 tags:
@@ -31,7 +31,8 @@ Follow the following simple steps to create a creature.
 
 We lay out your creature sentence in the following format, and all tags are in square brackets.
 
-{% sentence 'Creature', '[Name] is a [disposition] [descriptor] [type] who [motivation] and does [basic attack] damage.', 'dragon' %}
+> [!abstract] Creature
+> **Name** is a \[disposition\] \[descriptor\] \[type\] who \[motivation\] and does \[basic attack\] damage.
 
 **Disposition:** should define how the creature behaves in most cases.
 

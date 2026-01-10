@@ -1,26 +1,26 @@
 ---
 title: 5e Spells - B
-layout: libdoc_page.liquid
+
 permalink: settings/dnd5e/spells/b/index.html
 date: false
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
-- [Bane](bane) 
-- [Banishment](banishment) 
-- [Barkskin](barkskin) 
-- [Beacon of Hope](beacon-of-hope) 
-- [Befuddlement](befuddlement) 
-- [Bestow Curse](bestow-curse) 
-- [Black Tentacles](black-tentacles) 
-- [Blade Barrier](blade-barrier) 
-- [Bless](bless) 
-- [Blight](blight) 
-- [Blindness/Deafness](blindness-deafness) 
-- [Blink](blink) 
-- [Blur](blur) 
-- [Burning Hands](burning-hands) 
+- [[bane|Bane]]
+- [[banishment|Banishment]]
+- [[barkskin|Barkskin]]
+- [[beacon-of-hope|Beacon of Hope]]
+- [[befuddlement|Befuddlement]]
+- [[bestow-curse|Bestow Curse]]
+- [[black-tentacles|Black Tentacles]]
+- [[blade-barrier|Blade Barrier]]
+- [[bless|Bless]]
+- [[blight|Blight]]
+- [[blindness-deafness|Blindness/Deafness]]
+- [[blink|Blink]]
+- [[blur|Blur]]
+- [[burning-hands|Burning Hands]] 
  

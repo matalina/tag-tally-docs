@@ -1,6 +1,6 @@
 ---
 title: Setting
-layout: libdoc_page.liquid
+
 permalink: tables/setting/index.html
 date: false
 tags:

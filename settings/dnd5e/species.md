@@ -1,20 +1,21 @@
 ---
 title: 5e Species
-layout: libdoc_page.liquid
+
 tocEnabled: false
 permalink: settings/dnd5e/species/index.html
 date: false
 tags:
   - 5e 
   - species
-  - settings
+  
 eleventyNavigation:
   key: 5e Species
   parent: DnD 5e
   title: 5e Species
 ---
 
-{% sentence 'Species', '[Name] are a [descriptor] people who [cultural trait or motivation] and [physical/biological feature].', 'character' %}
+> [!abstract] Species
+> **Name** are a \[descriptor\] people who \[cultural trait or motivation\] and \[physical/biological feature\].
 
 ## Dragonborn are an [honor-bound] people who [uphold the legacy of their draconic clans] and [channel draconic fire].
 

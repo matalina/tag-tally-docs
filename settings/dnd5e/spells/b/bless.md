@@ -1,10 +1,12 @@
 ---
 title: Bless
-layout: libdoc_page.liquid
+
+permalink: settings/dnd5e/spells/b/bless/index.html
+
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
 **Bless** is a basic [Order] [Light] [Control] [Somatic] that [targets 1 creature] and [eases attack rolls].  (Tier 2)

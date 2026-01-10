@@ -1,6 +1,6 @@
 ---
 title: Species Creation
-layout: libdoc_page.liquid
+
 permalink: guides/species/index.html
 date: false
 tags:
@@ -27,7 +27,8 @@ eleventyNavigation:
 
 ### Sentence
 
-{% sentence 'Species', '[Name] are a [descriptor] people who [cultural trait or motivation] and [physical/biological feature].', 'character' %}
+> [!abstract] Species
+> **Name** are a \[descriptor\] people who \[cultural trait or motivation\] and \[physical/biological feature\].
 
 #### Examples
 

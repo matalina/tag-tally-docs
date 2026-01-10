@@ -1,6 +1,6 @@
 ---
 title: Character Options
-layout: libdoc_page.liquid
+
 permalink: settings/fractured-veil/character-options/index.html
 date: false
 tags:

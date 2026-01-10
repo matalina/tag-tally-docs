@@ -1,6 +1,6 @@
 ---
 title: NPC
-layout: libdoc_page.liquid
+
 permalink: tables/npc/index.html
 date: false
 tags:
@@ -14,7 +14,8 @@ eleventyNavigation:
 
 ## Fantasy NPCs
 
-\[Name] is a \[descriptor] \[type] who \[verbs] \[something].
+> [!abstract] NPC
+> \[Name] is a \[descriptor] \[species] \[type] who \[verbs] \[something].
 
 ### Names
 

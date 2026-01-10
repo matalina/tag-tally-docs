@@ -1,6 +1,6 @@
 ---
 title: Tags
-layout: libdoc_page.liquid
+
 permalink: mechanics/tags/index.html
 date: false
 tags:

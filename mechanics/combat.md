@@ -1,6 +1,6 @@
 ---
 title: Combat
-layout: libdoc_page.liquid
+
 permalink: mechanics/combat/index.html
 date: false
 tags:

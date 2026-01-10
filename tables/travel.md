@@ -1,6 +1,6 @@
 ---
 title: Travel
-layout: libdoc_page.liquid
+
 permalink: tables/travel/index.html
 date: false
 tags:
@@ -169,13 +169,13 @@ You can roll 3d20 to mix and match or 1d20 and use the whole line, the choice is
 
 | d20   | Point of Interest                                     |
 | ----- | ----------------------------------------------------- |
-| 1-3   | 1d4 [[953-Creature Tables#Clues\|Clues]]              |
+| 1-3   | 1d4 Clues              |
 | 4-7   | Nothing                                               |
-| 8-9   | Wandering [[953-Creature Tables\|Creature]]           |
-| 10-15 | Wandering [[#NPC]]                                    |
-| 16    | 1d8+4 Room [[#Dungeon]]                               |
-| 17    | 1d4-1 Room [[953-Creature Tables\|Creature]] Lair     |
-| 18-20 | [[#District Encounters\|District Specific Encounter]] |
+| 8-9   | Wandering Creature           |
+| 10-15 | Wandering NPC                                    |
+| 16    | 1d8+4 Room Dungeon                               |
+| 17    | 1d4-1 Room Creature Lair     |
+| 18-20 | District Specific Encounter |
 
 #### NPC
 

@@ -1,10 +1,12 @@
 ---
 title: Animal Messenger
-layout: libdoc_page.liquid
+
+permalink: settings/dnd5e/spells/a/animal-messenger/index.html
+
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
 **Animal Messenger** is a [Basic] [Order] [Air] [Control] [Somatic] that [targets 1 small animal] and [sends it to a specific location]. (Tier 1)

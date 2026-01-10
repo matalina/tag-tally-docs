@@ -1,143 +1,134 @@
 ---
 title: 5e Spells - Druid
-layout: libdoc_page.liquid
+
 permalink: settings/dnd5e/spells/druid/index.html
 date: false
 tags:
 - 5e
 - spells
-- settings
+
 ---
 
-Animal Shapes
-Antilife Shell
-Barkskin
-Beast Bond
-Beast Sense
-Blight
-Call Lightning
-Commune with Nature
-Cone of Cold
-Aid
-Animal Friendship
-Animal Messenger
-Animal Shapes
-Antilife Shell
-Antipathy/Sympathy
-Aura of Vitality
-Augury
-Awaken
-Barkskin
-Beast Bond
-Beast Sense
-Befuddlement
-Blight
-Call Lightning
-Charm Monster
-Charm Person
-Commune
-Commune with Nature
-Cone of Cold
-Confusion
-Conjure Animals
-Conjure Elemental
-Conjure Fey
-Conjure Minor Elementals
-Conjure Woodland Beings
-Contagion
-Control Water
-Control Weather
-Create or Destroy Water
-Cure Wounds
-Darkness
-Darkvision
-Daylight
-Detect Magic
-Detect Poison and Disease
-Divination
-Dispel Magic
-Dominate Beast
-Druidcraft
-Earthquake
-Elementalism
-Entangle
-Faerie Fire
-Find the Path
-Find Traps
-Fire Shield
-Fire Storm
-Flame Blade
-Flaming Sphere
-Fog Cloud
-Foresight
-Freedom of Movement
-Geas
-Giant Insect
-Goodberry
-Greater Restoration
-Guidance
-Hallucinatory Terrain
-Heal
-Healing Word
-Heat Metal
-Heroes' Feast
-Hold Person
-Ice Storm
-Insect Plague
-Jump
-Lesser Restoration
-Locate Animals or Plants
-Locate Creature
-Locate Object
-Longstrider
-Mass Cure Wounds
-Meld into Stone
-Mending
-Message
-Mirage Arcane
-Moonbeam
-Move Earth
-Pass without Trace
-Planar Binding
-Plane Shift
-Plant Growth
-Poison Spray
-Polymorph
-Produce Flame
-Protection from Energy
-Protection from Evil and Good
-Protection from Poison
-Purify Food and Drink
-Regenerate
-Reincarnate
-Resistance
-Revivify
-Reverse Gravity
-Scrying
-Shapechange
-Shillelagh
-Sleet Storm
-Speak with Animals
-Speak with Plants
-Spare the Dying
-Spike Growth
-Starry Wisp
-Stone Shape
-Stoneskin
-Storm of Vengeance
-Sunbeam
-Sunburst
-Symbol
-Thorn Whip
-Thunderclap
-Thunderwave
-Transport via Plants
-Tree Stride
-True Resurrection
-Wall of Fire
-Wall of Stone
-Wall of Thorns
-Water Breathing
-Water Walk
-Wind Walk
-Wind Wall
+- [[aid|Aid]]
+- [[animal-friendship|Animal Friendship]]
+- [[animal-messenger|Animal Messenger]]
+- [[animal-shapes|Animal Shapes]]
+- [[antilife-shell|Antilife Shell]]
+- [[antipathy-sympathy|Antipathy/Sympathy]]
+- [[aura-of-vitality|Aura of Vitality]]
+- [[augury|Augury]]
+- [[awaken|Awaken]]
+- [[barkskin|Barkskin]]
+- [[beast-bond|Beast Bond]]
+- [[beast-sense|Beast Sense]]
+- [[befuddlement|Befuddlement]]
+- [[blight|Blight]]
+- [[call-lightning|Call Lightning]]
+- [[charm-monster|Charm Monster]]
+- [[charm-person|Charm Person]]
+- [[commune|Commune]]
+- [[commune-with-nature|Commune with Nature]]
+- [[cone-of-cold|Cone of Cold]]
+- [[confusion|Confusion]]
+- [[conjure-animals|Conjure Animals]]
+- [[conjure-elemental|Conjure Elemental]]
+- [[conjure-fey|Conjure Fey]]
+- [[conjure-minor-elementals|Conjure Minor Elementals]]
+- [[conjure-woodland-beings|Conjure Woodland Beings]]
+- [[contagion|Contagion]]
+- [[control-water|Control Water]]
+- [[control-weather|Control Weather]]
+- [[create-or-destroy-water|Create or Destroy Water]]
+- [[cure-wounds|Cure Wounds]]
+- [[darkness|Darkness]]
+- [[darkvision|Darkvision]]
+- [[daylight|Daylight]]
+- [[detect-magic|Detect Magic]]
+- [[detect-poison-and-disease|Detect Poison and Disease]]
+- [[divination|Divination]]
+- [[dispel-magic|Dispel Magic]]
+- [[dominate-beast|Dominate Beast]]
+- [[druidcraft|Druidcraft]]
+- [[earthquake|Earthquake]]
+- [[elementalism|Elementalism]]
+- [[entangle|Entangle]]
+- [[faerie-fire|Faerie Fire]]
+- [[find-the-path|Find the Path]]
+- [[find-traps|Find Traps]]
+- [[fire-shield|Fire Shield]]
+- [[fire-storm|Fire Storm]]
+- [[flame-blade|Flame Blade]]
+- [[flaming-sphere|Flaming Sphere]]
+- [[fog-cloud|Fog Cloud]]
+- [[foresight|Foresight]]
+- [[freedom-of-movement|Freedom of Movement]]
+- [[geas|Geas]]
+- [[giant-insect|Giant Insect]]
+- [[goodberry|Goodberry]]
+- [[greater-restoration|Greater Restoration]]
+- [[guidance|Guidance]]
+- [[hallucinatory-terrain|Hallucinatory Terrain]]
+- [[heal|Heal]]
+- [[healing-word|Healing Word]]
+- [[heat-metal|Heat Metal]]
+- [[heroes-feast|Heroes' Feast]]
+- [[hold-person|Hold Person]]
+- [[ice-storm|Ice Storm]]
+- [[insect-plague|Insect Plague]]
+- [[jump|Jump]]
+- [[lesser-restoration|Lesser Restoration]]
+- [[locate-animals-or-plants|Locate Animals or Plants]]
+- [[locate-creature|Locate Creature]]
+- [[locate-object|Locate Object]]
+- [[longstrider|Longstrider]]
+- [[mass-cure-wounds|Mass Cure Wounds]]
+- [[meld-into-stone|Meld into Stone]]
+- [[mending|Mending]]
+- [[message|Message]]
+- [[mirage-arcane|Mirage Arcane]]
+- [[moonbeam|Moonbeam]]
+- [[move-earth|Move Earth]]
+- [[pass-without-trace|Pass without Trace]]
+- [[planar-binding|Planar Binding]]
+- [[plane-shift|Plane Shift]]
+- [[plant-growth|Plant Growth]]
+- [[poison-spray|Poison Spray]]
+- [[polymorph|Polymorph]]
+- [[produce-flame|Produce Flame]]
+- [[protection-from-energy|Protection from Energy]]
+- [[protection-from-evil-and-good|Protection from Evil and Good]]
+- [[protection-from-poison|Protection from Poison]]
+- [[purify-food-and-drink|Purify Food and Drink]]
+- [[regenerate|Regenerate]]
+- [[reincarnate|Reincarnate]]
+- [[resistance|Resistance]]
+- [[revivify|Revivify]]
+- [[reverse-gravity|Reverse Gravity]]
+- [[scrying|Scrying]]
+- [[shapechange|Shapechange]]
+- [[shillelagh|Shillelagh]]
+- [[sleet-storm|Sleet Storm]]
+- [[speak-with-animals|Speak with Animals]]
+- [[speak-with-plants|Speak with Plants]]
+- [[spare-the-dying|Spare the Dying]]
+- [[spike-growth|Spike Growth]]
+- [[starry-wisp|Starry Wisp]]
+- [[stone-shape|Stone Shape]]
+- [[stoneskin|Stoneskin]]
+- [[storm-of-vengeance|Storm of Vengeance]]
+- [[sunbeam|Sunbeam]]
+- [[sunburst|Sunburst]]
+- [[symbol|Symbol]]
+- [[thorn-whip|Thorn Whip]]
+- [[thunderclap|Thunderclap]]
+- [[thunderwave|Thunderwave]]
+- [[transport-via-plants|Transport via Plants]]
+- [[tree-stride|Tree Stride]]
+- [[true-resurrection|True Resurrection]]
+- [[wall-of-fire|Wall of Fire]]
+- [[wall-of-stone|Wall of Stone]]
+- [[wall-of-thorns|Wall of Thorns]]
+- [[water-breathing|Water Breathing]]
+- [[water-walk|Water Walk]]
+- [[wind-walk|Wind Walk]]
+- [[wind-wall|Wind Wall]]

@@ -1,123 +1,121 @@
 ---
 title: 5e Spells - Cleric
-layout: libdoc_page.liquid
+
 permalink: settings/dnd5e/spells/cleric/index.html
 date: false
 tags:
 - 5e
 - spells
-- settings
+
 ---
 
-Animate Dead
-Antimagic Field
-Aid
-Animate Dead
-Antimagic Field
-Astral Projection
-Augury
-Aura of Life
-Aura of Purity
-Aura of Vitality
-Bane
-Banishment
-Beacon of Hope
-Bestow Curse
-Blade Barrier
-Bless
-Blindness/Deafness
-Calm Emotions
-Clairvoyance
-Command
-Commune
-Conjure Celestial
-Contagion
-Continual Flame
-Control Water
-Control Weather
-Create Food and Water
-Create or Destroy Water
-Create Undead
-Cure Wounds
-Daylight
-Death Ward
-Detect Evil and Good
-Detect Magic
-Detect Poison and Disease
-Dispel Evil and Good
-Dispel Magic
-Divination
-Divine Word
-Earthquake
-Etherealness
-Find the Path
-Find Traps
-Fire Storm
-Flame Strike
-Forbiddance
-Freedom of Movement
-Gate
-Geas
-Gentle Repose
-Glyph of Warding
-Greater Restoration
-Guidance
-Guiding Bolt
-Hallow
-Harm
-Heal
-Healing Word
-Heroes' Feast
-Hold Person
-Holy Aura
-Inflict Wounds
-Insect Plague
-Legend Lore
-Lesser Restoration
-Light
-Locate Creature
-Locate Object
-Magic Circle
-Mass Cure Wounds
-Mass Heal
-Mass Healing Word
-Mending
-Meld into Stone
-Planar Ally
-Planar Binding
-Plane Shift
-Prayer of Healing
-Protection from Energy
-Protection from Evil and Good
-Protection from Poison
-Purify Food and Drink
-Raise Dead
-Regenerate
-Remove Curse
-Resistance
-Resurrection
-Revivify
-Sacred Flame
-Sanctuary
-Scrying
-See Invisibility
-Sending
-Shield of Faith
-Silence
-Spare the Dying
-Speak with Dead
-Spirit Guardians
-Spiritual Weapon
-Stone Shape
-Sunbeam
-Sunburst
-Thaumaturgy
-Toll the Dead
-Tongues
-True Resurrection
-True Seeing
-Warding Bond
-Water Walk
-Word of Radiance
-Word of Recall
-Zone of Truth
+- [[aid|Aid]]
+- [[animate-dead|Animate Dead]]
+- [[antimagic-field|Antimagic Field]]
+- [[astral-projection|Astral Projection]]
+- [[augury|Augury]]
+- [[aura-of-life|Aura of Life]]
+- [[aura-of-purity|Aura of Purity]]
+- [[aura-of-vitality|Aura of Vitality]]
+- [[bane|Bane]]
+- [[banishment|Banishment]]
+- [[beacon-of-hope|Beacon of Hope]]
+- [[bestow-curse|Bestow Curse]]
+- [[blade-barrier|Blade Barrier]]
+- [[bless|Bless]]
+- [[blindness-deafness|Blindness/Deafness]]
+- [[calm-emotions|Calm Emotions]]
+- [[clairvoyance|Clairvoyance]]
+- [[command|Command]]
+- [[commune|Commune]]
+- [[conjure-celestial|Conjure Celestial]]
+- [[contagion|Contagion]]
+- [[continual-flame|Continual Flame]]
+- [[control-water|Control Water]]
+- [[control-weather|Control Weather]]
+- [[create-food-and-water|Create Food and Water]]
+- [[create-or-destroy-water|Create or Destroy Water]]
+- [[create-undead|Create Undead]]
+- [[cure-wounds|Cure Wounds]]
+- [[daylight|Daylight]]
+- [[death-ward|Death Ward]]
+- [[detect-evil-and-good|Detect Evil and Good]]
+- [[detect-magic|Detect Magic]]
+- [[detect-poison-and-disease|Detect Poison and Disease]]
+- [[dispel-evil-and-good|Dispel Evil and Good]]
+- [[dispel-magic|Dispel Magic]]
+- [[divination|Divination]]
+- [[divine-word|Divine Word]]
+- [[earthquake|Earthquake]]
+- [[etherealness|Etherealness]]
+- [[find-the-path|Find the Path]]
+- [[find-traps|Find Traps]]
+- [[fire-storm|Fire Storm]]
+- [[flame-strike|Flame Strike]]
+- [[forbiddance|Forbiddance]]
+- [[freedom-of-movement|Freedom of Movement]]
+- [[gate|Gate]]
+- [[geas|Geas]]
+- [[gentle-repose|Gentle Repose]]
+- [[glyph-of-warding|Glyph of Warding]]
+- [[greater-restoration|Greater Restoration]]
+- [[guidance|Guidance]]
+- [[guiding-bolt|Guiding Bolt]]
+- [[hallow|Hallow]]
+- [[harm|Harm]]
+- [[heal|Heal]]
+- [[healing-word|Healing Word]]
+- [[heroes-feast|Heroes' Feast]]
+- [[hold-person|Hold Person]]
+- [[holy-aura|Holy Aura]]
+- [[inflict-wounds|Inflict Wounds]]
+- [[insect-plague|Insect Plague]]
+- [[legend-lore|Legend Lore]]
+- [[lesser-restoration|Lesser Restoration]]
+- [[light|Light]]
+- [[locate-creature|Locate Creature]]
+- [[locate-object|Locate Object]]
+- [[magic-circle|Magic Circle]]
+- [[mass-cure-wounds|Mass Cure Wounds]]
+- [[mass-heal|Mass Heal]]
+- [[mass-healing-word|Mass Healing Word]]
+- [[mending|Mending]]
+- [[meld-into-stone|Meld into Stone]]
+- [[planar-ally|Planar Ally]]
+- [[planar-binding|Planar Binding]]
+- [[plane-shift|Plane Shift]]
+- [[prayer-of-healing|Prayer of Healing]]
+- [[protection-from-energy|Protection from Energy]]
+- [[protection-from-evil-and-good|Protection from Evil and Good]]
+- [[protection-from-poison|Protection from Poison]]
+- [[purify-food-and-drink|Purify Food and Drink]]
+- [[raise-dead|Raise Dead]]
+- [[regenerate|Regenerate]]
+- [[remove-curse|Remove Curse]]
+- [[resistance|Resistance]]
+- [[resurrection|Resurrection]]
+- [[revivify|Revivify]]
+- [[sacred-flame|Sacred Flame]]
+- [[sanctuary|Sanctuary]]
+- [[scrying|Scrying]]
+- [[see-invisibility|See Invisibility]]
+- [[sending|Sending]]
+- [[shield-of-faith|Shield of Faith]]
+- [[silence|Silence]]
+- [[spare-the-dying|Spare the Dying]]
+- [[speak-with-dead|Speak with Dead]]
+- [[spirit-guardians|Spirit Guardians]]
+- [[spiritual-weapon|Spiritual Weapon]]
+- [[stone-shape|Stone Shape]]
+- [[sunbeam|Sunbeam]]
+- [[sunburst|Sunburst]]
+- [[thaumaturgy|Thaumaturgy]]
+- [[toll-the-dead|Toll the Dead]]
+- [[tongues|Tongues]]
+- [[true-resurrection|True Resurrection]]
+- [[true-seeing|True Seeing]]
+- [[warding-bond|Warding Bond]]
+- [[water-walk|Water Walk]]
+- [[word-of-radiance|Word of Radiance]]
+- [[word-of-recall|Word of Recall]]
+- [[zone-of-truth|Zone of Truth]]

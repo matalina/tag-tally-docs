@@ -1,6 +1,6 @@
 ---
 title: Wounds
-layout: libdoc_page.liquid
+
 permalink: tables/wounds/index.html
 date: false
 tags:

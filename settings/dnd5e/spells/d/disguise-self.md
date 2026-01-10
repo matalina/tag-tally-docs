@@ -1,10 +1,12 @@
 ---
 title: Disguise Self
-layout: libdoc_page.liquid
+
+permalink: settings/dnd5e/spells/d/disguise-self/index.html
+
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
 **Disguise Self** is a [basic] [Order] [Illusion] [Control] [Somatic] that [changes your appearance and clothes]. (Tier 1)

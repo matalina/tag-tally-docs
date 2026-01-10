@@ -1,39 +1,39 @@
 ---
 title: 5e Spells - Illusion
-layout: libdoc_page.liquid
+
 permalink: settings/dnd5e/spells/illusion/index.html
 date: false
 tags:
 - 5e
 - spells
-- settings
+
 ---
 
-Blur
-Color Spray
-Creation
-Dancing Lights
-Disguise Self
-Dream
-Fear
-Greater Invisibility
-Hallucinatory Terrain
-Hypnotic Pattern
-Illusory Script
-Invisibility
-Magic Mouth
-Major Image
-Minor Illusion
-Mirage Arcane
-Mirror Image
-Mislead
-Phantasmal Force
-Phantasmal Killer
-Phantom Steed
-Programmed Illusion
-Project Image
-Seeming
-Silence
-Silent Image
-Simulacrum
-Weird
+- [[blur|Blur]]
+- [[color-spray|Color Spray]]
+- [[creation|Creation]]
+- [[dancing-lights|Dancing Lights]]
+- [[disguise-self|Disguise Self]]
+- [[dream|Dream]]
+- [[fear|Fear]]
+- [[greater-invisibility|Greater Invisibility]]
+- [[hallucinatory-terrain|Hallucinatory Terrain]]
+- [[hypnotic-pattern|Hypnotic Pattern]]
+- [[illusory-script|Illusory Script]]
+- [[invisibility|Invisibility]]
+- [[magic-mouth|Magic Mouth]]
+- [[major-image|Major Image]]
+- [[minor-illusion|Minor Illusion]]
+- [[mirage-arcane|Mirage Arcane]]
+- [[mirror-image|Mirror Image]]
+- [[mislead|Mislead]]
+- [[phantasmal-force|Phantasmal Force]]
+- [[phantasmal-killer|Phantasmal Killer]]
+- [[phantom-steed|Phantom Steed]]
+- [[programmed-illusion|Programmed Illusion]]
+- [[project-image|Project Image]]
+- [[seeming|Seeming]]
+- [[silence|Silence]]
+- [[silent-image|Silent Image]]
+- [[simulacrum|Simulacrum]]
+- [[weird|Weird]]

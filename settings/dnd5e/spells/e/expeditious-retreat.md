@@ -1,10 +1,12 @@
 ---
 title: Expeditious Retreat
-layout: libdoc_page.liquid
+
+permalink: settings/dnd5e/spells/e/expeditious-retreat/index.html
+
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
 **Expeditious Retreat** is a [basic] [Order] [Air] [Control] [Somatic] that [grants the caster the ability to flee].  (Tier 1)

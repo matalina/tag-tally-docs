@@ -1,6 +1,6 @@
 ---
 title: Guides
-layout: libdoc_page.liquid
+
 permalink: guides/index.html
 date: false
 eleventyNavigation:
@@ -9,9 +9,9 @@ eleventyNavigation:
   order: 2
 ---
 
-- [How to Play](/guides/how-to-play)
+- [How to Play](/guides/play)
 - [Character Creation](/guides/character)
 - [NPC Createion](/guides/npc)
 - [Species Creation](/guides/species)
 - [Creature Creation](/guides/creature)
-- [Item Creation](/guids/item)
+- [Item Creation](/guides/items)

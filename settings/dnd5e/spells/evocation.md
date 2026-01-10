@@ -1,69 +1,69 @@
 ---
 title: 5e Spells - Evocation
-layout: libdoc_page.liquid
+
 permalink: settings/dnd5e/spells/evocation/index.html
 date: false
 tags:
 - 5e
 - spells
-- settings
+
 ---
 
-Acid Arrow
-Acid Splash
-Bigby’s Hand
-Blade Barrier
-Blinding Smite
-Burning Hands
-Chain Lightning
-Cone of Cold
-Continual Flame
-Darkness
-Daylight
-Delayed Blast Fireball
-Divine Smite
-Divine Word
-Eldritch Blast
-Faerie Fire
-Fire Bolt
-Fire Shield
-Fire Storm
-Fireball
-Flame Blade
-Flame Strike
-Forcecage
-Guiding Bolt
-Gust of Wind
-Hallow
-Hellish Rebuke
-Ice Storm
-Leomund's Tiny Hut
-Light
-Lightning Bolt
-Magic Missile
-Mass Heal
-Meteor Swarm
-Moonbeam
-Power Word Heal
-Prismatic Spray
-Ray of Frost
-Sacred Flame
-Scorching Ray
-Searing Smite
-Sending
-Shatter
-Shocking Grasp
-Sorcerous Burst
-Spiritual Weapon
-Starry Wisp
-Sunbeam
-Sunburst
-Thunderclap
-Thunderous Smite
-Thunderwave
-Wall of Fire
-Wall of Force
-Wall of Ice
-Wall of Stone
-Wind Wall
-Word of Radiance
+- [[acid-arrow|Acid Arrow]]
+- [[acid-splash|Acid Splash]]
+- [[bigbys-hand|Bigby's Hand]]
+- [[blade-barrier|Blade Barrier]]
+- [[blinding-smite|Blinding Smite]]
+- [[burning-hands|Burning Hands]]
+- [[chain-lightning|Chain Lightning]]
+- [[cone-of-cold|Cone of Cold]]
+- [[continual-flame|Continual Flame]]
+- [[darkness|Darkness]]
+- [[daylight|Daylight]]
+- [[delayed-blast-fireball|Delayed Blast Fireball]]
+- [[divine-smite|Divine Smite]]
+- [[divine-word|Divine Word]]
+- [[eldritch-blast|Eldritch Blast]]
+- [[faerie-fire|Faerie Fire]]
+- [[fire-bolt|Fire Bolt]]
+- [[fire-shield|Fire Shield]]
+- [[fire-storm|Fire Storm]]
+- [[fireball|Fireball]]
+- [[flame-blade|Flame Blade]]
+- [[flame-strike|Flame Strike]]
+- [[forcecage|Forcecage]]
+- [[guiding-bolt|Guiding Bolt]]
+- [[gust-of-wind|Gust of Wind]]
+- [[hallow|Hallow]]
+- [[hellish-rebuke|Hellish Rebuke]]
+- [[ice-storm|Ice Storm]]
+- [[leomunds-tiny-hut|Leomund's Tiny Hut]]
+- [[light|Light]]
+- [[lightning-bolt|Lightning Bolt]]
+- [[magic-missile|Magic Missile]]
+- [[mass-heal|Mass Heal]]
+- [[meteor-swarm|Meteor Swarm]]
+- [[moonbeam|Moonbeam]]
+- [[power-word-heal|Power Word Heal]]
+- [[prismatic-spray|Prismatic Spray]]
+- [[ray-of-frost|Ray of Frost]]
+- [[sacred-flame|Sacred Flame]]
+- [[scorching-ray|Scorching Ray]]
+- [[searing-smite|Searing Smite]]
+- [[sending|Sending]]
+- [[shatter|Shatter]]
+- [[shocking-grasp|Shocking Grasp]]
+- [[sorcerous-burst|Sorcerous Burst]]
+- [[spiritual-weapon|Spiritual Weapon]]
+- [[starry-wisp|Starry Wisp]]
+- [[sunbeam|Sunbeam]]
+- [[sunburst|Sunburst]]
+- [[thunderclap|Thunderclap]]
+- [[thunderous-smite|Thunderous Smite]]
+- [[thunderwave|Thunderwave]]
+- [[wall-of-fire|Wall of Fire]]
+- [[wall-of-force|Wall of Force]]
+- [[wall-of-ice|Wall of Ice]]
+- [[wall-of-stone|Wall of Stone]]
+- [[wind-wall|Wind Wall]]
+- [[word-of-radiance|Word of Radiance]]

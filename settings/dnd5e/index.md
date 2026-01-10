@@ -1,6 +1,6 @@
 ---
 title: DnD 5e
-layout: libdoc_page.liquid
+tags: settings
 permalink: settings/dnd5e/index.html
 date: false
 eleventyNavigation:

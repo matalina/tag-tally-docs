@@ -1,6 +1,6 @@
 ---
 title: NPC Creation
-layout: libdoc_page.liquid
+
 permalink: guides/npc/index.html
 date: false
 tags:
@@ -31,7 +31,8 @@ Follow the following simple steps to create an NPC.
 
 We lay out your NPC sentence in the following format, and all tags are in square brackets.
 
-{% sentence 'NPC', '[Name] is a [descriptor] [species] [type] who [verbs] [something] and does [damage] damage', 'character' %}
+> [!abstract] NPC
+> **Name** is a \[descriptor\] \[species\] \[type\] who \[verbs\] \[something\] and does \[damage\] damage
 
 **Descriptors** should define a key personality trait or something about the NPC that is a basic essence of the NPC. This can be good or bad,..
 

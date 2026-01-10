@@ -1,75 +1,75 @@
 ---
 title: 5e Spells - Transmutation
-layout: libdoc_page.liquid
+
 permalink: settings/dnd5e/spells/transmutation/index.html
 date: false
 tags:
 - 5e
 - spells
-- settings
+
 ---
 
-Alter Self
-Animal Shapes
-Animate Objects
-Awaken
-Barkskin
-Blindness/Deafness
-Blink
-Control Water
-Control Weather
-Create or Destroy Water
-Darkvision
-Disintegrate
-Divine Favor
-Druidcraft
-Earthquake
-Elementalism
-Enlarge/Reduce
-Etherealness
-Expeditious Retreat
-Fabricate
-Feather Fall
-Flesh to Stone
-Fly
-Gaseous Form
-Giant Insect
-Glibness
-Haste
-Heat Metal
-Jump
-Knock
-Levitate
-Longstrider
-Magic Weapon
-Meld into Stone
-Mending
-Message
-Move Earth
-Passwall
-Plant Growth
-Polymorph
-Prestidigitation
-Purify Food and Drink
-Regenerate
-Reincarnate
-Reverse Gravity
-Rope Trick
-Sequester
-Shapechange
-Shillelagh
-Slow
-Speak with Plants
-Spider Climb
-Spike Growth
-Stone Shape
-Stoneskin
-Swift Quiver
-Telekinesis
-Thaumaturgy
-Thorn Whip
-Time Stop
-True Polymorph
-Water Breathing
-Water Walk
-Wind Walk
+- [[alter-self|Alter Self]]
+- [[animal-shapes|Animal Shapes]]
+- [[animate-objects|Animate Objects]]
+- [[awaken|Awaken]]
+- [[barkskin|Barkskin]]
+- [[blindness-deafness|Blindness/Deafness]]
+- [[blink|Blink]]
+- [[control-water|Control Water]]
+- [[control-weather|Control Weather]]
+- [[create-or-destroy-water|Create or Destroy Water]]
+- [[darkvision|Darkvision]]
+- [[disintegrate|Disintegrate]]
+- [[divine-favor|Divine Favor]]
+- [[druidcraft|Druidcraft]]
+- [[earthquake|Earthquake]]
+- [[elementalism|Elementalism]]
+- [[enlarge-reduce|Enlarge/Reduce]]
+- [[etherealness|Etherealness]]
+- [[expeditious-retreat|Expeditious Retreat]]
+- [[fabricate|Fabricate]]
+- [[feather-fall|Feather Fall]]
+- [[flesh-to-stone|Flesh to Stone]]
+- [[fly|Fly]]
+- [[gaseous-form|Gaseous Form]]
+- [[giant-insect|Giant Insect]]
+- [[glibness|Glibness]]
+- [[haste|Haste]]
+- [[heat-metal|Heat Metal]]
+- [[jump|Jump]]
+- [[knock|Knock]]
+- [[levitate|Levitate]]
+- [[longstrider|Longstrider]]
+- [[magic-weapon|Magic Weapon]]
+- [[meld-into-stone|Meld into Stone]]
+- [[mending|Mending]]
+- [[message|Message]]
+- [[move-earth|Move Earth]]
+- [[passwall|Passwall]]
+- [[plant-growth|Plant Growth]]
+- [[polymorph|Polymorph]]
+- [[prestidigitation|Prestidigitation]]
+- [[purify-food-and-drink|Purify Food and Drink]]
+- [[regenerate|Regenerate]]
+- [[reincarnate|Reincarnate]]
+- [[reverse-gravity|Reverse Gravity]]
+- [[rope-trick|Rope Trick]]
+- [[sequester|Sequester]]
+- [[shapechange|Shapechange]]
+- [[shillelagh|Shillelagh]]
+- [[slow|Slow]]
+- [[speak-with-plants|Speak with Plants]]
+- [[spider-climb|Spider Climb]]
+- [[spike-growth|Spike Growth]]
+- [[stone-shape|Stone Shape]]
+- [[stoneskin|Stoneskin]]
+- [[swift-quiver|Swift Quiver]]
+- [[telekinesis|Telekinesis]]
+- [[thaumaturgy|Thaumaturgy]]
+- [[thorn-whip|Thorn Whip]]
+- [[time-stop|Time Stop]]
+- [[true-polymorph|True Polymorph]]
+- [[water-breathing|Water Breathing]]
+- [[water-walk|Water Walk]]
+- [[wind-walk|Wind Walk]]

@@ -1,6 +1,6 @@
 ---
 title: Travel
-layout: libdoc_page.liquid
+
 permalink: mechanics/travel/index.html
 date: false
 tags:

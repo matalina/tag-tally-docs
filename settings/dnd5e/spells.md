@@ -1,12 +1,12 @@
 ---
 title: 5e Spells
-layout: libdoc_page.liquid
+
 permalink: settings/dnd5e/spells/index.html
 date: false
 tags:
  - 5e
  - spells
- - settings
+ 
 eleventyNavigation:
   key: 5e Spells
   parent: DnD 5e
@@ -15,7 +15,8 @@ eleventyNavigation:
 
 ## Spell List Alphabetically
 
-{% sentence 'Spell', '[Name] is a [descriptor] [base] [aspect] [type] [artifact] that targets [LEVEL] [things] and [does something].', 'spell' %}
+> [!abstract] Spell
+> **Name** is a \[descriptor\] \[base\] \[aspect\] \[type\] \[artifact\] that targets \[LEVEL\] \[things\] and \[does something\].
 
  [A](a) | [B](b) | [C](c) | [D](d) | [E](e) | [F](f) | [G](g) | [H](h) | [I](i) | [J](j) | [K](k) | [L](l) | [M](m) | [N](n) | [P](p) | [R](r) | [S](s) | [T](t) | [U](u) | [V](v) | [W](w) | [Z](z)
 

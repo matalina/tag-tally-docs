@@ -1,10 +1,12 @@
 ---
 title: Arcane Eye
-layout: libdoc_page.liquid
+
+permalink: settings/dnd5e/spells/a/arcane-eye/index.html
+
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
 **Arcane Eye** is a [Basic] [Order] [Illusion] [Control] [Somatic] that [creates 1 invisible, floating eye to spy with]. (Tier 2)

@@ -1,10 +1,12 @@
 ---
 title: Divination
-layout: libdoc_page.liquid
+
+permalink: settings/dnd5e/spells/d/divination/index.html
+
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
 **Divination** is a [basic] [Order] [Time] [Control] [Ritual] that [receives cryptic advice about a course of action]. (Tier 2)

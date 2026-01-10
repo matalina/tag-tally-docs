@@ -1,10 +1,12 @@
 ---
 title: Disintegrate
-layout: libdoc_page.liquid
+
+permalink: settings/dnd5e/spells/d/disintegrate/index.html
+
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
 **Disintegrate** is a [complex] [Chaos] [Void] [Damage] [Somatic] that [targets 1 thing] and [reduces it to dust]. (Tier 2)

@@ -1,10 +1,12 @@
 ---
 title: Cloudkill
-layout: libdoc_page.liquid
+
+permalink: settings/dnd5e/spells/c/cloudkill/index.html
+
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
 **Cloudkill** is a [complex] [Chaos] [Air] [Damage] [Somatic] that [creates a poisonous cloud with a short distance radius]. (Tier 3)

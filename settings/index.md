@@ -1,6 +1,6 @@
 ---
 title: Settings
-layout: libdoc_page.liquid
+
 permalink: settings/index.html
 date: false
 eleventyNavigation:

@@ -1,6 +1,6 @@
 ---
 title: How to Play
-layout: libdoc_page.liquid
+
 permalink: guides/how-to-play/index.html
 date: false
 tags:
@@ -53,7 +53,8 @@ _The characters are the heart of the story._
 
 ### Character Sentence
 
-{% sentence 'Character', '[Name] is a [descriptor] [species] [type] who [specializes in]', 'character' %}
+> [!abstract] Character
+> **Name** is a \[descriptor\] \[species\] \[type\] who \[specializes in\]
 
 This sentence defines the characters at a high grain detail.
 

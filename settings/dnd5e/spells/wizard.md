@@ -1,225 +1,222 @@
 ---
 title: 5e Spells - Wizard
-layout: libdoc_page.liquid
+
 permalink: settings/dnd5e/spells/wizard/index.html
 date: false
 tags:
 - 5e
 - spells
-- settings
+
 ---
 
-Acid Arrow
-Arcane Eye
-Arcane Lock
-Acid Arrow
-Acid Splash
-Alarm
-Alter Self
-Animate Dead
-Animate Objects
-Antimagic Field
-Antipathy/Sympathy
-Arcane Eye
-Arcane Gate
-Arcane Lock
-Arcane Vigor
-Astral Projection
-Augury
-Banishment
-Befuddlement
-Bestow Curse
-Bigby’s Hand
-Blade Ward
-Blight
-Blindness/Deafness
-Blink
-Blur
-Burning Hands
-Chain Lightning
-Charm Monster
-Charm Person
-Chill Touch
-Circle of Death
-Clairvoyance
-Color Spray
-Comprehend Languages
-Cone of Cold
-Confusion
-Contingency
-Continual Flame
-Control Water
-Control Weather
-Create Undead
-Creation
-Counterspell
-Dancing Lights
-Darkness
-Darkvision
-Daylight
-Delayed Blast Fireball
-Demiplane
-Detect Magic
-Detect Thoughts
-Dimension Door
-Disguise Self
-Disintegrate
-Divination
-Dominate Monster
-Dominate Person
-Dream
-Druidcraft
-Earthquake
-Elementalism
-Eldritch Blast
-Enlarge/Reduce
-Etherealness
-Expeditious Retreat
-Eyebite
-Fabricate
-False Life
-Fear
-Feather Fall
-Finger of Death
-Fire Bolt
-Fire Shield
-Fire Storm
-Fireball
-Flame Blade
-Flame Strike
-Flaming Sphere
-Flesh to Stone
-Fly
-Fog Cloud
-Foresight
-Friends
-Gaseous Form
-Gate
-Geas
-Gentle Repose
-Globe of Invulnerability
-Glyph of Warding
-Greater Invisibility
-Grease
-Guards and Wards
-Guidance
-Gust of Wind
-Hallucinatory Terrain
-Haste
-Hold Monster
-Hold Person
-Hypnotic Pattern
-Identify
-Illusory Script
-Imprisonment
-Incendiary Cloud
-Invisibility
-Jump
-Knock
-Legend Lore
-Leomund's Tiny Hut
-Levitate
-Light
-Lightning Bolt
-Locate Creature
-Locate Object
-Longstrider
-Mage Armor
-Mage Hand
-Magic Circle
-Magic Jar
-Magic Missile
-Magic Mouth
-Magic Weapon
-Major Image
-Mass Suggestion
-Maze
-Meld into Stone
-Mending
-Message
-Meteor Swarm
-Mind Blank
-Mind Sliver
-Minor Illusion
-Mirage Arcane
-Mirror Image
-Mislead
-Misty Step
-Move Earth
-Nondetection
-Passwall
-Phantasmal Force
-Phantasmal Killer
-Phantom Steed
-Planar Binding
-Plane Shift
-Plant Growth
-Poison Spray
-Polymorph
-Power Word Heal
-Power Word Kill
-Power Word Stun
-Prismatic Spray
-Prismatic Wall
-Prestidigitation
-Programmed Illusion
-Project Image
-Protection from Energy
-Protection from Evil and Good
-Raise Dead
-Ray of Enfeeblement
-Ray of Frost
-Ray of Sickness
-Remove Curse
-Resilient Sphere
-Resurrection
-Reverse Gravity
-Rope Trick
-Scrying
-Seeming
-Sequester
-Shatter
-Shield
-Shocking Grasp
-Silence
-Silent Image
-Simulacrum
-Sleep
-Sleet Storm
-Slow
-Spare the Dying
-Speak with Animals
-Speak with Dead
-Speak with Plants
-Spider Climb
-Spike Growth
-Starry Wisp
-Stinking Cloud
-Stone Shape
-Stoneskin
-Storm of Vengeance
-Sunbeam
-Sunburst
-Symbol
-Telekinesis
-Telepathy
-Teleport
-Teleportation Circle
-Thorn Whip
-Thunderclap
-Thunderwave
-Time Stop
-Toll the Dead
-Tongues
-True Polymorph
-True Seeing
-True Strike
-Unseen Servant
-Vampiric Touch
-Wall of Fire
-Wall of Force
-Wall of Ice
-Wall of Stone
-Water Breathing
-Weird
-Wish
+- [[acid-arrow|Acid Arrow]]
+- [[acid-splash|Acid Splash]]
+- [[alarm|Alarm]]
+- [[alter-self|Alter Self]]
+- [[animate-dead|Animate Dead]]
+- [[animate-objects|Animate Objects]]
+- [[antimagic-field|Antimagic Field]]
+- [[antipathy-sympathy|Antipathy/Sympathy]]
+- [[arcane-eye|Arcane Eye]]
+- [[arcane-gate|Arcane Gate]]
+- [[arcane-lock|Arcane Lock]]
+- [[arcane-vigor|Arcane Vigor]]
+- [[astral-projection|Astral Projection]]
+- [[augury|Augury]]
+- [[banishment|Banishment]]
+- [[befuddlement|Befuddlement]]
+- [[bestow-curse|Bestow Curse]]
+- [[bigbys-hand|Bigby's Hand]]
+- [[blade-ward|Blade Ward]]
+- [[blight|Blight]]
+- [[blindness-deafness|Blindness/Deafness]]
+- [[blink|Blink]]
+- [[blur|Blur]]
+- [[burning-hands|Burning Hands]]
+- [[chain-lightning|Chain Lightning]]
+- [[charm-monster|Charm Monster]]
+- [[charm-person|Charm Person]]
+- [[chill-touch|Chill Touch]]
+- [[circle-of-death|Circle of Death]]
+- [[clairvoyance|Clairvoyance]]
+- [[color-spray|Color Spray]]
+- [[comprehend-languages|Comprehend Languages]]
+- [[cone-of-cold|Cone of Cold]]
+- [[confusion|Confusion]]
+- [[contingency|Contingency]]
+- [[continual-flame|Continual Flame]]
+- [[control-water|Control Water]]
+- [[control-weather|Control Weather]]
+- [[counterspell|Counterspell]]
+- [[create-undead|Create Undead]]
+- [[creation|Creation]]
+- [[dancing-lights|Dancing Lights]]
+- [[darkness|Darkness]]
+- [[darkvision|Darkvision]]
+- [[daylight|Daylight]]
+- [[delayed-blast-fireball|Delayed Blast Fireball]]
+- [[demiplane|Demiplane]]
+- [[detect-magic|Detect Magic]]
+- [[detect-thoughts|Detect Thoughts]]
+- [[dimension-door|Dimension Door]]
+- [[disguise-self|Disguise Self]]
+- [[disintegrate|Disintegrate]]
+- [[divination|Divination]]
+- [[dominate-monster|Dominate Monster]]
+- [[dominate-person|Dominate Person]]
+- [[dream|Dream]]
+- [[druidcraft|Druidcraft]]
+- [[earthquake|Earthquake]]
+- [[elementalism|Elementalism]]
+- [[eldritch-blast|Eldritch Blast]]
+- [[enlarge-reduce|Enlarge/Reduce]]
+- [[etherealness|Etherealness]]
+- [[expeditious-retreat|Expeditious Retreat]]
+- [[eyebite|Eyebite]]
+- [[fabricate|Fabricate]]
+- [[false-life|False Life]]
+- [[fear|Fear]]
+- [[feather-fall|Feather Fall]]
+- [[finger-of-death|Finger of Death]]
+- [[fire-bolt|Fire Bolt]]
+- [[fire-shield|Fire Shield]]
+- [[fire-storm|Fire Storm]]
+- [[fireball|Fireball]]
+- [[flame-blade|Flame Blade]]
+- [[flame-strike|Flame Strike]]
+- [[flaming-sphere|Flaming Sphere]]
+- [[flesh-to-stone|Flesh to Stone]]
+- [[fly|Fly]]
+- [[fog-cloud|Fog Cloud]]
+- [[foresight|Foresight]]
+- [[friends|Friends]]
+- [[gaseous-form|Gaseous Form]]
+- [[gate|Gate]]
+- [[geas|Geas]]
+- [[gentle-repose|Gentle Repose]]
+- [[globe-of-invulnerability|Globe of Invulnerability]]
+- [[glyph-of-warding|Glyph of Warding]]
+- [[greater-invisibility|Greater Invisibility]]
+- [[grease|Grease]]
+- [[guards-and-wards|Guards and Wards]]
+- [[guidance|Guidance]]
+- [[gust-of-wind|Gust of Wind]]
+- [[hallucinatory-terrain|Hallucinatory Terrain]]
+- [[haste|Haste]]
+- [[hold-monster|Hold Monster]]
+- [[hold-person|Hold Person]]
+- [[hypnotic-pattern|Hypnotic Pattern]]
+- [[identify|Identify]]
+- [[illusory-script|Illusory Script]]
+- [[imprisonment|Imprisonment]]
+- [[incendiary-cloud|Incendiary Cloud]]
+- [[invisibility|Invisibility]]
+- [[jump|Jump]]
+- [[knock|Knock]]
+- [[legend-lore|Legend Lore]]
+- [[leomunds-tiny-hut|Leomund's Tiny Hut]]
+- [[levitate|Levitate]]
+- [[light|Light]]
+- [[lightning-bolt|Lightning Bolt]]
+- [[locate-creature|Locate Creature]]
+- [[locate-object|Locate Object]]
+- [[longstrider|Longstrider]]
+- [[mage-armor|Mage Armor]]
+- [[mage-hand|Mage Hand]]
+- [[magic-circle|Magic Circle]]
+- [[magic-jar|Magic Jar]]
+- [[magic-missile|Magic Missile]]
+- [[magic-mouth|Magic Mouth]]
+- [[magic-weapon|Magic Weapon]]
+- [[major-image|Major Image]]
+- [[mass-suggestion|Mass Suggestion]]
+- [[maze|Maze]]
+- [[meld-into-stone|Meld into Stone]]
+- [[mending|Mending]]
+- [[message|Message]]
+- [[meteor-swarm|Meteor Swarm]]
+- [[mind-blank|Mind Blank]]
+- [[mind-sliver|Mind Sliver]]
+- [[minor-illusion|Minor Illusion]]
+- [[mirage-arcane|Mirage Arcane]]
+- [[mirror-image|Mirror Image]]
+- [[mislead|Mislead]]
+- [[misty-step|Misty Step]]
+- [[move-earth|Move Earth]]
+- [[nondetection|Nondetection]]
+- [[passwall|Passwall]]
+- [[phantasmal-force|Phantasmal Force]]
+- [[phantasmal-killer|Phantasmal Killer]]
+- [[phantom-steed|Phantom Steed]]
+- [[planar-binding|Planar Binding]]
+- [[plane-shift|Plane Shift]]
+- [[plant-growth|Plant Growth]]
+- [[poison-spray|Poison Spray]]
+- [[polymorph|Polymorph]]
+- [[power-word-heal|Power Word Heal]]
+- [[power-word-kill|Power Word Kill]]
+- [[power-word-stun|Power Word Stun]]
+- [[prismatic-spray|Prismatic Spray]]
+- [[prismatic-wall|Prismatic Wall]]
+- [[prestidigitation|Prestidigitation]]
+- [[programmed-illusion|Programmed Illusion]]
+- [[project-image|Project Image]]
+- [[protection-from-energy|Protection from Energy]]
+- [[protection-from-evil-and-good|Protection from Evil and Good]]
+- [[raise-dead|Raise Dead]]
+- [[ray-of-enfeeblement|Ray of Enfeeblement]]
+- [[ray-of-frost|Ray of Frost]]
+- [[ray-of-sickness|Ray of Sickness]]
+- [[remove-curse|Remove Curse]]
+- [[resilient-sphere|Resilient Sphere]]
+- [[resurrection|Resurrection]]
+- [[reverse-gravity|Reverse Gravity]]
+- [[rope-trick|Rope Trick]]
+- [[scrying|Scrying]]
+- [[seeming|Seeming]]
+- [[sequester|Sequester]]
+- [[shatter|Shatter]]
+- [[shield|Shield]]
+- [[shocking-grasp|Shocking Grasp]]
+- [[silence|Silence]]
+- [[silent-image|Silent Image]]
+- [[simulacrum|Simulacrum]]
+- [[sleep|Sleep]]
+- [[sleet-storm|Sleet Storm]]
+- [[slow|Slow]]
+- [[spare-the-dying|Spare the Dying]]
+- [[speak-with-animals|Speak with Animals]]
+- [[speak-with-dead|Speak with Dead]]
+- [[speak-with-plants|Speak with Plants]]
+- [[spider-climb|Spider Climb]]
+- [[spike-growth|Spike Growth]]
+- [[starry-wisp|Starry Wisp]]
+- [[stinking-cloud|Stinking Cloud]]
+- [[stone-shape|Stone Shape]]
+- [[stoneskin|Stoneskin]]
+- [[storm-of-vengeance|Storm of Vengeance]]
+- [[sunbeam|Sunbeam]]
+- [[sunburst|Sunburst]]
+- [[symbol|Symbol]]
+- [[telekinesis|Telekinesis]]
+- [[telepathy|Telepathy]]
+- [[teleport|Teleport]]
+- [[teleportation-circle|Teleportation Circle]]
+- [[thorn-whip|Thorn Whip]]
+- [[thunderclap|Thunderclap]]
+- [[thunderwave|Thunderwave]]
+- [[time-stop|Time Stop]]
+- [[toll-the-dead|Toll the Dead]]
+- [[tongues|Tongues]]
+- [[true-polymorph|True Polymorph]]
+- [[true-seeing|True Seeing]]
+- [[true-strike|True Strike]]
+- [[unseen-servant|Unseen Servant]]
+- [[vampiric-touch|Vampiric Touch]]
+- [[wall-of-fire|Wall of Fire]]
+- [[wall-of-force|Wall of Force]]
+- [[wall-of-ice|Wall of Ice]]
+- [[wall-of-stone|Wall of Stone]]
+- [[water-breathing|Water Breathing]]
+- [[weird|Weird]]
+- [[wish|Wish]]

@@ -1,6 +1,6 @@
 ---
 title: NPC Interactions
-layout: libdoc_page.liquid
+
 permalink: mechanics/npc-interactions/index.html
 date: false
 tags:

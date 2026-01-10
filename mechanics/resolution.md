@@ -1,6 +1,6 @@
 ---
 title: Resolution
-layout: libdoc_page.liquid
+
 permalink: mechanics/resolution/index.html
 date: false
 tags:

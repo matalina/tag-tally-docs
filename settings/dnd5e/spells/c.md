@@ -1,48 +1,48 @@
 ---
 title: 5e [Spells] - C
-layout: libdoc_page.liquid
+
 permalink: settings/dnd5e/spells/c/index.html
 date: false
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
-- [Call Lightning](call-lightning)
-- [Calm Emotions](calm-emotions)
-- [Chain Lightning](chain-lightning)
-- [Charm Monster](charm-monster)
-- [Charm Person](charm-person)
-- [Chill Touch](chill-touch)
-- [Chromatic Orb](chromatic-orb)
-- [Circle of Death](circle-of-death)
-- [Clairvoyance](clairvoyance)
-- [Clone](clone)
-- [Cloudkill](cloudkill)
-- [Color Spray](color-spray)
-- [Command](command)
-- [Commune](commune)
-- [Commune with Nature](commune-with-nature)
-- [Comprehend Languages](comprehend-languages)
-- [Compulsion](compulsion)
-- [Cone of Cold](cone-of-cold)
-- [Confusion](confusion)
-- [Conjure Animals](conjure-animals)
-- [Conjure Celestial](conjure-celestial)
-- [Conjure Elemental](conjure-elemental)
-- [Conjure Fey](conjure-fey)
-- [Conjure Minor Elementals](conjure-minor-elementals)
-- [Conjure Woodland Beings](conjure-woodland-beings)
-- [Contact Other Plane](contact-other-plane)
-- [Contagion](contagion)
-- [Contingency](contingency)
-- [Continual Flame](continual-flame)
-- [Control Water](control-water)
-- [Control Weather](control-weather)
-- [Counterspell](counterspell)
-- [Create Food and Water](create-food-and-water)
-- [Create or Destroy Water](create-or-destroy-water)
-- [Create Undead](create-undead)
-- [Creation](creation)
-- [Cure Wounds](cure-wounds)
+- [[call-lightning|Call Lightning]]
+- [[calm-emotions|Calm Emotions]]
+- [[chain-lightning|Chain Lightning]]
+- [[charm-monster|Charm Monster]]
+- [[charm-person|Charm Person]]
+- [[chill-touch|Chill Touch]]
+- [[chromatic-orb|Chromatic Orb]]
+- [[circle-of-death|Circle of Death]]
+- [[clairvoyance|Clairvoyance]]
+- [[clone|Clone]]
+- [[cloudkill|Cloudkill]]
+- [[color-spray|Color Spray]]
+- [[command|Command]]
+- [[commune|Commune]]
+- [[commune-with-nature|Commune with Nature]]
+- [[comprehend-languages|Comprehend Languages]]
+- [[compulsion|Compulsion]]
+- [[cone-of-cold|Cone of Cold]]
+- [[confusion|Confusion]]
+- [[conjure-animals|Conjure Animals]]
+- [[conjure-celestial|Conjure Celestial]]
+- [[conjure-elemental|Conjure Elemental]]
+- [[conjure-fey|Conjure Fey]]
+- [[conjure-minor-elementals|Conjure Minor Elementals]]
+- [[conjure-woodland-beings|Conjure Woodland Beings]]
+- [[contact-other-plane|Contact Other Plane]]
+- [[contagion|Contagion]]
+- [[contingency|Contingency]]
+- [[continual-flame|Continual Flame]]
+- [[control-water|Control Water]]
+- [[control-weather|Control Weather]]
+- [[counterspell|Counterspell]]
+- [[create-food-and-water|Create Food and Water]]
+- [[create-or-destroy-water|Create or Destroy Water]]
+- [[create-undead|Create Undead]]
+- [[creation|Creation]]
+- [[cure-wounds|Cure Wounds]]

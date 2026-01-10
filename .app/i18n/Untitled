@@ -1,0 +1,2 @@
+import faviconsPlugin from "eleventy-plugin-gen-favicons";
+import pluginPWA from "eleventy-plugin-pwa-v2";

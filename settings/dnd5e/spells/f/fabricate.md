@@ -1,10 +1,12 @@
 ---
 title: Fabricate
-layout: libdoc_page.liquid
+
+permalink: settings/dnd5e/spells/f/fabricate/index.html
+
 tags:
   - 5e
   - spells
-  - settings
+  
 ---
 
 **Fabricate** is a [complex] [Order] [Earth] [Control] [Somatic] that [transforms raw materials into 1 finished goods].  (Tier 1)
