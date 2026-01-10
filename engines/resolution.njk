@@ -1,0 +1,225 @@
+---
+title: Resolution Engine
+layout: "core/base.layout.njk"
+permalink: engines/resolution/index.html
+date: false
+panel: false
+eleventyNavigation:
+  key: Resolution Engine
+  parent: Engines
+  title: Resolution Engine
+---
+
+<div class="page">
+  <main class="page__main" id="app-content">
+    <h1 class="page__title">Resolution Engine</h1>
+    <div class="article">
+
+<div x-data="resolutionEngine()" class="resolution-engine">
+  <form @submit.prevent="roll(); return false;" class="resolution-engine__form">
+    <div class="resolution-engine__field">
+      <input
+        type="text"
+        id="question"
+        x-model="question"
+        placeholder="What are you trying to do?"
+        class="resolution-engine__input"
+      />
+    </div>
+
+    <div class="resolution-engine__controls">
+      <select id="resolution-type" x-model="resolutionType" class="resolution-engine__select">
+        <option value="basic">Task</option>
+        <option value="oracle">Oracle</option>
+        <option value="spellcasting">Spellcasting</option>
+        <option value="attack">Attack</option>
+        <option value="defense">Defense</option>
+        <option value="npc-interactions">NPC Interactions</option>
+        <option value="debt-collectors">Debt Collectors</option>
+        <option value="harvesting">Harvesting</option>
+        <option value="crafting">Crafting</option>
+        <option value="augmentation">Augmentation</option>
+        <option value="salvaging">Salvaging</option>
+        <option value="navigation">Navigation</option>
+        <option value="secrets">Secrets</option>
+      </select>
+
+      <select id="level" x-model.number="level" x-show="!showOracleOptions" class="resolution-engine__select">
+        <option value="0">0 - Routine</option>
+        <option value="1">1 - Simple</option>
+        <option value="2">2 - Standard</option>
+        <option value="3">3 - Demanding</option>
+        <option value="4">4 - Difficult</option>
+        <option value="5" selected>5 - Challenging</option>
+        <option value="6">6 - Intimidating</option>
+        <option value="7">7 - Formidable</option>
+        <option value="8">8 - Heroic</option>
+        <option value="9">9 - Immortal</option>
+        <option value="10">10 - Impossible</option>
+      </select>
+
+      <select id="oracle-likelihood" x-model="oracleLikelihood" x-show="showOracleOptions" class="resolution-engine__select">
+        <option value="less">Less likely</option>
+        <option value="50/50" selected>50/50</option>
+        <option value="more">More likely</option>
+      </select>
+    </div>
+
+    <button type="button" class="resolution-engine__button" @click="roll()">Roll</button>
+  </form>
+
+  <div x-show="result !== null" class="resolution-engine__result" x-cloak>
+    <div class="resolution-engine__output-wrapper">
+      <div class="resolution-engine__output">
+        <pre x-text="result?.formatted || ''"></pre>
+      </div>
+      <button
+        @click="copyResult()"
+        class="resolution-engine__copy-button"
+        :data-copied="copied"
+        :aria-label="copied ? 'Copied!' : 'Copy to clipboard'"
+      >
+        <span x-show="!copied">{{ 'copy' | icon | safe }}</span>
+        <span x-show="copied">{{ 'check' | icon | safe }}</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+<style>
+.resolution-engine {
+  max-width: 800px;
+  margin: 2rem auto;
+}
+
+.resolution-engine__form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: var(--color-neutral-bg-subtle);
+  border-radius: var(--rounded-md);
+}
+
+.resolution-engine__field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.resolution-engine__field label {
+  font-weight: 600;
+  color: var(--color-neutral-text);
+}
+
+.resolution-engine__controls {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: nowrap;
+}
+
+.resolution-engine__input,
+.resolution-engine__select {
+  padding: 0.75rem;
+  border: 1px solid var(--color-neutral-border);
+  border-radius: var(--rounded-sm);
+  background: var(--color-neutral-bg);
+  color: var(--color-neutral-text);
+  font-size: 1rem;
+}
+
+.resolution-engine__select {
+  flex: 1;
+  min-width: 0;
+}
+
+.resolution-engine__input:focus,
+.resolution-engine__select:focus {
+  outline: 2px solid var(--color-primary-border);
+  outline-offset: 2px;
+}
+
+.resolution-engine__button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: var(--color-primary-bg-solid, #0066cc);
+  color: var(--color-primary-text, #ffffff);
+  border: 1px solid var(--color-primary-border, #0052a3);
+  border-radius: var(--rounded-md, 4px);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-align: center;
+}
+
+.resolution-engine__button:hover {
+  background: var(--color-primary-bg-solid-hover);
+  border-color: var(--color-primary-border-hover);
+}
+
+.resolution-engine__button:active {
+  background: var(--color-primary-bg-active);
+}
+
+.resolution-engine__result {
+  padding: 1.5rem;
+  background: var(--color-neutral-bg-subtle);
+  border-radius: var(--rounded-md);
+  border: 1px solid var(--color-neutral-border);
+}
+
+.resolution-engine__output-wrapper {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-end;
+}
+
+.resolution-engine__output {
+  flex: 1;
+}
+
+.resolution-engine__output pre {
+  margin: 0;
+  padding: 1rem;
+  background: var(--color-neutral-bg);
+  border-radius: var(--rounded-sm);
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  color: var(--color-neutral-text);
+}
+
+.resolution-engine__copy-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+  background: var(--color-neutral-bg);
+  color: var(--color-neutral-text);
+  border: 1px solid var(--color-neutral-border);
+  border-radius: var(--rounded-sm);
+  cursor: pointer;
+  transition: all 0.2s;
+  flex-shrink: 0;
+  width: 2rem;
+  height: 2rem;
+}
+
+.resolution-engine__copy-button:hover {
+  background: var(--color-neutral-bg-hover);
+}
+
+.resolution-engine__copy-button[data-copied="true"] {
+  background: var(--color-success-bg);
+  color: var(--color-success-text);
+  border-color: var(--color-success-border);
+}
+</style>
+    </div>
+  </main>
+</div>
+

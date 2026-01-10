@@ -1,13 +1,11 @@
-<div class="hide-xl">
-  <button
-    class="icon-btn"
-    :aria-expanded="$store.nav.open"
-    @click="$store.nav.toggle()"
-    x-cloak
-    lang="{% uiLang %}"
-  >
-    <span x-show="!$store.nav.open">{{ 'menu' | icon | safe }}</span>
-    <span x-show="$store.nav.open">{{ 'x' | icon | safe }}</span>
-    <span class="visually-hidden">{{ 'nav_toggle.label' | t }}</span>
-  </button>
-</div>
+<button
+  class="icon-btn nav-toggle"
+  x-data
+  :aria-expanded="$store.nav.open"
+  @click="$store.nav.toggle()"
+  lang="{% uiLang %}"
+>
+  <span class="nav-toggle__menu" x-show="!$store.nav.open">{{ 'menu' | icon | safe }}</span>
+  <span class="nav-toggle__close" x-show="$store.nav.open">{{ 'x' | icon | safe }}</span>
+  <span class="visually-hidden">{{ 'nav_toggle.label' | t }}</span>
+</button>

@@ -48,6 +48,13 @@ export default defineConfig({
             }),
           },
           {
+            label: "Engines",
+            expanded: false,
+            query: createNotesQuery({
+              pattern: "/engines/",
+            }),
+          },
+          {
             label: "Settings",
             expanded: false,
             query: createNotesQuery({

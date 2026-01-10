@@ -55,3 +55,9 @@
   inline-size: 500px;
   max-inline-size: 45%;
 }
+
+.nav-toggle {
+  .nav-toggle__close {
+    display: none;
+  }
+}

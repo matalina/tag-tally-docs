@@ -3,6 +3,11 @@
 .app-layout__sidebar {
   background-color: var(--color-backdrop);
   z-index: 2;
+  display: none;
+
+  &[data-open="true"] {
+    display: block;
+  }
 
   &[data-open="false"] {
     display: none;
@@ -37,9 +42,18 @@
 
   .app-layout__sidebar {
     block-size: calc(100vh - 4rem);
-    display: block !important;
     position: sticky !important;
     inset: 4rem 0 0;
+
+    // Always respect data-open state, even at xl breakpoint
+    &[data-open="false"] {
+      display: none !important;
+    }
+
+    // Only show as block if explicitly open
+    &[data-open="true"] {
+      display: block !important;
+    }
   }
 
   .app-layout__sidebar-inner {

@@ -13,6 +13,7 @@ import windowScrollBind from "../lib/shared/window-scroll.bind";
 import persistPlugin from "../lib/shared/persist.plugin";
 import copyToClipboardData from "../lib/shared/copy-to-clipboard.data";
 import tocData from "./../lib/modules/toc/toc.data";
+import resolutionEngineData from "../lib/modules/engines/resolution-engine.data";
 
 Alpine.plugin(persistPlugin);
 
@@ -28,5 +29,6 @@ scrollPositionData(Alpine);
 windowScrollBind(Alpine);
 copyToClipboardData(Alpine);
 tocData(Alpine);
+resolutionEngineData(Alpine);
 
 Alpine.start();
