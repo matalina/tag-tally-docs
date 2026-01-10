@@ -41,19 +41,10 @@
   }
 
   .app-layout__sidebar {
+    display: block !important;
     block-size: calc(100vh - 4rem);
     position: sticky !important;
     inset: 4rem 0 0;
-
-    // Always respect data-open state, even at xl breakpoint
-    &[data-open="false"] {
-      display: none !important;
-    }
-
-    // Only show as block if explicitly open
-    &[data-open="true"] {
-      display: block !important;
-    }
   }
 
   .app-layout__sidebar-inner {

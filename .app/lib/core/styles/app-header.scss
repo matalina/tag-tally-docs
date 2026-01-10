@@ -1,3 +1,5 @@
+@use "./../../../css/2-lib/breakpoints" as *;
+
 .app-header {
   block-size: 4rem;
   position: sticky;
@@ -56,8 +58,8 @@
   max-inline-size: 45%;
 }
 
-.nav-toggle {
-  .nav-toggle__close {
-    display: none;
+@include media-breakpoint-up("xl") {
+  .nav-toggle {
+    display: none !important;
   }
 }
