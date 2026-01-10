@@ -28,6 +28,9 @@
 }
 
 .app-header__title {
+  display: flex;
+  gap: var(--space-2);
+  align-items: center;
   margin-inline: var(--space-3) auto;
   outline-offset: var(--space-2);
   color: var(--color-neutral-text-contrast);
@@ -40,6 +43,10 @@
 
   &:hover {
     color: var(--color-primary-text);
+  }
+  .app-header__logo {
+    height: 50px;
+    width: 50px;
   }
 }
 

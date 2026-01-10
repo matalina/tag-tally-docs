@@ -99,10 +99,42 @@
     }
   }
 
+  // Scrollable table wrapper
+  // Make tables scroll horizontally when they overflow the container
   table {
     inline-size: 100%;
     border-block-start: 1px solid var(--color-neutral-border);
     border-collapse: collapse;
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    width: 100%;
+    max-width: 100%;
+
+    // Preserve table structure
+    thead,
+    tbody {
+      display: table;
+      width: 100%;
+      table-layout: auto;
+    }
+
+    thead {
+      display: table-header-group;
+    }
+
+    tbody {
+      display: table-row-group;
+    }
+
+    tr {
+      display: table-row;
+    }
+
+    td,
+    th {
+      display: table-cell;
+    }
   }
 
   table td,

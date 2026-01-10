@@ -25,7 +25,8 @@ export async function transformParser(content) {
     .toArray()
     .filter((img) => {
       const src = img.attribs.src;
-      return isRelative(src) && isImageFile(src);
+      // Skip absolute paths (starting with /) - these are handled by static assets passthrough
+      return isRelative(src) && isImageFile(src) && !src.startsWith("/");
     });
 
   if (!elements.length) return content;
