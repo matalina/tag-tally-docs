@@ -19,17 +19,10 @@ export default function (Alpine) {
     },
 
     get displayType() {
-      if (this.resolutionType === "basic") {
-        return "Task";
-      }
-      if (this.resolutionType === "attack") {
-        return "Attack";
-      }
-      if (this.resolutionType === "defense") {
-        return "Defense";
-      }
-      // Map other types to their display names
       const typeMap = {
+        "basic": "Task",
+        "attack": "Attack",
+        "defense": "Defense",
         "oracle": "Oracle",
         "spellcasting": "Spellcasting",
         "npc-interactions": "NPC Interactions",
